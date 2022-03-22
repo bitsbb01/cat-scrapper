@@ -4,7 +4,7 @@
         "channel": "BLUE SKY TV (Shkoder)",
         "link": "https://list.iptvcat.com/my_list/s/8585095c6c3c7810159ffba749fdbea3.m3u8",
         "country": "albania",
-        "liveliness": "67",
+        "liveliness": "65",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
@@ -18,7 +18,7 @@
         "channel": "SKY AKSION",
         "link": "https://list.iptvcat.com/my_list/s/50c107b16409552c8a9e9c91a86c0909.m3u8",
         "country": "albania",
-        "liveliness": "63",
+        "liveliness": "61",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
@@ -32,7 +32,7 @@
         "channel": "SKY DRAMA",
         "link": "https://list.iptvcat.com/my_list/s/9281a766d78356a7a519dc4451f61ff5.m3u8",
         "country": "albania",
-        "liveliness": "50",
+        "liveliness": "47",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
@@ -46,7 +46,7 @@
         "channel": "SKY HISTORY",
         "link": "https://list.iptvcat.com/my_list/s/94053c751d90eef5db751d682f8b8c1b.m3u8",
         "country": "albania",
-        "liveliness": "68",
+        "liveliness": "66",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
@@ -60,7 +60,7 @@
         "channel": "SKY KOMEDI",
         "link": "https://list.iptvcat.com/my_list/s/355b8bfd296a97967e5033a55f9043b6.m3u8",
         "country": "albania",
-        "liveliness": "56",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
@@ -74,7 +74,7 @@
         "channel": "SKY PLANET",
         "link": "https://list.iptvcat.com/my_list/s/254d3440cd1e1aedf34b4db10550ae29.m3u8",
         "country": "albania",
-        "liveliness": "67",
+        "liveliness": "65",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
@@ -88,7 +88,7 @@
         "channel": "SKY SHKENCE",
         "link": "https://list.iptvcat.com/my_list/s/e3f4f9f8313b2a2f2910492c22f28da1.m3u8",
         "country": "albania",
-        "liveliness": "65",
+        "liveliness": "61",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
@@ -98,12 +98,110 @@
         ]
     },
     {
+        "id": "2449400",
+        "channel": "Sky AL Max",
+        "link": "https://list.iptvcat.com/my_list/s/bbd7c1eabba77f4e3add9f2b58638367.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2449392",
+        "channel": "Sky Aksion",
+        "link": "https://list.iptvcat.com/my_list/s/b41a03e742e1bb8382f88894bcf128ab.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450765",
+        "channel": "Sky Aksions",
+        "link": "https://list.iptvcat.com/my_list/s/668e648aa2383d1364ba8a892639e4ef.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2449408",
+        "channel": "Sky Comedy",
+        "link": "https://list.iptvcat.com/my_list/s/f450929b0caad7fdb15af7ed1ed2332c.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450766",
+        "channel": "Sky Histori",
+        "link": "https://list.iptvcat.com/my_list/s/f5194e3b6b87da6d8ff0d592d9f92842.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2438379",
         "channel": "Sky Komedi",
         "link": "https://list.iptvcat.com/my_list/s/3e46332d2451dde22376347eff43e3d9.m3u8",
         "country": "albania",
-        "liveliness": "65",
+        "liveliness": "61",
         "status": "offline",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2449419",
+        "channel": "Sky Komedi",
+        "link": "https://list.iptvcat.com/my_list/s/a60d7c606fe5f7d89693437a32f1b2db.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450767",
+        "channel": "Sky Komedi",
+        "link": "https://list.iptvcat.com/my_list/s/5d4300f95719b3904ac3f4a5ea12e73c.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -116,7 +214,7 @@
         "channel": "Sky Max",
         "link": "https://list.iptvcat.com/my_list/s/46a17698ea3fa82c0fbdb33dad36ab4d.m3u8",
         "country": "albania",
-        "liveliness": "66",
+        "liveliness": "64",
         "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
@@ -126,11 +224,39 @@
         ]
     },
     {
+        "id": "2450768",
+        "channel": "Sky Max",
+        "link": "https://list.iptvcat.com/my_list/s/7d3c55f60f68d386138f0faae7ce329e.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450769",
+        "channel": "Sky Shkence",
+        "link": "https://list.iptvcat.com/my_list/s/afcfe0c48d7b224da4cfce523183092d.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2374272",
         "channel": "TV Blu Sky",
         "link": "https://list.iptvcat.com/my_list/s/0323b5234e6c2d8d9deae3261e5f7790.m3u8",
         "country": "albania",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
@@ -140,12 +266,54 @@
         ]
     },
     {
+        "id": "2450789",
+        "channel": "Fox Movies",
+        "link": "https://list.iptvcat.com/my_list/s/978970b0e2c1a6a0e78a7dc9737fcd5b.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2438386",
         "channel": "STAR PLUS HD",
         "link": "https://list.iptvcat.com/my_list/s/f8b950b73ad30ec8d83f768343ad88f9.m3u8",
         "country": "albania",
-        "liveliness": "66",
+        "liveliness": "62",
         "status": "offline",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2451519",
+        "channel": "Star Plus FHD",
+        "link": "https://list.iptvcat.com/my_list/s/26e8b48b124a9b0c2dce3371add3776e.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450714",
+        "channel": "Star Plus TV Albania",
+        "link": "https://list.iptvcat.com/my_list/s/76d6c4ca3049eb530f9216e30c69f09b.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -163,6 +331,90 @@
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450797",
+        "channel": "HBO 2 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/a55f6b3efd5ffc3ed154ada9ca3f5036.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450795",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/8b1eb0d45354854d4a04d65b14e0f45c.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2451885",
+        "channel": "HBO 3 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/a31af1e36343cfd124d527e1b87b75f8.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2450791",
+        "channel": "HBO FHD",
+        "link": "https://list.iptvcat.com/my_list/s/864c353bf60020bc9b59cc704b1df5fa.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2451947",
+        "channel": "Disney Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/52967e823d3a7524963c4b90f58abcbc.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2451946",
+        "channel": "Disney Junior HD",
+        "link": "https://list.iptvcat.com/my_list/s/2b148f71bd391dfc960059ca328630be.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]

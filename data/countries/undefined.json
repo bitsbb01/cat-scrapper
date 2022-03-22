@@ -8,7 +8,7 @@
         "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "8356",
         "URI": [
             "s"
         ]
@@ -89,7 +89,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4e778f6ad1659df6a5038e109dc3fcb7.m3u8",
         "country": "undefined",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
-        "mbps": "1704",
+        "mbps": "2331",
         "URI": [
             "s"
         ]
@@ -182,6 +182,20 @@
         ]
     },
     {
+        "id": "2376472",
+        "channel": "DSTV: M-Net Movies Action",
+        "link": "https://list.iptvcat.com/my_list/s/04b765f9c85e0f493980597885305e6d.m3u8",
+        "country": "undefined",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "997004",
         "channel": "HBO PREMIUM",
         "link": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
@@ -218,7 +232,7 @@
         "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
