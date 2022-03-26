@@ -8,7 +8,7 @@
         "status": "online",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "8378",
         "URI": [
             "s"
         ]
@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
         "liveliness": "72",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "1883",
         "URI": [
             "s"
         ]
@@ -130,7 +130,7 @@
         "channel": "DSTV: M-Net Movies 1",
         "link": "https://list.iptvcat.com/my_list/s/b07e87a4e24f292ec179bee61182b978.m3u8",
         "country": "undefined",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
@@ -172,7 +172,7 @@
         "channel": "DSTV: M-Net Movies 4",
         "link": "https://list.iptvcat.com/my_list/s/ccabcf3b2763226a8a36719b99456015.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
@@ -214,7 +214,7 @@
         "channel": "DSTV: eMovies",
         "link": "https://list.iptvcat.com/my_list/s/f99c78d70e1290833d8d20f12c2891b2.m3u8",
         "country": "undefined",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
@@ -228,7 +228,7 @@
         "channel": "DSTV: eMovies Extra",
         "link": "https://list.iptvcat.com/my_list/s/841ae39d65db10f1c64968fee41f5aca.m3u8",
         "country": "undefined",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
@@ -245,18 +245,32 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-03-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "1124, ...",
+        "format": "hd",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "1162474",
-        "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
-        "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
+        "id": "957664",
+        "channel": "FilmRise Free Movies",
+        "link": "https://list.iptvcat.com/my_list/s/32a5cba674590f4dc6fb57c21eb2398f.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1190, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200314",
+        "channel": "FilmRise Free Movies",
+        "link": "https://list.iptvcat.com/my_list/s/ff6f087c745188a28b8e0bbbf3dae9cb.m3u8",
+        "country": "undefined",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
@@ -280,11 +294,25 @@
         ]
     },
     {
+        "id": "1162474",
+        "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
+        "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
+        "country": "undefined",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-03-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2407891",
         "channel": "DSTV: Lifetime",
         "link": "https://list.iptvcat.com/my_list/s/2dce01fcdf6831c9b57dd81df9bde535.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
@@ -298,7 +326,7 @@
         "channel": "DSTV: Lifetime",
         "link": "https://list.iptvcat.com/my_list/s/2dce01fcdf6831c9b57dd81df9bde535.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
