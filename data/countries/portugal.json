@@ -4,9 +4,9 @@
         "channel": "AXN MOVIES FHD PT",
         "link": "https://list.iptvcat.com/my_list/s/6a4793af453c29848418ec831aab084b.m3u8",
         "country": "portugal",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -18,9 +18,9 @@
         "channel": "AXN MOVIES HD",
         "link": "https://list.iptvcat.com/my_list/s/1583ba3d091520cb64e3674b885b4d1f.m3u8",
         "country": "portugal",
-        "liveliness": "50",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -32,9 +32,9 @@
         "channel": "AXN Movies",
         "link": "https://list.iptvcat.com/my_list/s/dee7bc1a5eb795cd040f3bd0a9c65490.m3u8",
         "country": "portugal",
-        "liveliness": "67",
+        "liveliness": "60",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -46,9 +46,9 @@
         "channel": "AXN Movies FHD",
         "link": "https://list.iptvcat.com/my_list/s/9b7f68115bcf699b8e3f96acf3ffa416.m3u8",
         "country": "portugal",
-        "liveliness": "71",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -60,9 +60,9 @@
         "channel": "AXN Movies HD (H265)",
         "link": "https://list.iptvcat.com/my_list/s/0a74f57b690a349de5109df6110bf257.m3u8",
         "country": "portugal",
-        "liveliness": "71",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -74,11 +74,25 @@
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/8c86ca606dfd948d2070dfe09bf37dca.m3u8",
         "country": "portugal",
-        "liveliness": "25",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2454124",
+        "channel": "FOX MOVIES",
+        "link": "https://list.iptvcat.com/my_list/s/7ebbbc2318f9598efdd3bd6dc1008476.m3u8",
+        "country": "portugal",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-03-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -90,37 +104,9 @@
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2454124",
-        "channel": "FOX MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/7ebbbc2318f9598efdd3bd6dc1008476.m3u8",
-        "country": "portugal",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-03-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2457575",
-        "channel": "FOX MOVIES HD",
-        "link": "https://list.iptvcat.com/my_list/s/33bc2f137b1589f6e7881d983ffd4662.m3u8",
-        "country": "portugal",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
         "URI": [
             "s"
         ]
@@ -130,9 +116,9 @@
         "channel": "FOX MOVIES HD",
         "link": "https://list.iptvcat.com/my_list/s/4ee72e9b097b56c3c3516b14fc9a86f6.m3u8",
         "country": "portugal",
-        "liveliness": "50",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -140,15 +126,15 @@
         ]
     },
     {
-        "id": "2454812",
-        "channel": "FOX Movies",
-        "link": "https://list.iptvcat.com/my_list/s/9764b8ce5f6ea738f8f1de6b3351c230.m3u8",
+        "id": "2457575",
+        "channel": "FOX MOVIES HD",
+        "link": "https://list.iptvcat.com/my_list/s/33bc2f137b1589f6e7881d983ffd4662.m3u8",
         "country": "portugal",
-        "liveliness": "75",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "2883",
         "URI": [
             "s"
         ]
@@ -158,11 +144,25 @@
         "channel": "FOX Movies",
         "link": "https://list.iptvcat.com/my_list/s/ae524d10dcd7a228435ae9f541293170.m3u8",
         "country": "portugal",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "liveliness": "94",
+        "status": "offline",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2454812",
+        "channel": "FOX Movies",
+        "link": "https://list.iptvcat.com/my_list/s/9764b8ce5f6ea738f8f1de6b3351c230.m3u8",
+        "country": "portugal",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-03-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -172,9 +172,9 @@
         "channel": "FOX Movies FHD",
         "link": "https://list.iptvcat.com/my_list/s/9d98e25b3a216e81aa5e5cf6bfd5af87.m3u8",
         "country": "portugal",
-        "liveliness": "67",
+        "liveliness": "60",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -186,9 +186,9 @@
         "channel": "FOX Movies HD (H265)",
         "link": "https://list.iptvcat.com/my_list/s/e51f2061cbf2c381530005e45343fbf3.m3u8",
         "country": "portugal",
-        "liveliness": "63",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -200,9 +200,9 @@
         "channel": "Fox Movies",
         "link": "https://list.iptvcat.com/my_list/s/ac8e1dd1e2e5858c3c796eceec3d8024.m3u8",
         "country": "portugal",
-        "liveliness": "75",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -214,9 +214,9 @@
         "channel": "Fox Movies FHD",
         "link": "https://list.iptvcat.com/my_list/s/80effc15c1b6c77eec09c3be12d0d6bd.m3u8",
         "country": "portugal",
-        "liveliness": "75",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -228,9 +228,9 @@
         "channel": "Robot Movies 24H",
         "link": "https://list.iptvcat.com/my_list/s/153f1fc2f9cc7dbad309a92edc7a3e38.m3u8",
         "country": "portugal",
-        "liveliness": "67",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
         "URI": [
@@ -242,9 +242,9 @@
         "channel": "Star Wars 24H",
         "link": "https://list.iptvcat.com/my_list/s/543da758e9b4a506dc3d9f1de14a9c65.m3u8",
         "country": "portugal",
-        "liveliness": "70",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
         "mbps": "3064",
         "URI": [
@@ -256,9 +256,9 @@
         "channel": "HBO Portugal 24H",
         "link": "https://list.iptvcat.com/my_list/s/814ba983d0f83b7a4d643e1a1293d1e3.m3u8",
         "country": "portugal",
-        "liveliness": "63",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -270,9 +270,9 @@
         "channel": "Netflix 24H",
         "link": "https://list.iptvcat.com/my_list/s/09244dff9f04a4c0326ed4ff923cc46a.m3u8",
         "country": "portugal",
-        "liveliness": "63",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
         "mbps": "3485",
         "URI": [
@@ -284,9 +284,9 @@
         "channel": "Netflix Kids 24H",
         "link": "https://list.iptvcat.com/my_list/s/a248dbe761db194265d84e877a307e28.m3u8",
         "country": "portugal",
-        "liveliness": "60",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2022-03-25T00:00:00Z",
+        "lastChecked": "2022-03-26T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
         "URI": [
