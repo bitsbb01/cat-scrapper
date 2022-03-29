@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
         "liveliness": "72",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-29T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
@@ -105,8 +105,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-03-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "2331",
+        "format": "fhd 2k",
+        "mbps": "10677",
         "URI": [
             "s"
         ]
@@ -140,11 +140,39 @@
         ]
     },
     {
-        "id": "957077",
-        "channel": "Hallmark Movies \u0026 More",
-        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
+        "id": "2376471",
+        "channel": "DSTV: M-Net Movies Action+",
+        "link": "https://list.iptvcat.com/my_list/s/e0eef6b241f31068e7cd6a6736a03511.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-03-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957663",
+        "channel": "FilmRise : Free Movies, Filmrise free movies",
+        "link": "https://list.iptvcat.com/my_list/s/9cbad3596124c5b166879601833bf24c.m3u8",
+        "country": "undefined",
+        "liveliness": "87",
+        "status": "offline",
+        "lastChecked": "2022-03-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957664",
+        "channel": "FilmRise Free Movies",
+        "link": "https://list.iptvcat.com/my_list/s/32a5cba674590f4dc6fb57c21eb2398f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-03-29T00:00:00Z",
         "format": "hd",
@@ -159,6 +187,20 @@
         "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
         "country": "undefined",
         "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-03-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957077",
+        "channel": "Hallmark Movies \u0026 More",
+        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-29T00:00:00Z",
         "format": "hd",
