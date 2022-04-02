@@ -18,7 +18,7 @@
         "channel": "SKY DRAMË",
         "link": "https://list.iptvcat.com/my_list/s/75d29f0001b7da46c1ea0077405fe551.m3u8",
         "country": "albania",
-        "liveliness": "55",
+        "liveliness": "56",
         "status": "online",
         "lastChecked": "2022-04-02T00:00:00Z",
         "format": "sd",
@@ -61,7 +61,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b41a03e742e1bb8382f88894bcf128ab.m3u8",
         "country": "albania",
         "liveliness": "84",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -88,7 +88,7 @@
         "channel": "Sky Komedi",
         "link": "https://list.iptvcat.com/my_list/s/a60d7c606fe5f7d89693437a32f1b2db.m3u8",
         "country": "albania",
-        "liveliness": "78",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-04-02T00:00:00Z",
         "format": "sd",
@@ -116,7 +116,7 @@
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/7a63039fbf425a9af68b22879a042572.m3u8",
         "country": "albania",
-        "liveliness": "55",
+        "liveliness": "59",
         "status": "online",
         "lastChecked": "2022-04-02T00:00:00Z",
         "format": "sd",
@@ -133,8 +133,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -144,7 +144,7 @@
         "channel": "Star Plus HD",
         "link": "https://list.iptvcat.com/my_list/s/290ebb1112a87cd6edb02a72e9fcac81.m3u8",
         "country": "albania",
-        "liveliness": "21",
+        "liveliness": "19",
         "status": "offline",
         "lastChecked": "2022-04-02T00:00:00Z",
         "format": "sd",
@@ -158,11 +158,25 @@
         "channel": "TV Star Plus",
         "link": "https://list.iptvcat.com/my_list/s/1924074aa6be627c720bb0f23537e4d9.m3u8",
         "country": "albania",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "offline",
         "lastChecked": "2022-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2478149",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/e0938d67e86e3c59bb88fce246997302.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
