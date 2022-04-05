@@ -1,24 +1,10 @@
 [
     {
-        "id": "2451986",
-        "channel": "4E Star",
-        "link": "https://list.iptvcat.com/my_list/s/4e33d49351b9c1d73d4101d978bfde3f.m3u8",
-        "country": "greece",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2478076",
         "channel": "STAR",
         "link": "https://list.iptvcat.com/my_list/s/60cc302d901954c956a2748335186914.m3u8",
         "country": "greece",
-        "liveliness": "11",
+        "liveliness": "10",
         "status": "offline",
         "lastChecked": "2022-04-05T00:00:00Z",
         "format": "sd",
@@ -32,11 +18,25 @@
         "channel": "START",
         "link": "https://list.iptvcat.com/my_list/s/0c4d63783a915a840e33a5fd746c30d3.m3u8",
         "country": "greece",
-        "liveliness": "11",
+        "liveliness": "10",
         "status": "offline",
         "lastChecked": "2022-04-05T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2483380",
+        "channel": "Star News",
+        "link": "https://list.iptvcat.com/my_list/s/b98f33d97f07a0e45cb3c0ec4b9653f5.m3u8",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
