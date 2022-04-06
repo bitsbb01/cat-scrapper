@@ -4,9 +4,9 @@
         "channel": "AXN MOVIES FHD",
         "link": "https://list.iptvcat.com/my_list/s/59521a03437898031e21bec226e7981a.m3u8",
         "country": "portugal",
-        "liveliness": "13",
+        "liveliness": "11",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -18,11 +18,11 @@
         "channel": "AXN MOVIES HD",
         "link": "https://list.iptvcat.com/my_list/s/1583ba3d091520cb64e3674b885b4d1f.m3u8",
         "country": "portugal",
-        "liveliness": "37",
-        "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
+        "liveliness": "39",
+        "status": "online",
+        "lastChecked": "2022-04-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "s"
         ]
@@ -32,9 +32,9 @@
         "channel": "AXN MOVIES HEVC",
         "link": "https://list.iptvcat.com/my_list/s/766194a8a099d96c1acdf428dd7a28f5.m3u8",
         "country": "portugal",
-        "liveliness": "13",
+        "liveliness": "11",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -46,9 +46,9 @@
         "channel": "AXN Movies 4K",
         "link": "https://list.iptvcat.com/my_list/s/5a650c75e5b70f12c859d5cc236a1d93.m3u8",
         "country": "portugal",
-        "liveliness": "26",
+        "liveliness": "24",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -60,25 +60,11 @@
         "channel": "AXN Movies FHD",
         "link": "https://list.iptvcat.com/my_list/s/c1a724e65c656c7521671b8263dd32e8.m3u8",
         "country": "portugal",
-        "liveliness": "21",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2474720",
-        "channel": "AXN Movies HD",
-        "link": "https://list.iptvcat.com/my_list/s/baf2babd13556184684d3fb7510dd76e.m3u8",
-        "country": "portugal",
-        "liveliness": "17",
-        "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -88,25 +74,11 @@
         "channel": "AXN Movies SD",
         "link": "https://list.iptvcat.com/my_list/s/3a666e8a7710f2101bf00808c02e600d.m3u8",
         "country": "portugal",
-        "liveliness": "17",
+        "liveliness": "15",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2458652",
-        "channel": "FOX MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/8c86ca606dfd948d2070dfe09bf37dca.m3u8",
-        "country": "portugal",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
         "URI": [
             "s"
         ]
@@ -116,11 +88,25 @@
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/30a5b057a4e2f98cc589fbe821ab3357.m3u8",
         "country": "portugal",
-        "liveliness": "81",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2458652",
+        "channel": "FOX MOVIES",
+        "link": "https://list.iptvcat.com/my_list/s/8c86ca606dfd948d2070dfe09bf37dca.m3u8",
+        "country": "portugal",
+        "liveliness": "23",
+        "status": "online",
+        "lastChecked": "2022-04-06T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "s"
         ]
@@ -130,11 +116,25 @@
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/7ebbbc2318f9598efdd3bd6dc1008476.m3u8",
         "country": "portugal",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2458653",
+        "channel": "FOX MOVIES HD",
+        "link": "https://list.iptvcat.com/my_list/s/4ee72e9b097b56c3c3516b14fc9a86f6.m3u8",
+        "country": "portugal",
+        "liveliness": "20",
+        "status": "offline",
+        "lastChecked": "2022-04-06T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -146,23 +146,9 @@
         "country": "portugal",
         "liveliness": "43",
         "status": "online",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2458653",
-        "channel": "FOX MOVIES HD",
-        "link": "https://list.iptvcat.com/my_list/s/4ee72e9b097b56c3c3516b14fc9a86f6.m3u8",
-        "country": "portugal",
-        "liveliness": "19",
-        "status": "online",
-        "lastChecked": "2022-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "mbps": "22116",
         "URI": [
             "s"
         ]
@@ -172,9 +158,9 @@
         "channel": "FOX Movies",
         "link": "https://list.iptvcat.com/my_list/s/ef4882e548c9a16096d7a832d48994f7.m3u8",
         "country": "portugal",
-        "liveliness": "11",
+        "liveliness": "10",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -188,7 +174,7 @@
         "country": "portugal",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -202,7 +188,7 @@
         "country": "portugal",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -216,7 +202,7 @@
         "country": "portugal",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -228,9 +214,9 @@
         "channel": "ROBOT MOVIES (exclusive)",
         "link": "https://list.iptvcat.com/my_list/s/307f2ca08a22e5c59f80a4a39b2cd1cd.m3u8",
         "country": "portugal",
-        "liveliness": "14",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
         "URI": [
@@ -242,9 +228,9 @@
         "channel": "24/7 STARWARS (exclusive)",
         "link": "https://list.iptvcat.com/my_list/s/2acc62c4de8aface37938fb9cc080028.m3u8",
         "country": "portugal",
-        "liveliness": "13",
+        "liveliness": "11",
         "status": "offline",
-        "lastChecked": "2022-04-05T00:00:00Z",
+        "lastChecked": "2022-04-06T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
         "URI": [
