@@ -4,7 +4,7 @@
         "channel": "MOVIETIME",
         "link": "https://list.iptvcat.com/my_list/s/0dfd993595558efc135d272a6852880d.m3u8",
         "country": "canada",
-        "liveliness": "61",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -18,8 +18,22 @@
         "channel": "MOVIETIME",
         "link": "https://list.iptvcat.com/my_list/s/7de08cb10b1a244d5cdf3dcfd9b21b99.m3u8",
         "country": "canada",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
+        "lastChecked": "2022-04-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2479427",
+        "channel": "MovieTime",
+        "link": "https://list.iptvcat.com/my_list/s/fdc7869d083b0e170b607ccf1ccac8a1.m3u8",
+        "country": "canada",
+        "liveliness": "47",
+        "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -42,25 +56,11 @@
         ]
     },
     {
-        "id": "2479427",
-        "channel": "MovieTime",
-        "link": "https://list.iptvcat.com/my_list/s/fdc7869d083b0e170b607ccf1ccac8a1.m3u8",
-        "country": "canada",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2022-04-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2480094",
         "channel": "DAYSTAR",
         "link": "https://list.iptvcat.com/my_list/s/285c24fc1f5c81529b24421e55b90dc0.m3u8",
         "country": "canada",
-        "liveliness": "53",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -74,7 +74,7 @@
         "channel": "DAYSTAR",
         "link": "https://list.iptvcat.com/my_list/s/fc303098d4002568faaa0533cadbe430.m3u8",
         "country": "canada",
-        "liveliness": "65",
+        "liveliness": "66",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -112,11 +112,11 @@
         ]
     },
     {
-        "id": "2450780",
+        "id": "2486029",
         "channel": "Starz 1",
-        "link": "https://list.iptvcat.com/my_list/s/778df9a23e842046f8cacac4f1ed7047.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3d584bc889def7f69f5c4dac83f741a6.m3u8",
         "country": "canada",
-        "liveliness": "85",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -126,11 +126,11 @@
         ]
     },
     {
-        "id": "2486029",
+        "id": "2450780",
         "channel": "Starz 1",
-        "link": "https://list.iptvcat.com/my_list/s/3d584bc889def7f69f5c4dac83f741a6.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/778df9a23e842046f8cacac4f1ed7047.m3u8",
         "country": "canada",
-        "liveliness": "100",
+        "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -168,12 +168,54 @@
         ]
     },
     {
+        "id": "2475441",
+        "channel": "CAN-HBO 1 (M)",
+        "link": "https://list.iptvcat.com/my_list/s/a27d55ebc3cfcbd9b0632e9b7a90dd63.m3u8",
+        "country": "canada",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "3883",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2475442",
+        "channel": "CAN-HBO 2 (720)(M)",
+        "link": "https://list.iptvcat.com/my_list/s/deb4f8dc2972ad9c3e757850b9ff1f06.m3u8",
+        "country": "canada",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2449649",
+        "channel": "HBO",
+        "link": "https://list.iptvcat.com/my_list/s/298d6bb741cdd25ed824b26c3b4bf18f.m3u8",
+        "country": "canada",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2022-04-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2475456",
         "channel": "CAN-Lifetime (1080)(M)",
         "link": "https://list.iptvcat.com/my_list/s/e62d9cca96a02feda2b457738cb5f942.m3u8",
         "country": "canada",
-        "liveliness": "16",
-        "status": "online",
+        "liveliness": "14",
+        "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -186,7 +228,7 @@
         "channel": "LIFETIME",
         "link": "https://list.iptvcat.com/my_list/s/383c1ed3cb45896c97134bf66a582a67.m3u8",
         "country": "canada",
-        "liveliness": "61",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -203,22 +245,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2486213",
-        "channel": "Lifetime HD",
-        "link": "https://list.iptvcat.com/my_list/s/57fc4fd7caa0f9835132521e5ef4830e.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "136",
         "URI": [
             "s"
         ]
@@ -233,6 +261,20 @@
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2486213",
+        "channel": "Lifetime HD",
+        "link": "https://list.iptvcat.com/my_list/s/57fc4fd7caa0f9835132521e5ef4830e.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -273,8 +315,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "5016",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "s"
         ]
@@ -400,7 +442,7 @@
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "sd",
-        "mbps": "4011",
+        "mbps": "3178",
         "URI": [
             "s"
         ]
@@ -442,7 +484,7 @@
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "sd",
-        "mbps": "5065",
+        "mbps": "5016",
         "URI": [
             "s"
         ]
@@ -470,7 +512,7 @@
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "sd",
-        "mbps": "5114",
+        "mbps": "2307",
         "URI": [
             "s"
         ]
@@ -774,8 +816,8 @@
         "channel": "CAN-Lifetime (1080)(M)",
         "link": "https://list.iptvcat.com/my_list/s/e62d9cca96a02feda2b457738cb5f942.m3u8",
         "country": "canada",
-        "liveliness": "16",
-        "status": "online",
+        "liveliness": "14",
+        "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -788,7 +830,7 @@
         "channel": "LIFETIME",
         "link": "https://list.iptvcat.com/my_list/s/383c1ed3cb45896c97134bf66a582a67.m3u8",
         "country": "canada",
-        "liveliness": "61",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -805,22 +847,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2486213",
-        "channel": "Lifetime HD",
-        "link": "https://list.iptvcat.com/my_list/s/57fc4fd7caa0f9835132521e5ef4830e.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "136",
         "URI": [
             "s"
         ]
@@ -840,11 +868,25 @@
         ]
     },
     {
+        "id": "2486213",
+        "channel": "Lifetime HD",
+        "link": "https://list.iptvcat.com/my_list/s/57fc4fd7caa0f9835132521e5ef4830e.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2475454",
         "channel": "CAN-Disney (720)(M)",
         "link": "https://list.iptvcat.com/my_list/s/dea71da0bf6b15d413948ee60d0e9fb3.m3u8",
         "country": "canada",
-        "liveliness": "19",
+        "liveliness": "17",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "sd",
@@ -872,7 +914,7 @@
         "channel": "DISNEY",
         "link": "https://list.iptvcat.com/my_list/s/5c6e1e1bd7e9f7f05f9f91e4c0db6351.m3u8",
         "country": "canada",
-        "liveliness": "56",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -886,7 +928,7 @@
         "channel": "DISNEY",
         "link": "https://list.iptvcat.com/my_list/s/c0db4bd6239b2ae52a4e9cec83ebbc18.m3u8",
         "country": "canada",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -900,7 +942,7 @@
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/1dac02a4bc8cb8516474c98425279a5d.m3u8",
         "country": "canada",
-        "liveliness": "58",
+        "liveliness": "52",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -914,7 +956,7 @@
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/36193a52049ff20e3b67fb004979d8f0.m3u8",
         "country": "canada",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -928,7 +970,7 @@
         "channel": "DISNEY JR",
         "link": "https://list.iptvcat.com/my_list/s/18f882bb0c0fb6e837ce4bb66bd397e4.m3u8",
         "country": "canada",
-        "liveliness": "61",
+        "liveliness": "55",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -942,7 +984,7 @@
         "channel": "DISNEY JR",
         "link": "https://list.iptvcat.com/my_list/s/69401674315e1c37599e5d4f89c19e97.m3u8",
         "country": "canada",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -956,7 +998,7 @@
         "channel": "DISNEY XD",
         "link": "https://list.iptvcat.com/my_list/s/0e164a95251c0eb28ebbc1a382f23629.m3u8",
         "country": "canada",
-        "liveliness": "61",
+        "liveliness": "55",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -970,7 +1012,7 @@
         "channel": "DISNEY XD",
         "link": "https://list.iptvcat.com/my_list/s/e2435bcf799baf2e40f2b9bb6702ee64.m3u8",
         "country": "canada",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -984,7 +1026,7 @@
         "channel": "DISNEY, LA CHAINE",
         "link": "https://list.iptvcat.com/my_list/s/1039854197afc38b999c2aaa31f08a40.m3u8",
         "country": "canada",
-        "liveliness": "59",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
@@ -998,11 +1040,25 @@
         "channel": "DISNEY, LA CHAINE",
         "link": "https://list.iptvcat.com/my_list/s/c37a71f649843456d750eb12afbd5e74.m3u8",
         "country": "canada",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2479507",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/0bed2bcd56496d00688a519a4ae92f7a.m3u8",
+        "country": "canada",
+        "liveliness": "37",
+        "status": "offline",
+        "lastChecked": "2022-04-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "3883",
         "URI": [
             "s"
         ]
@@ -1017,20 +1073,6 @@
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2479507",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/0bed2bcd56496d00688a519a4ae92f7a.m3u8",
-        "country": "canada",
-        "liveliness": "41",
-        "status": "online",
-        "lastChecked": "2022-04-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "3883",
         "URI": [
             "s"
         ]
@@ -1082,7 +1124,7 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/532d625c831c86c40d7ba74fa301b77a.m3u8",
         "country": "canada",
-        "liveliness": "72",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-04-07T00:00:00Z",
         "format": "hd",
