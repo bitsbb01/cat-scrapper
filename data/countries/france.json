@@ -28,20 +28,6 @@
         ]
     },
     {
-        "id": "2488026",
-        "channel": "CStar HD",
-        "link": "https://list.iptvcat.com/my_list/s/0233411bb3a4656de34b03d7ce6b4f82.m3u8",
-        "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2487558",
         "channel": "CStar HD",
         "link": "https://list.iptvcat.com/my_list/s/1b09aab96257df6a0c1badd737210739.m3u8",
@@ -51,6 +37,20 @@
         "lastChecked": "2022-04-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2488026",
+        "channel": "CStar HD",
+        "link": "https://list.iptvcat.com/my_list/s/0233411bb3a4656de34b03d7ce6b4f82.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -120,7 +120,7 @@
         "status": "online",
         "lastChecked": "2022-04-14T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -133,8 +133,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-04-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "s"
         ]
@@ -158,11 +158,11 @@
         "channel": "Disney Channel HD",
         "link": "https://list.iptvcat.com/my_list/s/cf11a7724dbb782b0b0c9da3bb1cbb74.m3u8",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "97",
+        "status": "offline",
         "lastChecked": "2022-04-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -203,8 +203,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -214,11 +214,11 @@
         "channel": "Disney+ HD",
         "link": "https://list.iptvcat.com/my_list/s/6037019af3ee2e8901eb2e939ccec6e3.m3u8",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-04-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "s"
         ]
