@@ -154,34 +154,6 @@
         ]
     },
     {
-        "id": "2469705",
-        "channel": "HBO",
-        "link": "https://list.iptvcat.com/my_list/s/16903bdacfa76aff680b4127dc42f940.m3u8",
-        "country": "brazil",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2469708",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/f06e285b2db84627cde35064461b2f2e.m3u8",
-        "country": "brazil",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2470676",
         "channel": "HBO 2 4K FHDR",
         "link": "https://list.iptvcat.com/my_list/s/21970d7253077e581e5ede54b689dfdf.m3u8",
@@ -228,11 +200,11 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/54a7a7a6b1a21d9c46d23d9b6fd52e04.m3u8",
         "country": "brazil",
-        "liveliness": "93",
-        "status": "offline",
+        "liveliness": "91",
+        "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "s"
         ]
@@ -246,7 +218,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -260,7 +232,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "2303",
         "URI": [
             "s"
         ]
@@ -270,7 +242,7 @@
         "channel": "HBO 4K FHDR",
         "link": "https://list.iptvcat.com/my_list/s/7e017788e6660e0a66e5d52b8f6c4cda.m3u8",
         "country": "brazil",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
@@ -284,25 +256,11 @@
         "channel": "HBO Extreme HD",
         "link": "https://list.iptvcat.com/my_list/s/fdc8b932396cba2ff0cb01f88136ec3d.m3u8",
         "country": "brazil",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
         "mbps": "1986",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2469711",
-        "channel": "HBO FAMILY",
-        "link": "https://list.iptvcat.com/my_list/s/d6a89338bbab9c0e451999c06f3fc375.m3u8",
-        "country": "brazil",
-        "liveliness": "53",
-        "status": "offline",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
         "URI": [
             "s"
         ]
@@ -344,7 +302,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370",
         "URI": [
             "s"
         ]
@@ -354,11 +312,11 @@
         "channel": "HBO Family FHD [H265]",
         "link": "https://list.iptvcat.com/my_list/s/cfb02f0d1c0f30e69bad5b74a5cd8461.m3u8",
         "country": "brazil",
-        "liveliness": "68",
+        "liveliness": "69",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "13311",
         "URI": [
             "s"
         ]
@@ -386,7 +344,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -400,21 +358,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2303",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2485014",
-        "channel": "HBO HD",
-        "link": "https://list.iptvcat.com/my_list/s/1a675824d12b30e0b36fbf07d9d4a097.m3u8",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "2734",
         "URI": [
             "s"
         ]
@@ -434,11 +378,25 @@
         ]
     },
     {
+        "id": "2485014",
+        "channel": "HBO HD",
+        "link": "https://list.iptvcat.com/my_list/s/1a675824d12b30e0b36fbf07d9d4a097.m3u8",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2470707",
         "channel": "HBO MUNDI 4K FHDR",
         "link": "https://list.iptvcat.com/my_list/s/cb308b0c4a9c9f18bfba7c7b45736d27.m3u8",
         "country": "brazil",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
@@ -498,7 +456,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370",
         "URI": [
             "s"
         ]
@@ -526,7 +484,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -536,11 +494,11 @@
         "channel": "HBO Mundi HD",
         "link": "https://list.iptvcat.com/my_list/s/4f562f0b1fc29f184c8fe05f108baf09.m3u8",
         "country": "brazil",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "s"
         ]
@@ -555,20 +513,6 @@
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
         "mbps": "2734",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2469714",
-        "channel": "HBO PLUS",
-        "link": "https://list.iptvcat.com/my_list/s/0714d74ff4f1f011974204b0404c3434.m3u8",
-        "country": "brazil",
-        "liveliness": "53",
-        "status": "offline",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
         "URI": [
             "s"
         ]
@@ -624,7 +568,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13311",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -666,7 +610,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2303",
+        "mbps": "2734",
         "URI": [
             "s"
         ]
@@ -690,7 +634,7 @@
         "channel": "HBO Pop FHD [H265]",
         "link": "https://list.iptvcat.com/my_list/s/1c6acae459e415a5ba8da21e41b02c61.m3u8",
         "country": "brazil",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
@@ -708,7 +652,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -736,21 +680,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2734",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2469717",
-        "channel": "HBO SIGNATURE",
-        "link": "https://list.iptvcat.com/my_list/s/8614282fb36b475d2bdbf0c799fbe2f1.m3u8",
-        "country": "brazil",
-        "liveliness": "53",
-        "status": "offline",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "2303",
         "URI": [
             "s"
         ]
@@ -770,9 +700,9 @@
         ]
     },
     {
-        "id": "2470751",
+        "id": "2485039",
         "channel": "HBO Signature HD",
-        "link": "https://list.iptvcat.com/my_list/s/3a92e99c5cab6bed8c396e656b218e60.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/65a270a9ec8318c61a253355b7aa5eae.m3u8",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
@@ -784,9 +714,9 @@
         ]
     },
     {
-        "id": "2485039",
+        "id": "2470751",
         "channel": "HBO Signature HD",
-        "link": "https://list.iptvcat.com/my_list/s/65a270a9ec8318c61a253355b7aa5eae.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3a92e99c5cab6bed8c396e656b218e60.m3u8",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
@@ -806,7 +736,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2303",
+        "mbps": "2734",
         "URI": [
             "s"
         ]
@@ -834,7 +764,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -876,7 +806,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2734",
+        "mbps": "2303",
         "URI": [
             "s"
         ]
@@ -896,6 +826,20 @@
         ]
     },
     {
+        "id": "2485773",
+        "channel": "Lifetime FHD",
+        "link": "https://list.iptvcat.com/my_list/s/d889d71255881785631a071a3dd0fdd5.m3u8",
+        "country": "brazil",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2022-04-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2470802",
         "channel": "Lifetime FHD",
         "link": "https://list.iptvcat.com/my_list/s/773e1c8301160b3bdc0d19c4385aadcd.m3u8",
@@ -910,20 +854,6 @@
         ]
     },
     {
-        "id": "2485773",
-        "channel": "Lifetime FHD",
-        "link": "https://list.iptvcat.com/my_list/s/d889d71255881785631a071a3dd0fdd5.m3u8",
-        "country": "brazil",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2470803",
         "channel": "Lifetime FHD [H265]",
         "link": "https://list.iptvcat.com/my_list/s/cd3a54d6fcd9566f4f70bdb134c36622.m3u8",
@@ -932,7 +862,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13311",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -946,7 +876,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -988,7 +918,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370",
         "URI": [
             "s"
         ]
@@ -1002,7 +932,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13311",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -1030,7 +960,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5997",
         "URI": [
             "s"
         ]
@@ -1064,6 +994,20 @@
         ]
     },
     {
+        "id": "2485773",
+        "channel": "Lifetime FHD",
+        "link": "https://list.iptvcat.com/my_list/s/d889d71255881785631a071a3dd0fdd5.m3u8",
+        "country": "brazil",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2022-04-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2470802",
         "channel": "Lifetime FHD",
         "link": "https://list.iptvcat.com/my_list/s/773e1c8301160b3bdc0d19c4385aadcd.m3u8",
@@ -1078,20 +1022,6 @@
         ]
     },
     {
-        "id": "2485773",
-        "channel": "Lifetime FHD",
-        "link": "https://list.iptvcat.com/my_list/s/d889d71255881785631a071a3dd0fdd5.m3u8",
-        "country": "brazil",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2470803",
         "channel": "Lifetime FHD [H265]",
         "link": "https://list.iptvcat.com/my_list/s/cd3a54d6fcd9566f4f70bdb134c36622.m3u8",
@@ -1100,7 +1030,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13311",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -1114,7 +1044,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -1134,20 +1064,6 @@
         ]
     },
     {
-        "id": "2469681",
-        "channel": "DISNEY CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/8f660b951173d5e3e216f61e7013c252.m3u8",
-        "country": "brazil",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2470527",
         "channel": "Disney Channel FHD",
         "link": "https://list.iptvcat.com/my_list/s/34a94c6ef0a6b8555c7d36c18896bf3b.m3u8",
@@ -1156,7 +1072,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -1170,7 +1086,7 @@
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "13311",
         "URI": [
             "s"
         ]
@@ -1197,8 +1113,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "s"
         ]
@@ -1225,8 +1141,8 @@
         "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
+        "format": "sd",
+        "mbps": "1681",
         "URI": [
             "s"
         ]

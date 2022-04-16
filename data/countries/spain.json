@@ -4,7 +4,7 @@
         "channel": "MOVISTAR Accion FHD",
         "link": "https://list.iptvcat.com/my_list/s/5a6ee20f6d9003967349bef4d22b7ce9.m3u8",
         "country": "spain",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
@@ -18,11 +18,11 @@
         "channel": "MOVISTAR Cine Espanol HD",
         "link": "https://list.iptvcat.com/my_list/s/822e4ebce90ad6e21896224d53ef0765.m3u8",
         "country": "spain",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "91",
+        "status": "offline",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -32,7 +32,7 @@
         "channel": "MOVISTAR Clasicos HD",
         "link": "https://list.iptvcat.com/my_list/s/c1a43914d42abe2c65e5a2250846dea0.m3u8",
         "country": "spain",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "fhd 2k",
@@ -49,8 +49,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -88,11 +88,11 @@
         "channel": "MOVISTAR Deportes 5 HD",
         "link": "https://list.iptvcat.com/my_list/s/2c45b9b496bfda5b94a12f509e90812e.m3u8",
         "country": "spain",
-        "liveliness": "76",
-        "status": "online",
+        "liveliness": "74",
+        "status": "offline",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -105,8 +105,8 @@
         "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -119,8 +119,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "11105",
         "URI": [
             "s"
         ]
@@ -130,8 +130,8 @@
         "channel": "MOVISTAR Estrenos 2 FHD",
         "link": "https://list.iptvcat.com/my_list/s/a94a787b74e0dba7982cd1875513eb23.m3u8",
         "country": "spain",
-        "liveliness": "97",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -172,8 +172,8 @@
         "channel": "MOVISTAR Fest FHD",
         "link": "https://list.iptvcat.com/my_list/s/721e312a781cde8ab16f33aa28d549bc.m3u8",
         "country": "spain",
-        "liveliness": "97",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-04-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -200,11 +200,11 @@
         "channel": "MOVISTAR Golf HD",
         "link": "https://list.iptvcat.com/my_list/s/6ba71428b9821084cae0a0682ec62e8e.m3u8",
         "country": "spain",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "5007",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -252,29 +252,15 @@
         ]
     },
     {
-        "id": "2459818",
-        "channel": "LIFETIME",
-        "link": "https://list.iptvcat.com/my_list/s/f78684102d6f7c810ed4c3efdaffe279.m3u8",
+        "id": "2483785",
+        "channel": "MOVISTAR LALIGA 2 (Solo eventos)",
+        "link": "https://list.iptvcat.com/my_list/s/096feefa32464e60f2d2ad104d27a2f9.m3u8",
         "country": "spain",
-        "liveliness": "57",
-        "status": "offline",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2459818",
-        "channel": "LIFETIME",
-        "link": "https://list.iptvcat.com/my_list/s/f78684102d6f7c810ed4c3efdaffe279.m3u8",
-        "country": "spain",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2022-04-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "1736",
         "URI": [
             "s"
         ]
