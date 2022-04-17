@@ -32,7 +32,7 @@
         "channel": "Stars TV HD",
         "link": "https://list.iptvcat.com/my_list/s/e58fc1363e097cbaf34cdb4cc3c43647.m3u8",
         "country": "poland",
-        "liveliness": "86",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "sd",
@@ -46,7 +46,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/670b36330e892a9b00c26ab0a6c4959d.m3u8",
         "country": "poland",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -60,21 +60,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/2bb1990c3a75329a0e122d0a1de3941b.m3u8",
         "country": "poland",
-        "liveliness": "79",
-        "status": "online",
-        "lastChecked": "2022-04-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2500706",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/7c7712111636dfd342b6acc4477efd9b.m3u8",
-        "country": "poland",
-        "liveliness": "90",
+        "liveliness": "80",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -98,11 +84,25 @@
         ]
     },
     {
+        "id": "2500706",
+        "channel": "HBO 2",
+        "link": "https://list.iptvcat.com/my_list/s/7c7712111636dfd342b6acc4477efd9b.m3u8",
+        "country": "poland",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-04-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2494379",
         "channel": "HBO 2 FHD",
         "link": "https://list.iptvcat.com/my_list/s/06b609354e3ddaf0d296d099de96deab.m3u8",
         "country": "poland",
-        "liveliness": "84",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -117,20 +117,6 @@
         "link": "https://list.iptvcat.com/my_list/s/c0aa70c4dcf7a318318c71e7c41c90f5.m3u8",
         "country": "poland",
         "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-04-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2500707",
-        "channel": "HBO 3",
-        "link": "https://list.iptvcat.com/my_list/s/ba4185cccf0d7159bc2ffacd1cdf2bbb.m3u8",
-        "country": "poland",
-        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -144,7 +130,21 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/88e8d11d87603c258150d715ec96f5fb.m3u8",
         "country": "poland",
-        "liveliness": "78",
+        "liveliness": "79",
+        "status": "online",
+        "lastChecked": "2022-04-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2500707",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/ba4185cccf0d7159bc2ffacd1cdf2bbb.m3u8",
+        "country": "poland",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -158,7 +158,7 @@
         "channel": "HBO 3 FHD",
         "link": "https://list.iptvcat.com/my_list/s/60b1874c195a19c77c228a6254d8cfff.m3u8",
         "country": "poland",
-        "liveliness": "92",
+        "liveliness": "87",
         "status": "offline",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -172,7 +172,7 @@
         "channel": "HBO FHD",
         "link": "https://list.iptvcat.com/my_list/s/889f71cfa197939761f543728c607cd5.m3u8",
         "country": "poland",
-        "liveliness": "67",
+        "liveliness": "63",
         "status": "offline",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -189,8 +189,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -200,7 +200,7 @@
         "channel": "Lifetime FHD",
         "link": "https://list.iptvcat.com/my_list/s/ac7b977c968e63afd250e05097224586.m3u8",
         "country": "poland",
-        "liveliness": "90",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -214,7 +214,7 @@
         "channel": "Lifetime FHD",
         "link": "https://list.iptvcat.com/my_list/s/ac7b977c968e63afd250e05097224586.m3u8",
         "country": "poland",
-        "liveliness": "90",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
@@ -229,7 +229,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0dacdf772ff14a83220c03b3f49475f5.m3u8",
         "country": "poland",
         "liveliness": "83",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",

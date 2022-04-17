@@ -7,22 +7,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2471241",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/4a7a104bc11eccbc6ffdfe5164f5eb85.m3u8",
-        "country": "denmark",
-        "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2022-04-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -42,11 +28,25 @@
         ]
     },
     {
+        "id": "2471241",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/4a7a104bc11eccbc6ffdfe5164f5eb85.m3u8",
+        "country": "denmark",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2022-04-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2449075",
         "channel": "Disney Channel  [Multi-Audio]",
         "link": "https://list.iptvcat.com/my_list/s/51b775bc79e37454ebb69583df453378.m3u8",
         "country": "denmark",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "sd",
@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/97fffe10ac29c9a645dee6c9bb39908e.m3u8",
         "country": "denmark",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -89,7 +89,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a97c288393942bfc5c8a77a4297d3b52.m3u8",
         "country": "denmark",
         "liveliness": "77",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-04-17T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -105,8 +105,8 @@
         "liveliness": "52",
         "status": "online",
         "lastChecked": "2022-04-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "6675",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "s"
         ]
