@@ -4,7 +4,7 @@
         "channel": "CA MovieTime (R)",
         "link": "https://list.iptvcat.com/my_list/s/29a756ac4b955b299c4d29f3f47990a0.m3u8",
         "country": "canada",
-        "liveliness": "31",
+        "liveliness": "32",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -19,10 +19,10 @@
         "link": "https://list.iptvcat.com/my_list/s/9ea0ba2e088c9d72e3972516f996abdf.m3u8",
         "country": "canada",
         "liveliness": "91",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
             "s"
         ]
@@ -32,7 +32,7 @@
         "channel": "Lifetime Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/20e4c4087a8123be69fd0a9870a68c2e.m3u8",
         "country": "canada",
-        "liveliness": "81",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -74,7 +74,7 @@
         "channel": "MovieTime HD",
         "link": "https://list.iptvcat.com/my_list/s/88cff59a79bf5bb5757c89ea37e1cf02.m3u8",
         "country": "canada",
-        "liveliness": "75",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -88,7 +88,7 @@
         "channel": "The Movie Network 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/95375b07582dba0de800d86c1aa37713.m3u8",
         "country": "canada",
-        "liveliness": "82",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
@@ -102,7 +102,7 @@
         "channel": "The Movie Network 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/4367ad7d966bfa71d0023ecde66d8cba.m3u8",
         "country": "canada",
-        "liveliness": "73",
+        "liveliness": "70",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
@@ -116,7 +116,7 @@
         "channel": "The Movie Network 4 HD",
         "link": "https://list.iptvcat.com/my_list/s/634a183aa8f2c452f0e0aaebf3c1b529.m3u8",
         "country": "canada",
-        "liveliness": "83",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
@@ -154,20 +154,6 @@
         ]
     },
     {
-        "id": "2450780",
-        "channel": "Starz 1",
-        "link": "https://list.iptvcat.com/my_list/s/778df9a23e842046f8cacac4f1ed7047.m3u8",
-        "country": "canada",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2486029",
         "channel": "Starz 1",
         "link": "https://list.iptvcat.com/my_list/s/3d584bc889def7f69f5c4dac83f741a6.m3u8",
@@ -182,11 +168,11 @@
         ]
     },
     {
-        "id": "2450799",
-        "channel": "Starz 2",
-        "link": "https://list.iptvcat.com/my_list/s/88a0d5bb951d6991557282baad5305cb.m3u8",
+        "id": "2450780",
+        "channel": "Starz 1",
+        "link": "https://list.iptvcat.com/my_list/s/778df9a23e842046f8cacac4f1ed7047.m3u8",
         "country": "canada",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -210,11 +196,25 @@
         ]
     },
     {
+        "id": "2450799",
+        "channel": "Starz 2",
+        "link": "https://list.iptvcat.com/my_list/s/88a0d5bb951d6991557282baad5305cb.m3u8",
+        "country": "canada",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2022-04-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2496942",
         "channel": "CA HBO 2 (R)",
         "link": "https://list.iptvcat.com/my_list/s/e5978adb341a6d305b261b3d9d9efd3b.m3u8",
         "country": "canada",
-        "liveliness": "26",
+        "liveliness": "25",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -259,8 +259,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -270,21 +270,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/298d6bb741cdd25ed824b26c3b4bf18f.m3u8",
         "country": "canada",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2486018",
-        "channel": "HBO 1",
-        "link": "https://list.iptvcat.com/my_list/s/b1c54893b01c3d232ff5ceb42431dab3.m3u8",
-        "country": "canada",
-        "liveliness": "94",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -308,11 +294,11 @@
         ]
     },
     {
-        "id": "2486011",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/528a21a214bd571c277f8e662ff3aba9.m3u8",
+        "id": "2486018",
+        "channel": "HBO 1",
+        "link": "https://list.iptvcat.com/my_list/s/b1c54893b01c3d232ff5ceb42431dab3.m3u8",
         "country": "canada",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -336,11 +322,25 @@
         ]
     },
     {
+        "id": "2486011",
+        "channel": "HBO 2",
+        "link": "https://list.iptvcat.com/my_list/s/528a21a214bd571c277f8e662ff3aba9.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2495496",
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/7a3b75709d2e2e19ea2c85bd0e16e335.m3u8",
         "country": "canada",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
@@ -354,7 +354,7 @@
         "channel": "HBO HD",
         "link": "https://list.iptvcat.com/my_list/s/48a34750e3ee85fa33e1bfe5547b13b0.m3u8",
         "country": "canada",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
@@ -368,7 +368,7 @@
         "channel": "CAN-Lifetime (1080)(M)",
         "link": "https://list.iptvcat.com/my_list/s/e62d9cca96a02feda2b457738cb5f942.m3u8",
         "country": "canada",
-        "liveliness": "16",
+        "liveliness": "15",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -410,7 +410,7 @@
         "channel": "Lifetime HD",
         "link": "https://list.iptvcat.com/my_list/s/163a5930469f9acea2bec8596b9b9db8.m3u8",
         "country": "canada",
-        "liveliness": "83",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -453,10 +453,10 @@
         "link": "https://list.iptvcat.com/my_list/s/9ea0ba2e088c9d72e3972516f996abdf.m3u8",
         "country": "canada",
         "liveliness": "91",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
             "s"
         ]
@@ -466,7 +466,7 @@
         "channel": "Lifetime Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/20e4c4087a8123be69fd0a9870a68c2e.m3u8",
         "country": "canada",
-        "liveliness": "81",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -511,8 +511,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "5065",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "s"
         ]
@@ -550,8 +550,8 @@
         "channel": "Ca - My Cinema 14 HD",
         "link": "https://list.iptvcat.com/my_list/s/a0206a3e1148225ccb05415d1e968c2d.m3u8",
         "country": "canada",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6724",
@@ -680,7 +680,7 @@
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
-        "mbps": "6480",
+        "mbps": "5065",
         "URI": [
             "s"
         ]
@@ -956,8 +956,8 @@
         "channel": "My Cinema 6",
         "link": "https://list.iptvcat.com/my_list/s/8ee7134a7c22d77cb804fcfaf8d31123.m3u8",
         "country": "canada",
-        "liveliness": "96",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
         "mbps": "1069",
@@ -1012,7 +1012,7 @@
         "channel": "CAN-Lifetime (1080)(M)",
         "link": "https://list.iptvcat.com/my_list/s/e62d9cca96a02feda2b457738cb5f942.m3u8",
         "country": "canada",
-        "liveliness": "16",
+        "liveliness": "15",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -1054,22 +1054,8 @@
         "channel": "Lifetime HD",
         "link": "https://list.iptvcat.com/my_list/s/163a5930469f9acea2bec8596b9b9db8.m3u8",
         "country": "canada",
-        "liveliness": "83",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2486213",
-        "channel": "Lifetime HD",
-        "link": "https://list.iptvcat.com/my_list/s/57fc4fd7caa0f9835132521e5ef4830e.m3u8",
-        "country": "canada",
-        "liveliness": "98",
-        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -1092,15 +1078,29 @@
         ]
     },
     {
+        "id": "2486213",
+        "channel": "Lifetime HD",
+        "link": "https://list.iptvcat.com/my_list/s/57fc4fd7caa0f9835132521e5ef4830e.m3u8",
+        "country": "canada",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-04-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2498253",
         "channel": "Lifetime Movie Network",
         "link": "https://list.iptvcat.com/my_list/s/9ea0ba2e088c9d72e3972516f996abdf.m3u8",
         "country": "canada",
         "liveliness": "91",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
             "s"
         ]
@@ -1110,7 +1110,7 @@
         "channel": "Lifetime Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/20e4c4087a8123be69fd0a9870a68c2e.m3u8",
         "country": "canada",
-        "liveliness": "81",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -1138,7 +1138,7 @@
         "channel": "CA Disney Junior (R)",
         "link": "https://list.iptvcat.com/my_list/s/02bc3ae56137c93dde60c6df4341a7c5.m3u8",
         "country": "canada",
-        "liveliness": "33",
+        "liveliness": "34",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -1166,11 +1166,11 @@
         "channel": "CAN-Disney La Chaine (M)",
         "link": "https://list.iptvcat.com/my_list/s/7961c65fcd30f59e4086c69c7558839b.m3u8",
         "country": "canada",
-        "liveliness": "95",
-        "status": "offline",
+        "liveliness": "96",
+        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -1181,7 +1181,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8b2e6ef1279c4e17c762dd65944e33a4.m3u8",
         "country": "canada",
         "liveliness": "68",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -1194,8 +1194,22 @@
         "channel": "Disney Channel HD",
         "link": "https://list.iptvcat.com/my_list/s/a896dfbc429fb89d3ec510a464a3edc9.m3u8",
         "country": "canada",
-        "liveliness": "63",
+        "liveliness": "60",
         "status": "offline",
+        "lastChecked": "2022-04-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2485239",
+        "channel": "Disney Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/17da26e415d9db578c46e252911dd6e4.m3u8",
+        "country": "canada",
+        "liveliness": "98",
+        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -1213,20 +1227,6 @@
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2485239",
-        "channel": "Disney Channel HD",
-        "link": "https://list.iptvcat.com/my_list/s/17da26e415d9db578c46e252911dd6e4.m3u8",
-        "country": "canada",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -1254,7 +1254,7 @@
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -1264,8 +1264,22 @@
         "channel": "Disney Junior (FR) HD",
         "link": "https://list.iptvcat.com/my_list/s/8ef91ea027ab08b83027f149b63b5b00.m3u8",
         "country": "canada",
-        "liveliness": "76",
+        "liveliness": "73",
         "status": "offline",
+        "lastChecked": "2022-04-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2485255",
+        "channel": "Disney Junior HD",
+        "link": "https://list.iptvcat.com/my_list/s/bda34cbe700b4264d871b08f8055353b.m3u8",
+        "country": "canada",
+        "liveliness": "98",
+        "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -1288,25 +1302,11 @@
         ]
     },
     {
-        "id": "2485255",
-        "channel": "Disney Junior HD",
-        "link": "https://list.iptvcat.com/my_list/s/bda34cbe700b4264d871b08f8055353b.m3u8",
-        "country": "canada",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-04-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2449494",
         "channel": "Disney XD",
         "link": "https://list.iptvcat.com/my_list/s/88737b87d1a00ceb2a283729b1ea79df.m3u8",
         "country": "canada",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "hd",
@@ -1320,7 +1320,7 @@
         "channel": "Disney XD HD",
         "link": "https://list.iptvcat.com/my_list/s/c1d601531735aa5404a97249986a2f91.m3u8",
         "country": "canada",
-        "liveliness": "83",
+        "liveliness": "80",
         "status": "offline",
         "lastChecked": "2022-04-18T00:00:00Z",
         "format": "fhd 2k",
