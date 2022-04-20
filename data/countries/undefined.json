@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
+        "format": "sd",
+        "mbps": "1051",
         "URI": [
             "s"
         ]
@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
         "liveliness": "71",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "sd",
-        "mbps": "1307",
+        "mbps": "2214",
         "URI": [
             "s"
         ]
@@ -131,7 +131,7 @@
         "link": "https://list.iptvcat.com/my_list/s/9cbad3596124c5b166879601833bf24c.m3u8",
         "country": "undefined",
         "liveliness": "87",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
@@ -145,7 +145,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ff6f087c745188a28b8e0bbbf3dae9cb.m3u8",
         "country": "undefined",
         "liveliness": "89",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
@@ -161,8 +161,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "1453, ...",
         "URI": [
             "s"
         ]
@@ -175,8 +175,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "1453, ...",
         "URI": [
             "s"
         ]
@@ -210,20 +210,6 @@
         ]
     },
     {
-        "id": "1200366",
-        "channel": "Gravitas Movies",
-        "link": "https://list.iptvcat.com/my_list/s/39378affdf248faa90898c8a8b2ffa5e.m3u8",
-        "country": "undefined",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2022-04-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "957731",
         "channel": "Gravitas Movies",
         "link": "https://list.iptvcat.com/my_list/s/1d06da363bd23bc788346108f26f1cd2.m3u8",
@@ -238,15 +224,15 @@
         ]
     },
     {
-        "id": "957077",
-        "channel": "Hallmark Movies \u0026 More",
-        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
+        "id": "1200366",
+        "channel": "Gravitas Movies",
+        "link": "https://list.iptvcat.com/my_list/s/39378affdf248faa90898c8a8b2ffa5e.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3066, ...",
         "URI": [
             "s"
         ]
@@ -260,7 +246,7 @@
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -274,7 +260,77 @@
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3799, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997017",
+        "channel": "Hits Movies",
+        "link": "https://list.iptvcat.com/my_list/s/c339a0aa300192d4a208c6c159beb331.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "275",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200474",
+        "channel": "Local Now Movies of the 2000s",
+        "link": "https://list.iptvcat.com/my_list/s/80b45c2a27cbfd3fcda362983cc1a80d.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200475",
+        "channel": "Local Now Movies of the 2010s",
+        "link": "https://list.iptvcat.com/my_list/s/704ae54ac2ee1ebd4de2cab2053e1859.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2472631",
+        "channel": "HBO Asia",
+        "link": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
+        "country": "undefined",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2022-04-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997004",
+        "channel": "HBO PREMIUM",
+        "link": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "s"
         ]
@@ -288,7 +344,21 @@
         "status": "online",
         "lastChecked": "2022-04-20T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3799, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957077",
+        "channel": "Hallmark Movies \u0026 More",
+        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-04-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
