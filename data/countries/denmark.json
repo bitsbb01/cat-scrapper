@@ -7,22 +7,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-04-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2505756",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/6937542456cabc2f00e59685c323b2cf.m3u8",
-        "country": "denmark",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-04-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -33,7 +19,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6597462d766a0430468cafc2f616f5e7.m3u8",
         "country": "denmark",
         "liveliness": "82",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-04-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -42,11 +28,11 @@
         ]
     },
     {
-        "id": "2471241",
+        "id": "2505756",
         "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/4a7a104bc11eccbc6ffdfe5164f5eb85.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/6937542456cabc2f00e59685c323b2cf.m3u8",
         "country": "denmark",
-        "liveliness": "82",
+        "liveliness": "80",
         "status": "online",
         "lastChecked": "2022-04-21T00:00:00Z",
         "format": "sd",
@@ -61,6 +47,20 @@
         "link": "https://list.iptvcat.com/my_list/s/55efbfeb598e6aeee1860aa12332f6d7.m3u8",
         "country": "denmark",
         "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2471241",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/4a7a104bc11eccbc6ffdfe5164f5eb85.m3u8",
+        "country": "denmark",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-04-21T00:00:00Z",
         "format": "sd",
@@ -117,7 +117,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a97c288393942bfc5c8a77a4297d3b52.m3u8",
         "country": "denmark",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-04-21T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -130,7 +130,7 @@
         "channel": "Disney XD (DK)",
         "link": "https://list.iptvcat.com/my_list/s/f5944275a1abbe3c73518d57edcdca2e.m3u8",
         "country": "denmark",
-        "liveliness": "47",
+        "liveliness": "46",
         "status": "offline",
         "lastChecked": "2022-04-21T00:00:00Z",
         "format": "hd",
