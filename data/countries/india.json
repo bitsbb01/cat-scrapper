@@ -1,19 +1,5 @@
 [
     {
-        "id": "2486331",
-        "channel": "Asianet Movies",
-        "link": "https://list.iptvcat.com/my_list/s/f47eca61f9d0f4299c09b26410a1bd11.m3u8",
-        "country": "india",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2485061",
         "channel": "Asianet Movies",
         "link": "https://list.iptvcat.com/my_list/s/7e2552570337589cc3bd2c5040f89c83.m3u8",
@@ -22,7 +8,21 @@
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2486331",
+        "channel": "Asianet Movies",
+        "link": "https://list.iptvcat.com/my_list/s/f47eca61f9d0f4299c09b26410a1bd11.m3u8",
+        "country": "india",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-04-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "s"
         ]
@@ -50,7 +50,7 @@
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
-        "mbps": "258",
+        "mbps": "1490, ...",
         "URI": [
             "s"
         ]
@@ -74,11 +74,11 @@
         "channel": "Enterr10 Movies",
         "link": "https://list.iptvcat.com/my_list/s/254e46bf814c526b1bee1b3ed344938c.m3u8",
         "country": "india",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "960",
         "URI": [
             "s"
         ]
@@ -88,11 +88,11 @@
         "channel": "Gemini Movies",
         "link": "https://list.iptvcat.com/my_list/s/660e8745202b734da4f87f3dd89dcdf5.m3u8",
         "country": "india",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -120,7 +120,7 @@
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
-        "mbps": "960",
+        "mbps": "1613",
         "URI": [
             "s"
         ]
@@ -131,7 +131,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e3976aa367c8a72cc0b7c5863ca6031d.m3u8",
         "country": "india",
         "liveliness": "92",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -162,7 +162,7 @@
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
-        "mbps": "1490, ...",
+        "mbps": "474, ...",
         "URI": [
             "s"
         ]
@@ -214,7 +214,7 @@
         "channel": "Public Movies (576p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a8c7592292042c43a85f588c8550aaba.m3u8",
         "country": "india",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
@@ -245,8 +245,8 @@
         "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -273,8 +273,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -298,7 +298,7 @@
         "channel": "Udaya Movies",
         "link": "https://list.iptvcat.com/my_list/s/bb1479f81e6b35b48d740b701f7a328a.m3u8",
         "country": "india",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
@@ -354,8 +354,8 @@
         "channel": "Star Gold Select",
         "link": "https://list.iptvcat.com/my_list/s/c6981e7b6a9b88df534504b46bc2e31e.m3u8",
         "country": "india",
-        "liveliness": "98",
-        "status": "offline",
+        "liveliness": "99",
+        "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -396,7 +396,7 @@
         "channel": "Star Jalsha FHD",
         "link": "https://list.iptvcat.com/my_list/s/ded6e68317c9f73e1fde35a452440564.m3u8",
         "country": "india",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "fhd 2k",
@@ -427,8 +427,8 @@
         "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -466,7 +466,7 @@
         "channel": "Star Pravah HD",
         "link": "https://list.iptvcat.com/my_list/s/88e09ddc56bb52f2b9860221359efc8c.m3u8",
         "country": "india",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "fhd 2k",
@@ -523,7 +523,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f5f62a454e9c5e26a0249ef0784ab698.m3u8",
         "country": "india",
         "liveliness": "97",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -550,7 +550,7 @@
         "channel": "Star Suvarna",
         "link": "https://list.iptvcat.com/my_list/s/7925ec71559668d5affe011380bd3808.m3u8",
         "country": "india",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "fhd 2k",
@@ -564,11 +564,11 @@
         "channel": "Star Utsav",
         "link": "https://list.iptvcat.com/my_list/s/dc51174233ed82ca0ed92c0a0bbb57dd.m3u8",
         "country": "india",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1967",
         "URI": [
             "s"
         ]
@@ -578,7 +578,7 @@
         "channel": "Star Vijay HD",
         "link": "https://list.iptvcat.com/my_list/s/e59fc110d5eddabe299784cc62c07c1c.m3u8",
         "country": "india",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "fhd 2k",
@@ -592,8 +592,8 @@
         "channel": "Star Vijay Super",
         "link": "https://list.iptvcat.com/my_list/s/81fa074609ee269246bcf8fb5ed38fed.m3u8",
         "country": "india",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "97",
+        "status": "offline",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
         "mbps": "1509",

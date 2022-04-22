@@ -18,7 +18,7 @@
         "channel": "Movie Star HD",
         "link": "https://list.iptvcat.com/my_list/s/e28d57e0e705f132588f03f625599ca5.m3u8",
         "country": "bulgaria",
-        "liveliness": "46",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
@@ -46,7 +46,7 @@
         "channel": "Movie Star HD",
         "link": "https://list.iptvcat.com/my_list/s/e28d57e0e705f132588f03f625599ca5.m3u8",
         "country": "bulgaria",
-        "liveliness": "46",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
@@ -105,22 +105,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2504794",
-        "channel": "BTV Cinema",
-        "link": "https://list.iptvcat.com/my_list/s/a2bc7e568f60cd0d8f8ecdf17d58cb4e.m3u8",
-        "country": "bulgaria",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "s"
         ]
@@ -130,7 +116,7 @@
         "channel": "CineMax 1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/131c05dbcdd7cec49f8ffa76c6c951fd.m3u8",
         "country": "bulgaria",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "fhd 2k",
@@ -147,8 +133,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -158,22 +144,8 @@
         "channel": "Cinema Plus",
         "link": "https://list.iptvcat.com/my_list/s/3181c529f0f794e0d5c9ac9fdfce3033.m3u8",
         "country": "bulgaria",
-        "liveliness": "46",
+        "liveliness": "43",
         "status": "offline",
-        "lastChecked": "2022-04-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2448911",
-        "channel": "bTV Cinema",
-        "link": "https://list.iptvcat.com/my_list/s/07b9849dbe0ff80b429272cc6bab30b9.m3u8",
-        "country": "bulgaria",
-        "liveliness": "95",
-        "status": "online",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -196,11 +168,25 @@
         ]
     },
     {
+        "id": "2448911",
+        "channel": "bTV Cinema",
+        "link": "https://list.iptvcat.com/my_list/s/07b9849dbe0ff80b429272cc6bab30b9.m3u8",
+        "country": "bulgaria",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-04-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2504815",
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/4ff91d96c3a8ed78dfc74e289a9b6f60.m3u8",
         "country": "bulgaria",
-        "liveliness": "46",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-04-22T00:00:00Z",
         "format": "sd",
