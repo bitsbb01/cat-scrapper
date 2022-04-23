@@ -1,14 +1,56 @@
 [
     {
+        "id": "2512130",
+        "channel": "AXN MOVIES",
+        "link": "https://list.iptvcat.com/my_list/s/11f79c370b007b0960037e8bd27997b2.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2512134",
+        "channel": "AXN MOVIES H.265/HEVC",
+        "link": "https://list.iptvcat.com/my_list/s/186f3b74c0f403144b49d5ab5ce28ca9.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2457619",
         "channel": "AXN MOVIES HD",
         "link": "https://list.iptvcat.com/my_list/s/1583ba3d091520cb64e3674b885b4d1f.m3u8",
         "country": "portugal",
-        "liveliness": "41",
-        "status": "online",
+        "liveliness": "40",
+        "status": "offline",
         "lastChecked": "2022-04-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2512132",
+        "channel": "AXN MOVIES HD",
+        "link": "https://list.iptvcat.com/my_list/s/0d71760cd56d74b57614feea6f58b04d.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -18,7 +60,7 @@
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/7ebbbc2318f9598efdd3bd6dc1008476.m3u8",
         "country": "portugal",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-04-23T00:00:00Z",
         "format": "sd",
@@ -42,15 +84,43 @@
         ]
     },
     {
+        "id": "2512170",
+        "channel": "FOX MOVIES",
+        "link": "https://list.iptvcat.com/my_list/s/c606b1028cf8875a22185aad2c063e1f.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2505775",
         "channel": "FOX MOVIES HD",
         "link": "https://list.iptvcat.com/my_list/s/46f177616772377d648ca2a85afa2571.m3u8",
         "country": "portugal",
-        "liveliness": "9",
+        "liveliness": "8",
         "status": "offline",
         "lastChecked": "2022-04-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2457575",
+        "channel": "FOX MOVIES HD",
+        "link": "https://list.iptvcat.com/my_list/s/33bc2f137b1589f6e7881d983ffd4662.m3u8",
+        "country": "portugal",
+        "liveliness": "37",
+        "status": "offline",
+        "lastChecked": "2022-04-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -70,15 +140,15 @@
         ]
     },
     {
-        "id": "2457575",
+        "id": "2512172",
         "channel": "FOX MOVIES HD",
-        "link": "https://list.iptvcat.com/my_list/s/33bc2f137b1589f6e7881d983ffd4662.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f079011a03eb89135ee02111b2c2f1ba.m3u8",
         "country": "portugal",
-        "liveliness": "38",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -88,7 +158,7 @@
         "channel": "Fox Movies",
         "link": "https://list.iptvcat.com/my_list/s/ac8e1dd1e2e5858c3c796eceec3d8024.m3u8",
         "country": "portugal",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-04-23T00:00:00Z",
         "format": "sd",
@@ -102,151 +172,11 @@
         "channel": "Fox Movies FHD",
         "link": "https://list.iptvcat.com/my_list/s/80effc15c1b6c77eec09c3be12d0d6bd.m3u8",
         "country": "portugal",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-04-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2505868",
-        "channel": "DISNEY CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/58304acf728ff9c67856aad117dfc4fa.m3u8",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2458720",
-        "channel": "DISNEY CHANNEL NET MUITO LENTA",
-        "link": "https://list.iptvcat.com/my_list/s/2698d16116db1f1690d1bff77013e48a.m3u8",
-        "country": "portugal",
-        "liveliness": "24",
-        "status": "offline",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2457529",
-        "channel": "DISNEY JUNIOR",
-        "link": "https://list.iptvcat.com/my_list/s/02f0d6b6b175e9ca85bd7f1318484e24.m3u8",
-        "country": "portugal",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "4532",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2453974",
-        "channel": "DISNEY JUNIOR",
-        "link": "https://list.iptvcat.com/my_list/s/d15aee82da02cc34f5d01da4b69c0d61.m3u8",
-        "country": "portugal",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2505869",
-        "channel": "DISNEY JUNIOR",
-        "link": "https://list.iptvcat.com/my_list/s/a65f525a9655694a8cefdb9f62aa7f1b.m3u8",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2505849",
-        "channel": "DISNEY JUNIOR HD",
-        "link": "https://list.iptvcat.com/my_list/s/8f3a3381596714a3c15b7f467bafb8d9.m3u8",
-        "country": "portugal",
-        "liveliness": "9",
-        "status": "offline",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2459244",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/a9722f9c872c7ea16f243db7c7d82530.m3u8",
-        "country": "portugal",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2505681",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/5ffc55b4cb8cef98fc28ade489654eaa.m3u8",
-        "country": "portugal",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2501079",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/4303679779c0a2c673db0da5a5113ef6.m3u8",
-        "country": "portugal",
-        "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2459246",
-        "channel": "Disney Junior",
-        "link": "https://list.iptvcat.com/my_list/s/37880be9c14180805f011f6a2f6ca604.m3u8",
-        "country": "portugal",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-04-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "s"
         ]
