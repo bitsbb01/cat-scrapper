@@ -21,8 +21,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -61,7 +61,7 @@
         "link": "https://list.iptvcat.com/my_list/s/cb77fa21ad64a0efc4b90e190b6969df.m3u8",
         "country": "netherlands",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -77,8 +77,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -116,8 +116,8 @@
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/7e6b57dc9ade5e8f399e72f2ab39c08b.m3u8",
         "country": "netherlands",
-        "liveliness": "60",
-        "status": "online",
+        "liveliness": "59",
+        "status": "offline",
         "lastChecked": "2022-04-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -203,8 +203,22 @@
         "liveliness": "80",
         "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2505491",
+        "channel": "Veronica/Disney XD",
+        "link": "https://list.iptvcat.com/my_list/s/2f298ba0b52531c28995326b0f160972.m3u8",
+        "country": "netherlands",
+        "liveliness": "76",
+        "status": "online",
+        "lastChecked": "2022-04-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -215,24 +229,10 @@
         "link": "https://list.iptvcat.com/my_list/s/5537f1d089267a0f39a728bc1e47564b.m3u8",
         "country": "netherlands",
         "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-04-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "4825",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2505491",
-        "channel": "Veronica/Disney XD",
-        "link": "https://list.iptvcat.com/my_list/s/2f298ba0b52531c28995326b0f160972.m3u8",
-        "country": "netherlands",
-        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
