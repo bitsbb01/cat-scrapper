@@ -4,7 +4,7 @@
         "channel": "Rai Movie FHD",
         "link": "https://list.iptvcat.com/my_list/s/e14edb2453d923a8e9b9726ace1981bc.m3u8",
         "country": "italy",
-        "liveliness": "61",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-04-26T00:00:00Z",
         "format": "fhd 2k",
@@ -14,29 +14,15 @@
         ]
     },
     {
-        "id": "2484620",
-        "channel": "Rai Movie HD",
-        "link": "https://list.iptvcat.com/my_list/s/bb829efad29440f46b911beb11c55bc6.m3u8",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-04-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2505259",
         "channel": "Rai Movie HD",
         "link": "https://list.iptvcat.com/my_list/s/8b113d32c11cbe3e58c9c71700d78327.m3u8",
         "country": "italy",
-        "liveliness": "92",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-04-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -47,6 +33,20 @@
         "link": "https://list.iptvcat.com/my_list/s/b00913be8e41aa22bf3c5364092af127.m3u8",
         "country": "italy",
         "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-04-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2484620",
+        "channel": "Rai Movie HD",
+        "link": "https://list.iptvcat.com/my_list/s/bb829efad29440f46b911beb11c55bc6.m3u8",
+        "country": "italy",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-04-26T00:00:00Z",
         "format": "hd",
