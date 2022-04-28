@@ -21,8 +21,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -35,8 +35,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -50,7 +50,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -64,7 +64,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "13324",
         "URI": [
             "s"
         ]
@@ -78,7 +78,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370",
         "URI": [
             "s"
         ]
@@ -88,11 +88,11 @@
         "channel": "HBO SIGNATURE",
         "link": "https://list.iptvcat.com/my_list/s/8f7cc7f3327067bde6d5f0d60e4b60da.m3u8",
         "country": "netherlands",
-        "liveliness": "50",
-        "status": "offline",
+        "liveliness": "83",
+        "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "s"
         ]
@@ -189,8 +189,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -217,8 +217,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "4825",
         "URI": [
             "s"
         ]
@@ -228,8 +228,8 @@
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/7e6b57dc9ade5e8f399e72f2ab39c08b.m3u8",
         "country": "netherlands",
-        "liveliness": "59",
-        "status": "online",
+        "liveliness": "58",
+        "status": "offline",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -245,22 +245,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "4821",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2517241",
-        "channel": "VERONICA DISNEY XD",
-        "link": "https://list.iptvcat.com/my_list/s/ab2bcd3737eadfa70d1708c645f579ee.m3u8",
-        "country": "netherlands",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "4594",
         "URI": [
             "s"
         ]
@@ -280,6 +266,20 @@
         ]
     },
     {
+        "id": "2517241",
+        "channel": "VERONICA DISNEY XD",
+        "link": "https://list.iptvcat.com/my_list/s/ab2bcd3737eadfa70d1708c645f579ee.m3u8",
+        "country": "netherlands",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2022-04-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2515843",
         "channel": "VERONICA/DISNEY XD FHD",
         "link": "https://list.iptvcat.com/my_list/s/c53d1dd9c440abe1de5bdb96adfcb9c6.m3u8",
@@ -287,8 +287,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "4825",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -329,8 +329,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -350,11 +350,11 @@
         ]
     },
     {
-        "id": "2505491",
+        "id": "2470015",
         "channel": "Veronica/Disney XD",
-        "link": "https://list.iptvcat.com/my_list/s/2f298ba0b52531c28995326b0f160972.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5537f1d089267a0f39a728bc1e47564b.m3u8",
         "country": "netherlands",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "fhd 2k",
@@ -364,12 +364,12 @@
         ]
     },
     {
-        "id": "2470015",
+        "id": "2505491",
         "channel": "Veronica/Disney XD",
-        "link": "https://list.iptvcat.com/my_list/s/5537f1d089267a0f39a728bc1e47564b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2f298ba0b52531c28995326b0f160972.m3u8",
         "country": "netherlands",
-        "liveliness": "75",
-        "status": "online",
+        "liveliness": "71",
+        "status": "offline",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -400,7 +400,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
-        "mbps": "3629",
+        "mbps": "3689",
         "URI": [
             "s"
         ]
@@ -414,7 +414,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "6730",
+        "mbps": "8370",
         "URI": [
             "s"
         ]

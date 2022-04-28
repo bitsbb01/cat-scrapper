@@ -7,8 +7,8 @@
         "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "2743",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -35,8 +35,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -46,7 +46,7 @@
         "channel": "SKY DRAMA",
         "link": "https://list.iptvcat.com/my_list/s/87f2124f9fcd694e5ac7e6c8978b0093.m3u8",
         "country": "albania",
-        "liveliness": "79",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
@@ -74,7 +74,7 @@
         "channel": "SKY DRAMË",
         "link": "https://list.iptvcat.com/my_list/s/dd8beea7433a57aaf4bf9c09f2183684.m3u8",
         "country": "albania",
-        "liveliness": "87",
+        "liveliness": "83",
         "status": "offline",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
@@ -92,7 +92,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "3625",
         "URI": [
             "s"
         ]
@@ -102,8 +102,8 @@
         "channel": "SKY KOMEDI",
         "link": "https://list.iptvcat.com/my_list/s/b2b97d86776e7ad9cc301246620a0af3.m3u8",
         "country": "albania",
-        "liveliness": "89",
-        "status": "online",
+        "liveliness": "85",
+        "status": "offline",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -158,25 +158,11 @@
         "channel": "SKY PLANET",
         "link": "https://list.iptvcat.com/my_list/s/ac597467f211c4cd212301fbf0095abb.m3u8",
         "country": "albania",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2517755",
-        "channel": "SKY SHKENCE",
-        "link": "https://list.iptvcat.com/my_list/s/c55b778d1f20653d2322328f527c5955.m3u8",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "1479",
         "URI": [
             "s"
         ]
@@ -196,6 +182,20 @@
         ]
     },
     {
+        "id": "2517755",
+        "channel": "SKY SHKENCE",
+        "link": "https://list.iptvcat.com/my_list/s/c55b778d1f20653d2322328f527c5955.m3u8",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-04-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2517716",
         "channel": "SKY SHQIP",
         "link": "https://list.iptvcat.com/my_list/s/464df5297172e098d61f1feeb03c3ba1.m3u8",
@@ -204,7 +204,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "1104",
         "URI": [
             "s"
         ]
@@ -232,7 +232,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
-        "mbps": "2285",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -259,8 +259,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -280,11 +280,11 @@
         ]
     },
     {
-        "id": "2517817",
+        "id": "2505478",
         "channel": "FOX MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/020fe43236807d5fb37dc90e7a9e0175.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e8c1f55541a27d7ae9e9fe83429af407.m3u8",
         "country": "albania",
-        "liveliness": "50",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
@@ -294,12 +294,12 @@
         ]
     },
     {
-        "id": "2505478",
+        "id": "2517817",
         "channel": "FOX MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/e8c1f55541a27d7ae9e9fe83429af407.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/020fe43236807d5fb37dc90e7a9e0175.m3u8",
         "country": "albania",
-        "liveliness": "97",
-        "status": "offline",
+        "liveliness": "75",
+        "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -315,8 +315,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -329,8 +329,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -344,7 +344,7 @@
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "4825",
         "URI": [
             "s"
         ]
@@ -357,8 +357,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "5224",
+        "format": "hd",
+        "mbps": "4825",
         "URI": [
             "s"
         ]
@@ -413,8 +413,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "format": "sd",
+        "mbps": "4715",
         "URI": [
             "s"
         ]
@@ -427,8 +427,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -441,8 +441,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-04-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
