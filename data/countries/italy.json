@@ -6,7 +6,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -18,25 +18,11 @@
         "channel": "Rai Movie FHD",
         "link": "https://list.iptvcat.com/my_list/s/38db83ebf83790fc0d2dc9070b82d1dd.m3u8",
         "country": "italy",
-        "liveliness": "75",
+        "liveliness": "60",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2287427",
-        "channel": "Rai Movie FHD",
-        "link": "https://list.iptvcat.com/my_list/s/e14edb2453d923a8e9b9726ace1981bc.m3u8",
-        "country": "italy",
-        "liveliness": "58",
-        "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -48,7 +34,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -62,7 +48,21 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2287427",
+        "channel": "Rai Movie FHD",
+        "link": "https://list.iptvcat.com/my_list/s/e14edb2453d923a8e9b9726ace1981bc.m3u8",
+        "country": "italy",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -74,9 +74,9 @@
         "channel": "Rai Movie HD",
         "link": "https://list.iptvcat.com/my_list/s/8682d3f7cae86ba1989b62546da6a632.m3u8",
         "country": "italy",
-        "liveliness": "50",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -88,9 +88,9 @@
         "channel": "Rai Movie HD",
         "link": "https://list.iptvcat.com/my_list/s/f293886a8b24b174db190368f6c5d321.m3u8",
         "country": "italy",
-        "liveliness": "18",
+        "liveliness": "17",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -104,23 +104,9 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2538655",
-        "channel": "Rai Movie HD",
-        "link": "https://list.iptvcat.com/my_list/s/675736f269d684868e51097964a4bc7a.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -132,9 +118,23 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2022-05-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2538655",
+        "channel": "Rai Movie HD",
+        "link": "https://list.iptvcat.com/my_list/s/675736f269d684868e51097964a4bc7a.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -144,23 +144,9 @@
         "channel": "Rai Movie HD+",
         "link": "https://list.iptvcat.com/my_list/s/df071819778a71c82f843a7851c87b91.m3u8",
         "country": "italy",
-        "liveliness": "58",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2521561",
-        "channel": "VIP Rai Movie FHD",
-        "link": "https://list.iptvcat.com/my_list/s/7a75adf2a48d581ee213c12f3af558cf.m3u8",
-        "country": "italy",
-        "liveliness": "72",
-        "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -172,9 +158,9 @@
         "channel": "VIP Rai Movie FHD",
         "link": "https://list.iptvcat.com/my_list/s/e5d3c3ff36c5d1f11908ad2ec9d62ca7.m3u8",
         "country": "italy",
-        "liveliness": "66",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -182,13 +168,13 @@
         ]
     },
     {
-        "id": "2520844",
-        "channel": "VIP Rai Movie HD",
-        "link": "https://list.iptvcat.com/my_list/s/0df5d21c9749fb27e2e2b545d7e7d99d.m3u8",
+        "id": "2521561",
+        "channel": "VIP Rai Movie FHD",
+        "link": "https://list.iptvcat.com/my_list/s/7a75adf2a48d581ee213c12f3af558cf.m3u8",
         "country": "italy",
-        "liveliness": "58",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -200,11 +186,25 @@
         "channel": "VIP Rai Movie HD",
         "link": "https://list.iptvcat.com/my_list/s/a3ec69ae5a5930f57fae2cedd784e745.m3u8",
         "country": "italy",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "56",
+        "status": "offline",
+        "lastChecked": "2022-05-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2520844",
+        "channel": "VIP Rai Movie HD",
+        "link": "https://list.iptvcat.com/my_list/s/0df5d21c9749fb27e2e2b545d7e7d99d.m3u8",
+        "country": "italy",
+        "liveliness": "55",
+        "status": "offline",
+        "lastChecked": "2022-05-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -214,9 +214,9 @@
         "channel": "Disney HD",
         "link": "https://list.iptvcat.com/my_list/s/06f399d5f084c3b0c4e617ee50521982.m3u8",
         "country": "italy",
-        "liveliness": "25",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -228,9 +228,9 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/79347bc9704ea90a48917b08880001d6.m3u8",
         "country": "italy",
-        "liveliness": "25",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -244,9 +244,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
-        "mbps": "7615",
+        "mbps": "5041",
         "URI": [
             "s"
         ]
@@ -258,9 +258,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
-        "mbps": "5065",
+        "mbps": "5992",
         "URI": [
             "s"
         ]
@@ -272,9 +272,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
-        "mbps": "7983",
+        "mbps": "8022",
         "URI": [
             "s"
         ]
@@ -286,7 +286,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6724",
         "URI": [
@@ -298,9 +298,9 @@
         "channel": "Disney+ FHD",
         "link": "https://list.iptvcat.com/my_list/s/8f781a45c442fad088447310fbaceccf.m3u8",
         "country": "italy",
-        "liveliness": "48",
+        "liveliness": "47",
         "status": "offline",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
         "mbps": "5016",
         "URI": [
@@ -312,11 +312,11 @@
         "channel": "Eagle - Disney Plus Animation HD",
         "link": "https://list.iptvcat.com/my_list/s/edc02997351214cca10565822354336f.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
-        "mbps": "5065",
+        "mbps": "5016",
         "URI": [
             "s"
         ]
@@ -326,11 +326,11 @@
         "channel": "Eagle - Disney Plus Film 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/9af563c6e04aabf2536ebbc532b5fadd.m3u8",
         "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "5992",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-05-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "s"
         ]
@@ -340,9 +340,9 @@
         "channel": "Eagle - Disney Plus Film HD",
         "link": "https://list.iptvcat.com/my_list/s/c796e60e3741f69914d56363e7d89a9a.m3u8",
         "country": "italy",
-        "liveliness": "75",
-        "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
         "mbps": "5065",
         "URI": [
@@ -354,11 +354,25 @@
         "channel": "Eagle - Disney Plus Nature HD",
         "link": "https://list.iptvcat.com/my_list/s/d80ba1c0784bfd3b2aec48b762f1941e.m3u8",
         "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
         "mbps": "6675",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2538637",
+        "channel": "Premium Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/2bddc5a6af1cc968bfc66656abce4700.m3u8",
+        "country": "italy",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-05-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -370,7 +384,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -384,21 +398,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2538637",
-        "channel": "Premium Disney Junior",
-        "link": "https://list.iptvcat.com/my_list/s/2bddc5a6af1cc968bfc66656abce4700.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-06T00:00:00Z",
+        "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
