@@ -4,7 +4,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/22342ab18bb626139a566b3a2d10240f.m3u8",
         "country": "romania",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-05-16T00:00:00Z",
         "format": "hd",
@@ -14,11 +14,25 @@
         ]
     },
     {
+        "id": "2533523",
+        "channel": "HBO 2",
+        "link": "https://list.iptvcat.com/my_list/s/c76f959c31384252b06d4ad49b97e874.m3u8",
+        "country": "romania",
+        "liveliness": "76",
+        "status": "offline",
+        "lastChecked": "2022-05-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2539503",
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/cd7364acd69d96d1357ec80d1113b13b.m3u8",
         "country": "romania",
-        "liveliness": "76",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-05-16T00:00:00Z",
         "format": "fhd 2k",
@@ -28,40 +42,12 @@
         ]
     },
     {
-        "id": "2533523",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/c76f959c31384252b06d4ad49b97e874.m3u8",
-        "country": "romania",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-05-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2511789",
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/ce65828b0ce77478163051ddfc977d9a.m3u8",
         "country": "romania",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-05-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2523814",
-        "channel": "HBO 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/5363e9e7ce6a96fc616d697559b05028.m3u8",
-        "country": "romania",
-        "liveliness": "57",
-        "status": "offline",
         "lastChecked": "2022-05-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -74,7 +60,7 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/d8c03bf4c7005b19c2fc144aa35ef70b.m3u8",
         "country": "romania",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-05-16T00:00:00Z",
         "format": "fhd 2k",
@@ -84,15 +70,15 @@
         ]
     },
     {
-        "id": "2533524",
-        "channel": "HBO 3",
-        "link": "https://list.iptvcat.com/my_list/s/7f942cd98a710ff608a5667874357313.m3u8",
+        "id": "2523814",
+        "channel": "HBO 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/5363e9e7ce6a96fc616d697559b05028.m3u8",
         "country": "romania",
-        "liveliness": "72",
+        "liveliness": "55",
         "status": "offline",
         "lastChecked": "2022-05-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "s"
         ]
@@ -102,7 +88,7 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/c93b2d0bb5e073256eaa5f5b8be6233d.m3u8",
         "country": "romania",
-        "liveliness": "72",
+        "liveliness": "70",
         "status": "offline",
         "lastChecked": "2022-05-16T00:00:00Z",
         "format": "sd",
@@ -119,8 +105,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-05-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "2285",
         "URI": [
             "s"
         ]
@@ -133,8 +119,8 @@
         "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-05-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1706",
         "URI": [
             "s"
         ]
@@ -144,11 +130,81 @@
         "channel": "HBO 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/c757ed79ed2fefe351636c7b2a3d73af.m3u8",
         "country": "romania",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "offline",
         "lastChecked": "2022-05-16T00:00:00Z",
         "format": "sd",
         "mbps": "2285",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2511784",
+        "channel": "HBO ROMANIA",
+        "link": "https://list.iptvcat.com/my_list/s/08d1bb8f41aad10a1f8ac4e353264d6d.m3u8",
+        "country": "romania",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2022-05-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2533525",
+        "channel": "HBO Romania",
+        "link": "https://list.iptvcat.com/my_list/s/73985a752b05added07ab718e0d98409.m3u8",
+        "country": "romania",
+        "liveliness": "74",
+        "status": "offline",
+        "lastChecked": "2022-05-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2486291",
+        "channel": "HBO Romania",
+        "link": "https://list.iptvcat.com/my_list/s/0a9122d5708af05e8e289ff6984a5478.m3u8",
+        "country": "romania",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-05-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2539507",
+        "channel": "HBO Romania",
+        "link": "https://list.iptvcat.com/my_list/s/1b9c6f2c5f0ca77e200cad37f585c8fd.m3u8",
+        "country": "romania",
+        "liveliness": "73",
+        "status": "offline",
+        "lastChecked": "2022-05-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2539411",
+        "channel": "HBO SD",
+        "link": "https://list.iptvcat.com/my_list/s/ccb512bb791d45191316f7a309d961dd.m3u8",
+        "country": "romania",
+        "liveliness": "25",
+        "status": "offline",
+        "lastChecked": "2022-05-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
