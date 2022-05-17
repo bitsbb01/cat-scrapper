@@ -4,25 +4,11 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/22342ab18bb626139a566b3a2d10240f.m3u8",
         "country": "romania",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-05-17T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2539503",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/cd7364acd69d96d1357ec80d1113b13b.m3u8",
-        "country": "romania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-05-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -46,7 +32,7 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/5363e9e7ce6a96fc616d697559b05028.m3u8",
         "country": "romania",
-        "liveliness": "54",
+        "liveliness": "52",
         "status": "offline",
         "lastChecked": "2022-05-17T00:00:00Z",
         "format": "fhd 2k",
@@ -60,7 +46,7 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/d8c03bf4c7005b19c2fc144aa35ef70b.m3u8",
         "country": "romania",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-05-17T00:00:00Z",
         "format": "fhd 2k",
@@ -89,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/885a643d8264da4b14cc7f5ffd0e659f.m3u8",
         "country": "romania",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-05-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -102,7 +88,7 @@
         "channel": "HBO 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/c757ed79ed2fefe351636c7b2a3d73af.m3u8",
         "country": "romania",
-        "liveliness": "94",
+        "liveliness": "93",
         "status": "offline",
         "lastChecked": "2022-05-17T00:00:00Z",
         "format": "sd",
@@ -126,25 +112,11 @@
         ]
     },
     {
-        "id": "2539507",
-        "channel": "HBO Romania",
-        "link": "https://list.iptvcat.com/my_list/s/1b9c6f2c5f0ca77e200cad37f585c8fd.m3u8",
-        "country": "romania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2022-05-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2486291",
         "channel": "HBO Romania",
         "link": "https://list.iptvcat.com/my_list/s/0a9122d5708af05e8e289ff6984a5478.m3u8",
         "country": "romania",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
         "lastChecked": "2022-05-17T00:00:00Z",
         "format": "sd",
@@ -154,15 +126,57 @@
         ]
     },
     {
-        "id": "2539411",
-        "channel": "HBO SD",
-        "link": "https://list.iptvcat.com/my_list/s/ccb512bb791d45191316f7a309d961dd.m3u8",
+        "id": "2511868",
+        "channel": "DISNEY CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/16ece6151f4b596ec05a60940a91378f.m3u8",
         "country": "romania",
-        "liveliness": "24",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-05-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1706",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2485968",
+        "channel": "Disney Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/23bf81eedf9ef869efcf8286fd13fa5a.m3u8",
+        "country": "romania",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-05-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2539206",
+        "channel": "Disney Jr",
+        "link": "https://list.iptvcat.com/my_list/s/20248954560a7c87ee1f17ecddaca1df.m3u8",
+        "country": "romania",
+        "liveliness": "31",
+        "status": "online",
+        "lastChecked": "2022-05-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2485980",
+        "channel": "Disney Junior HD",
+        "link": "https://list.iptvcat.com/my_list/s/af11ba34c04c5febc5886ebd5260dd6c.m3u8",
+        "country": "romania",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2022-05-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
