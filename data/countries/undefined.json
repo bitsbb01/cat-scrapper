@@ -105,8 +105,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "sd",
+        "mbps": "2253",
         "URI": [
             "s"
         ]
@@ -133,8 +133,22 @@
         "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "1453, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200314",
+        "channel": "FilmRise Free Movies",
+        "link": "https://list.iptvcat.com/my_list/s/ff6f087c745188a28b8e0bbbf3dae9cb.m3u8",
+        "country": "undefined",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1453, ...",
         "URI": [
             "s"
         ]
@@ -154,20 +168,6 @@
         ]
     },
     {
-        "id": "1200314",
-        "channel": "FilmRise Free Movies",
-        "link": "https://list.iptvcat.com/my_list/s/ff6f087c745188a28b8e0bbbf3dae9cb.m3u8",
-        "country": "undefined",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "957665",
         "channel": "Filmrise Movies",
         "link": "https://list.iptvcat.com/my_list/s/2d25206b3bc46adc18955bd48e4fe923.m3u8",
@@ -176,7 +176,7 @@
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -210,25 +210,25 @@
         ]
     },
     {
-        "id": "957731",
-        "channel": "Gravitas Movies",
-        "link": "https://list.iptvcat.com/my_list/s/1d06da363bd23bc788346108f26f1cd2.m3u8",
-        "country": "undefined",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "1200366",
         "channel": "Gravitas Movies",
         "link": "https://list.iptvcat.com/my_list/s/39378affdf248faa90898c8a8b2ffa5e.m3u8",
         "country": "undefined",
         "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957731",
+        "channel": "Gravitas Movies",
+        "link": "https://list.iptvcat.com/my_list/s/1d06da363bd23bc788346108f26f1cd2.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -284,7 +284,7 @@
         "channel": "Local Now Movies of the 2000s",
         "link": "https://list.iptvcat.com/my_list/s/80b45c2a27cbfd3fcda362983cc1a80d.m3u8",
         "country": "undefined",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -312,7 +312,7 @@
         "channel": "Local Now Movies of the 2020s (720p)",
         "link": "https://list.iptvcat.com/my_list/s/d64ff09248c375aec3bf0a801941ed0d.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -340,7 +340,7 @@
         "channel": "Local Now Movies of the 50's and 60's (720p)",
         "link": "https://list.iptvcat.com/my_list/s/4c4567ec49eded8495c2e273254c7596.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -354,7 +354,7 @@
         "channel": "Local Now Movies of the 70's (720p)",
         "link": "https://list.iptvcat.com/my_list/s/17294901e34a72472bb8666d5e3dcbe4.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -368,7 +368,7 @@
         "channel": "Local Now Movies of the 80's (720p)",
         "link": "https://list.iptvcat.com/my_list/s/3975177aca8784aa919c90a377f07367.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -413,8 +413,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1247, ...",
+        "format": "hd",
+        "mbps": "3066, ...",
         "URI": [
             "s"
         ]
@@ -427,8 +427,8 @@
         "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
+        "format": "sd",
+        "mbps": "1124, ...",
         "URI": [
             "s"
         ]
@@ -546,48 +546,6 @@
         ]
     },
     {
-        "id": "1200530",
-        "channel": "MyTime Movie Network",
-        "link": "https://list.iptvcat.com/my_list/s/45f1ecb12809181ea30bd26a5cb0d670.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "13324, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1200531",
-        "channel": "MyTime Movie Network (Brazil)",
-        "link": "https://list.iptvcat.com/my_list/s/c535cbe39707a7eb202fddf0a02f0f80.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1200532",
-        "channel": "MyTime Movie Network (Mexico)",
-        "link": "https://list.iptvcat.com/my_list/s/153d9b2329c7d340d3aa75a492ab1dc3.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2472631",
         "channel": "HBO Asia",
         "link": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
@@ -616,11 +574,11 @@
         ]
     },
     {
-        "id": "1162474",
-        "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
-        "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
+        "id": "957077",
+        "channel": "Hallmark Movies \u0026 More",
+        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
         "country": "undefined",
-        "liveliness": "91",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -630,11 +588,11 @@
         ]
     },
     {
-        "id": "957077",
-        "channel": "Hallmark Movies \u0026 More",
-        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
+        "id": "1162474",
+        "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
+        "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",

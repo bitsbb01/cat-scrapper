@@ -7,8 +7,8 @@
         "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -35,8 +35,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -50,7 +50,7 @@
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "5007",
         "URI": [
             "s"
         ]
@@ -88,8 +88,8 @@
         "channel": "MOVISTAR CineDoc\u0026Roll FHD",
         "link": "https://list.iptvcat.com/my_list/s/660ddfeb7e15d4f761585030bf6fddf6.m3u8",
         "country": "spain",
-        "liveliness": "89",
-        "status": "online",
+        "liveliness": "87",
+        "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -102,11 +102,11 @@
         "channel": "MOVISTAR CineDoc\u0026Roll HD",
         "link": "https://list.iptvcat.com/my_list/s/da4aac9a355d5289738d01f30871f21a.m3u8",
         "country": "spain",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -116,8 +116,22 @@
         "channel": "MOVISTAR DCINE FHD",
         "link": "https://list.iptvcat.com/my_list/s/56b15dcd6a8522780279a545cf8870af.m3u8",
         "country": "spain",
-        "liveliness": "84",
-        "status": "online",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2542306",
+        "channel": "MOVISTAR DCINE HD",
+        "link": "https://list.iptvcat.com/my_list/s/9315d5fe7648a4a324cb9a79d1931e3d.m3u8",
+        "country": "spain",
+        "liveliness": "92",
+        "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -131,20 +145,6 @@
         "link": "https://list.iptvcat.com/my_list/s/0910119f7bcf23dfb57f032a5309cf65.m3u8",
         "country": "spain",
         "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2542306",
-        "channel": "MOVISTAR DCINE HD",
-        "link": "https://list.iptvcat.com/my_list/s/9315d5fe7648a4a324cb9a79d1931e3d.m3u8",
-        "country": "spain",
-        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
@@ -161,8 +161,8 @@
         "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -172,11 +172,11 @@
         "channel": "MOVISTAR DEPORTE 2 HD (Solo Eventos)",
         "link": "https://list.iptvcat.com/my_list/s/cdc577365b0e697230ffcf4c271bfd30.m3u8",
         "country": "spain",
-        "liveliness": "66",
-        "status": "online",
+        "liveliness": "65",
+        "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -242,7 +242,7 @@
         "channel": "MOVISTAR DEPORTES 2 FHD",
         "link": "https://list.iptvcat.com/my_list/s/2f79563ed5b7285d5322f5ad78999c54.m3u8",
         "country": "spain",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
@@ -273,8 +273,8 @@
         "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -284,11 +284,11 @@
         "channel": "MOVISTAR DEPORTES HD",
         "link": "https://list.iptvcat.com/my_list/s/7b2b8c4cebbb66aad969a493a024b180.m3u8",
         "country": "spain",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "5007",
         "URI": [
             "s"
         ]
@@ -298,8 +298,8 @@
         "channel": "MOVISTAR DEPORTES HEVC",
         "link": "https://list.iptvcat.com/my_list/s/03dd19f9998f9da65e93a143ba260c1f.m3u8",
         "country": "spain",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
         "mbps": "11105",
@@ -312,7 +312,7 @@
         "channel": "MOVISTAR DRAMA FHD",
         "link": "https://list.iptvcat.com/my_list/s/61e18b1213b3bed7d62fc8b7237e94b6.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
@@ -343,8 +343,8 @@
         "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -354,7 +354,7 @@
         "channel": "MOVISTAR ESTRENOS 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/0cc83c4b0c66ac19c2dbb8fd5be26639.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
@@ -368,7 +368,7 @@
         "channel": "MOVISTAR ESTRENOS FHD",
         "link": "https://list.iptvcat.com/my_list/s/345a01289977051a17ec40e4db119270.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
@@ -424,11 +424,11 @@
         "channel": "MOVISTAR F1 FulHD",
         "link": "https://list.iptvcat.com/my_list/s/75e7504ef57abd62399d69194cba3797.m3u8",
         "country": "spain",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -452,11 +452,11 @@
         "channel": "MOVISTAR FORMULA 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/d7feda049a505a7e39f27d7af1fe4185.m3u8",
         "country": "spain",
-        "liveliness": "84",
-        "status": "online",
+        "liveliness": "83",
+        "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -467,7 +467,7 @@
         "link": "https://list.iptvcat.com/my_list/s/99b5c36e3ab885cdfc8c28422edff80a.m3u8",
         "country": "spain",
         "liveliness": "52",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -481,7 +481,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fa25d452edc1988cf810d951790453c4.m3u8",
         "country": "spain",
         "liveliness": "59",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -511,8 +511,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "5007",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -523,21 +523,7 @@
         "link": "https://list.iptvcat.com/my_list/s/184102b1403c9d6a3df4130955b34068.m3u8",
         "country": "spain",
         "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2498927",
-        "channel": "DISNEY JR",
-        "link": "https://list.iptvcat.com/my_list/s/d6502c10907b2837c1862bb38b6e39ac.m3u8",
-        "country": "spain",
-        "liveliness": "58",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -560,11 +546,53 @@
         ]
     },
     {
+        "id": "2498927",
+        "channel": "DISNEY JR",
+        "link": "https://list.iptvcat.com/my_list/s/d6502c10907b2837c1862bb38b6e39ac.m3u8",
+        "country": "spain",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2547931",
+        "channel": "DISNEY JR",
+        "link": "https://list.iptvcat.com/my_list/s/c2393ef4082b7f172fc0f41260778af9.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2547932",
+        "channel": "DISNEY XD",
+        "link": "https://list.iptvcat.com/my_list/s/1b146d5346a87b9bd53bfc822ec37154.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2515622",
         "channel": "DISNEY XD",
         "link": "https://list.iptvcat.com/my_list/s/9e521d59e2b0752954d016dc0d8742c3.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
@@ -578,7 +606,7 @@
         "channel": "DISNEY+",
         "link": "https://list.iptvcat.com/my_list/s/ebd67b80cb33c93184912981085f85e6.m3u8",
         "country": "spain",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
@@ -606,7 +634,7 @@
         "channel": "ESP - Disney Channel (X)(720)",
         "link": "https://list.iptvcat.com/my_list/s/45b752bb5c3cda388cfe90cb9f3e3b9e.m3u8",
         "country": "spain",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "fhd 2k",
@@ -620,11 +648,25 @@
         "channel": "ESP - Disney Junior (X)(720)",
         "link": "https://list.iptvcat.com/my_list/s/47d49e969374c574fdd6427232078d7a.m3u8",
         "country": "spain",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2548048",
+        "channel": "M. DISNEY+",
+        "link": "https://list.iptvcat.com/my_list/s/1f650499ebc27d3232b66b545000aad5.m3u8",
+        "country": "spain",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
