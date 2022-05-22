@@ -1,10 +1,10 @@
 [
     {
-        "id": "2283081",
-        "channel": "Disney Channel HD",
-        "link": "https://list.iptvcat.com/my_list/s/da1e42a89a2ec9f1a3c8040d04a816be.m3u8",
+        "id": "2552070",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/c1b009883fea735be5dab137c1b9bdd7.m3u8",
         "country": "sweden",
-        "liveliness": "52",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
@@ -14,11 +14,25 @@
         ]
     },
     {
-        "id": "2283086",
-        "channel": "Disney Junior HD",
-        "link": "https://list.iptvcat.com/my_list/s/7529d2c47735dc931a08ff99bd146c05.m3u8",
+        "id": "2283081",
+        "channel": "Disney Channel HD",
+        "link": "https://list.iptvcat.com/my_list/s/da1e42a89a2ec9f1a3c8040d04a816be.m3u8",
         "country": "sweden",
-        "liveliness": "55",
+        "liveliness": "52",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2552071",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/85af1a74f35844571719fad6672610e7.m3u8",
+        "country": "sweden",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",

@@ -683,20 +683,6 @@
             ]
         },
         {
-            "id": "2529931",
-            "channel": "HBO 1 CA",
-            "link": "https://list.iptvcat.com/my_list/s/0ac6fb7a66e11788e641580073175690.m3u8",
-            "country": "canada",
-            "liveliness": "43",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "3883",
-            "URI": [
-                "s"
-            ]
-        },
-        {
             "id": "2545161",
             "channel": "HBO 2",
             "link": "https://list.iptvcat.com/my_list/s/af0de4334bc3359a3e266682934adc79.m3u8",
@@ -5117,6 +5103,76 @@
     ],
     "latin america": [
         {
+            "id": "2546360",
+            "channel": "HBO",
+            "link": "https://list.iptvcat.com/my_list/s/412f9efe832bdec79807f82b3eed50fe.m3u8",
+            "country": "latin america",
+            "liveliness": "88",
+            "status": "offline",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "13311",
+            "URI": [
+                "s"
+            ]
+        },
+        {
+            "id": "2546361",
+            "channel": "HBO 2",
+            "link": "https://list.iptvcat.com/my_list/s/0a4c828e5f2dd11c5a930748ff790c0c.m3u8",
+            "country": "latin america",
+            "liveliness": "88",
+            "status": "offline",
+            "lastChecked": "2022-05-19T00:00:00Z",
+            "format": "sd",
+            "mbps": "2283",
+            "URI": [
+                "s"
+            ]
+        },
+        {
+            "id": "2546362",
+            "channel": "HBO FAMILY",
+            "link": "https://list.iptvcat.com/my_list/s/020ccd68cc06910a8009346e25a1bd99.m3u8",
+            "country": "latin america",
+            "liveliness": "88",
+            "status": "offline",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "sd",
+            "mbps": "721",
+            "URI": [
+                "s"
+            ]
+        },
+        {
+            "id": "2546363",
+            "channel": "HBO LATINO",
+            "link": "https://list.iptvcat.com/my_list/s/8c6dd7b5b957fa36acc190230cdf1b33.m3u8",
+            "country": "latin america",
+            "liveliness": "90",
+            "status": "offline",
+            "lastChecked": "2022-05-19T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "13311",
+            "URI": [
+                "s"
+            ]
+        },
+        {
+            "id": "2546364",
+            "channel": "HBO SIGNATURE",
+            "link": "https://list.iptvcat.com/my_list/s/117089951a9890038548c6122927d58e.m3u8",
+            "country": "latin america",
+            "liveliness": "90",
+            "status": "offline",
+            "lastChecked": "2022-05-19T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "13311",
+            "URI": [
+                "s"
+            ]
+        },
+        {
             "id": "2546373",
             "channel": "LIFETIME",
             "link": "https://list.iptvcat.com/my_list/s/41d566be456b8d61765148d80ecf8b7d.m3u8",
@@ -5385,22 +5441,6 @@
             ]
         }
     ],
-    "norway": [
-        {
-            "id": "2496591",
-            "channel": "Disney Channel",
-            "link": "https://list.iptvcat.com/my_list/s/d87ad564f0a9650e46ec959fc6687367.m3u8",
-            "country": "norway",
-            "liveliness": "34",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
-            "URI": [
-                "s"
-            ]
-        }
-    ],
     "poland": [
         {
             "id": "2488551",
@@ -5487,20 +5527,6 @@
             ]
         },
         {
-            "id": "2546819",
-            "channel": "HBO 2 HD",
-            "link": "https://list.iptvcat.com/my_list/s/120f03627f8d300af3dc8e8b3b9d91bb.m3u8",
-            "country": "poland",
-            "liveliness": "78",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "s"
-            ]
-        },
-        {
             "id": "2524098",
             "channel": "HBO 2 HD",
             "link": "https://list.iptvcat.com/my_list/s/6c0a0b32d8359a07ca9e79bd57720db5.m3u8",
@@ -5557,20 +5583,6 @@
             ]
         },
         {
-            "id": "2546820",
-            "channel": "HBO 3 HD",
-            "link": "https://list.iptvcat.com/my_list/s/20b14aaf1ef3c208c1bdfaa19588ddde.m3u8",
-            "country": "poland",
-            "liveliness": "79",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "s"
-            ]
-        },
-        {
             "id": "2517003",
             "channel": "HBO 3 HD",
             "link": "https://list.iptvcat.com/my_list/s/297c24b43e9ca650547d379ebe8a0d6a.m3u8",
@@ -5594,20 +5606,6 @@
             "lastChecked": "2022-05-19T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2546818",
-            "channel": "HBO HD",
-            "link": "https://list.iptvcat.com/my_list/s/3cc1476634a6beba51e33294c2b60f65.m3u8",
-            "country": "poland",
-            "liveliness": "84",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
             "URI": [
                 "s"
             ]
@@ -5669,20 +5667,6 @@
             ]
         },
         {
-            "id": "2546964",
-            "channel": "Lifetime HD",
-            "link": "https://list.iptvcat.com/my_list/s/20d67ba283375a3b380467982dcb00cb.m3u8",
-            "country": "poland",
-            "liveliness": "84",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "s"
-            ]
-        },
-        {
             "id": "2517087",
             "channel": "Lifetime HD",
             "link": "https://list.iptvcat.com/my_list/s/43d7cc531eabd4163f0378d620eeabea.m3u8",
@@ -5720,20 +5704,6 @@
             "lastChecked": "2022-05-19T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2546964",
-            "channel": "Lifetime HD",
-            "link": "https://list.iptvcat.com/my_list/s/20d67ba283375a3b380467982dcb00cb.m3u8",
-            "country": "poland",
-            "liveliness": "84",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
             "URI": [
                 "s"
             ]
@@ -5846,20 +5816,6 @@
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2546940",
-            "channel": "Disney Junior",
-            "link": "https://list.iptvcat.com/my_list/s/c4ac84f15f0490a50b2a3ceab5954ab3.m3u8",
-            "country": "poland",
-            "liveliness": "41",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
             "URI": [
                 "s"
             ]
@@ -7459,34 +7415,6 @@
             ]
         },
         {
-            "id": "2476009",
-            "channel": "ESP - Disney Channel (X)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/45b752bb5c3cda388cfe90cb9f3e3b9e.m3u8",
-            "country": "spain",
-            "liveliness": "91",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2476011",
-            "channel": "ESP - Disney Junior (X)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/47d49e969374c574fdd6427232078d7a.m3u8",
-            "country": "spain",
-            "liveliness": "90",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "s"
-            ]
-        },
-        {
             "id": "2551316",
             "channel": "Fabulas de Disney 24H",
             "link": "https://list.iptvcat.com/my_list/s/ff10db9a6765576310110245e98e6bdb.m3u8",
@@ -7496,6 +7424,64 @@
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "sd",
             "mbps": "1439",
+            "URI": [
+                "s"
+            ]
+        },
+        {
+            "id": "2548048",
+            "channel": "M. DISNEY+",
+            "link": "https://list.iptvcat.com/my_list/s/1f650499ebc27d3232b66b545000aad5.m3u8",
+            "country": "spain",
+            "liveliness": "67",
+            "status": "online",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "s"
+            ]
+        }
+    ],
+    "sweden": [
+        {
+            "id": "2552070",
+            "channel": "Disney Channel",
+            "link": "https://list.iptvcat.com/my_list/s/c1b009883fea735be5dab137c1b9bdd7.m3u8",
+            "country": "sweden",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-05-19T00:00:00Z",
+            "format": "sd",
+            "mbps": "1509",
+            "URI": [
+                "s"
+            ]
+        },
+        {
+            "id": "2283081",
+            "channel": "Disney Channel HD",
+            "link": "https://list.iptvcat.com/my_list/s/da1e42a89a2ec9f1a3c8040d04a816be.m3u8",
+            "country": "sweden",
+            "liveliness": "52",
+            "status": "online",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020",
+            "URI": [
+                "s"
+            ]
+        },
+        {
+            "id": "2552071",
+            "channel": "Disney Junior",
+            "link": "https://list.iptvcat.com/my_list/s/85af1a74f35844571719fad6672610e7.m3u8",
+            "country": "sweden",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-05-19T00:00:00Z",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "s"
             ]
@@ -31275,34 +31261,6 @@
             ]
         },
         {
-            "id": "2476298",
-            "channel": "USA-HBO (M)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/292e58d97c62cdb13cf4ed67c3da630a.m3u8",
-            "country": "united states of america",
-            "liveliness": "91",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2476299",
-            "channel": "USA-HBO 2 (M)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/3108b3b384c3f742f3e965f00ae74b5d.m3u8",
-            "country": "united states of america",
-            "liveliness": "84",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
-            "URI": [
-                "s"
-            ]
-        },
-        {
             "id": "2513422",
             "channel": "Hallmark Channel HD",
             "link": "https://list.iptvcat.com/my_list/s/d0c84716d7844eff4d3a824006b33374.m3u8",
@@ -31541,48 +31499,6 @@
             ]
         },
         {
-            "id": "2476295",
-            "channel": "USA-HallMark Drama (PM)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/698eb6fe23fb6077ffc8f7a4bd949891.m3u8",
-            "country": "united states of america",
-            "liveliness": "90",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2476297",
-            "channel": "USA-HallMark Movies \u0026 Mysteries (PM)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/bf4b100230236bd18d054a5cfaffa770.m3u8",
-            "country": "united states of america",
-            "liveliness": "86",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2476296",
-            "channel": "USA-Hallmark movie Mysteries (PM)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/4ad585c5104879fd7f7a77b7b566babf.m3u8",
-            "country": "united states of america",
-            "liveliness": "93",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "s"
-            ]
-        },
-        {
             "id": "2552775",
             "channel": "LIFETIME HD",
             "link": "https://list.iptvcat.com/my_list/s/04a9a4b9b8f96576f22fd3324f2c6d3c.m3u8",
@@ -31732,20 +31648,6 @@
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "sd",
             "mbps": "1234",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2476313",
-            "channel": "USA-Lifetime (PM)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/035fdd0bb46e144971d2bb22b0cd6603.m3u8",
-            "country": "united states of america",
-            "liveliness": "89",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "s"
             ]
@@ -31914,20 +31816,6 @@
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "sd",
             "mbps": "1234",
-            "URI": [
-                "s"
-            ]
-        },
-        {
-            "id": "2476313",
-            "channel": "USA-Lifetime (PM)(720)",
-            "link": "https://list.iptvcat.com/my_list/s/035fdd0bb46e144971d2bb22b0cd6603.m3u8",
-            "country": "united states of america",
-            "liveliness": "89",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "s"
             ]
