@@ -4,7 +4,7 @@
         "channel": "MyTime Movie Network FHD",
         "link": "https://list.iptvcat.com/my_list/s/4ee1162c3c0d7c4fbafec08941d0929c.m3u8",
         "country": "spain",
-        "liveliness": "13",
+        "liveliness": "12",
         "status": "offline",
         "lastChecked": "2022-06-11T00:00:00Z",
         "format": "fhd 2k",
@@ -32,25 +32,11 @@
         "channel": "MyTime Movie Network SD",
         "link": "https://list.iptvcat.com/my_list/s/f00ce9e0d44dcf5c056ee0d627c5418d.m3u8",
         "country": "spain",
-        "liveliness": "14",
+        "liveliness": "13",
         "status": "offline",
         "lastChecked": "2022-06-11T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2515457",
-        "channel": "DISNEY CH HD",
-        "link": "https://list.iptvcat.com/my_list/s/99b5c36e3ab885cdfc8c28422edff80a.m3u8",
-        "country": "spain",
-        "liveliness": "48",
-        "status": "offline",
-        "lastChecked": "2022-06-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -70,11 +56,25 @@
         ]
     },
     {
+        "id": "2515457",
+        "channel": "DISNEY CH HD",
+        "link": "https://list.iptvcat.com/my_list/s/99b5c36e3ab885cdfc8c28422edff80a.m3u8",
+        "country": "spain",
+        "liveliness": "47",
+        "status": "offline",
+        "lastChecked": "2022-06-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2515624",
         "channel": "DISNEY CHANNEL FHD",
         "link": "https://list.iptvcat.com/my_list/s/b5a5ad51e0f9619a718c31ae8153a648.m3u8",
         "country": "spain",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-06-11T00:00:00Z",
         "format": "fhd 2k",
@@ -88,7 +88,7 @@
         "channel": "DISNEY CHANNEL HD",
         "link": "https://list.iptvcat.com/my_list/s/c9dd9cac8c8b22cd28f9c9c2a10dbecd.m3u8",
         "country": "spain",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-06-11T00:00:00Z",
         "format": "hd",
@@ -102,7 +102,7 @@
         "channel": "DISNEY JR",
         "link": "https://list.iptvcat.com/my_list/s/184102b1403c9d6a3df4130955b34068.m3u8",
         "country": "spain",
-        "liveliness": "65",
+        "liveliness": "63",
         "status": "offline",
         "lastChecked": "2022-06-11T00:00:00Z",
         "format": "fhd 2k",
