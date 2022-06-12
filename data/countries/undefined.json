@@ -6,7 +6,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -19,8 +19,8 @@
         "link": "https://list.iptvcat.com/my_list/s/5e6920cf3038741db221c385c3cdc605.m3u8",
         "country": "undefined",
         "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "sd",
         "mbps": "1921",
         "URI": [
@@ -34,9 +34,9 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "sd",
-        "mbps": "2478, ...",
+        "mbps": "1051",
         "URI": [
             "s"
         ]
@@ -48,7 +48,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "sd",
         "mbps": "1998",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "undefined",
         "liveliness": "72",
         "status": "offline",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
         "URI": [
@@ -90,49 +90,147 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9546",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "2472631",
-        "channel": "HBO Asia",
-        "link": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
-        "country": "undefined",
-        "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "997004",
-        "channel": "HBO PREMIUM",
-        "link": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
+        "id": "1155413",
+        "channel": "American Horrors Movies EN",
+        "link": "https://list.iptvcat.com/my_list/s/63085ca4fb541fb8d5915b47daf6d9cd.m3u8",
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "sd",
-        "mbps": "899",
+        "mbps": "1489",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "1162474",
-        "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
-        "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
+        "id": "1162335",
+        "channel": "Cinedigm : My Time Movies",
+        "link": "https://list.iptvcat.com/my_list/s/bc02b33b45ba59d5a49a1ebbd4aa9b8e.m3u8",
         "country": "undefined",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957663",
+        "channel": "FilmRise : Free Movies, Filmrise free movies",
+        "link": "https://list.iptvcat.com/my_list/s/9cbad3596124c5b166879601833bf24c.m3u8",
+        "country": "undefined",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957664",
+        "channel": "FilmRise Free Movies",
+        "link": "https://list.iptvcat.com/my_list/s/32a5cba674590f4dc6fb57c21eb2398f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200314",
+        "channel": "FilmRise Free Movies",
+        "link": "https://list.iptvcat.com/my_list/s/ff6f087c745188a28b8e0bbbf3dae9cb.m3u8",
+        "country": "undefined",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957665",
+        "channel": "Filmrise Movies",
+        "link": "https://list.iptvcat.com/my_list/s/2d25206b3bc46adc18955bd48e4fe923.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "996996",
+        "channel": "GRAVITAS MOVIES",
+        "link": "https://list.iptvcat.com/my_list/s/70fa9e5012dea768b5b178e6f5109d2d.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "663",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957730",
+        "channel": "Gospel Movie TV",
+        "link": "https://list.iptvcat.com/my_list/s/14fc691e8d466a06a5c62fe31aa0040c.m3u8",
+        "country": "undefined",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "868",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957731",
+        "channel": "Gravitas Movies",
+        "link": "https://list.iptvcat.com/my_list/s/1d06da363bd23bc788346108f26f1cd2.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200366",
+        "channel": "Gravitas Movies",
+        "link": "https://list.iptvcat.com/my_list/s/39378affdf248faa90898c8a8b2ffa5e.m3u8",
+        "country": "undefined",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -146,9 +244,513 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-11T00:00:00Z",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162474",
+        "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
+        "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
+        "country": "undefined",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997017",
+        "channel": "Hits Movies",
+        "link": "https://list.iptvcat.com/my_list/s/c339a0aa300192d4a208c6c159beb331.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "275",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997049",
+        "channel": "MOVIE SPHERE",
+        "link": "https://list.iptvcat.com/my_list/s/52d3b722c72753414b047665174d3ec0.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957939",
+        "channel": "Maverick Movies",
+        "link": "https://list.iptvcat.com/my_list/s/efea41c7e9cf61619b0b2ad33b9e6260.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200507",
+        "channel": "Movie Mex",
+        "link": "https://list.iptvcat.com/my_list/s/d382755436ee3fd8e9acf5aaa621fe9e.m3u8",
+        "country": "undefined",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2342661",
+        "channel": "MovieFe (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/524dfc9e1408267d03d91ddb533f727b.m3u8",
+        "country": "undefined",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162553",
+        "channel": "MovieSphere : HD",
+        "link": "https://list.iptvcat.com/my_list/s/14a5b366b48bc496d80aa550342886ec.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "25640",
+        "channel": "Movies Kingdom",
+        "link": "https://list.iptvcat.com/my_list/s/3c3229251c298eaf635c38ba4d970fa4.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200508",
+        "channel": "Moviesphere",
+        "link": "https://list.iptvcat.com/my_list/s/874381e5370ecaf72169a732654e994d.m3u8",
+        "country": "undefined",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200509",
+        "channel": "Moviesphere (England)",
+        "link": "https://list.iptvcat.com/my_list/s/60b408830204e908aed6861ef3f55930.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957994",
+        "channel": "Moviesphere Free",
+        "link": "https://list.iptvcat.com/my_list/s/e03bba3c554d86261543ef6b2c122ad4.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200510",
+        "channel": "Moviesphere UK",
+        "link": "https://list.iptvcat.com/my_list/s/68b9eb028f453a4146de734ad461d024.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1031781",
+        "channel": "My time Movies Network",
+        "link": "https://list.iptvcat.com/my_list/s/b6d65d50f2bf0d563a6508169cc47294.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200530",
+        "channel": "MyTime Movie Network",
+        "link": "https://list.iptvcat.com/my_list/s/45f1ecb12809181ea30bd26a5cb0d670.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1515128",
+        "channel": "Azstar TV [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/a275d7e52ece3ed37f617e451cc00902.m3u8",
+        "country": "undefined",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "7986, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162304",
+        "channel": "Business Rockstars",
+        "link": "https://list.iptvcat.com/my_list/s/5204cc9a2ea4256f13d6b8652d2563e4.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162333",
+        "channel": "Cinedigm : Lone Star",
+        "link": "https://list.iptvcat.com/my_list/s/ab687cfe091e96a47f6ce6b3c3b654b6.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "4040, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1331930",
+        "channel": "Hmong Star TV",
+        "link": "https://list.iptvcat.com/my_list/s/3e7f93c237183505d9b14bc0d70f6477.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162529",
+        "channel": "Lone Star",
+        "link": "https://list.iptvcat.com/my_list/s/2e490cfed8136573d7ae416a5f55cf99.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "4040, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162530",
+        "channel": "Lone Star",
+        "link": "https://list.iptvcat.com/my_list/s/17805b01d5f8c509c8b66a89304dfe84.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "4040, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162531",
+        "channel": "LoneStar : Channel 2",
+        "link": "https://list.iptvcat.com/my_list/s/b13ab7442da44705ee6521b490b07053.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162626",
+        "channel": "PopStar! TV",
+        "link": "https://list.iptvcat.com/my_list/s/417c176fe3453a0ba0b7451a36723268.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200647",
+        "channel": "Popstar! TV",
+        "link": "https://list.iptvcat.com/my_list/s/8ff1e342c6825d68df42f1096d52d4fa.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1031864",
+        "channel": "Star",
+        "link": "https://list.iptvcat.com/my_list/s/a0bf5e9a63944ce2667fc1cc2cc3c39d.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "11829",
+        "channel": "Telesur Costarica",
+        "link": "https://list.iptvcat.com/my_list/s/0c498cfb6d32cb6e88f681b0e7f8af1c.m3u8",
+        "country": "undefined",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200937",
+        "channel": "Trace Sport Stars (Australia)",
+        "link": "https://list.iptvcat.com/my_list/s/64595c8d9b5f800664f23e36a20730f1.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2472631",
+        "channel": "HBO Asia",
+        "link": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
+        "country": "undefined",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997004",
+        "channel": "HBO PREMIUM",
+        "link": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "957077",
+        "channel": "Hallmark Movies \u0026 More",
+        "link": "https://list.iptvcat.com/my_list/s/7ed8d42cbdabc12bfc88a78b96dcaa73.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162474",
+        "channel": "Hallmark Movies \u0026 More, Hallmark Movies \u0026 More : HD",
+        "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
+        "country": "undefined",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "3064, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "10775",
+        "channel": "Disney",
+        "link": "https://list.iptvcat.com/my_list/s/52bb15f3d53151c79d19244f7c76ace1.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "1328, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "10776",
+        "channel": "Disney +2",
+        "link": "https://list.iptvcat.com/my_list/s/691b1501cbc9f0c1ef96367c407c3ded.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "1328, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "10778",
+        "channel": "Disney +6",
+        "link": "https://list.iptvcat.com/my_list/s/0e203314dd023146918f01c4aaab9c86.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "1328, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "10779",
+        "channel": "Disney +7",
+        "link": "https://list.iptvcat.com/my_list/s/ff6311d9bf048b338f196fbe2e221a3c.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "1328",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "21932",
+        "channel": "Disney канал",
+        "link": "https://list.iptvcat.com/my_list/s/02290bea7dd6e1ab799255c65e0d869b.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "1328",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2473288",
+        "channel": "Канал Disney (480p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/6e26a464286cc5a37fbc556b2d343c3c.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308, ...",
         "URI": [
             "s"
         ]
