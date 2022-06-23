@@ -4,11 +4,11 @@
         "channel": "Fox Movies",
         "link": "https://list.iptvcat.com/my_list/s/81dc6e2a462342a57f01047191e1a601.m3u8",
         "country": "slovenia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-06-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -28,20 +28,6 @@
         ]
     },
     {
-        "id": "2564043",
-        "channel": "HBO",
-        "link": "https://list.iptvcat.com/my_list/s/a4d3d06b23fe18f7e2e8a9da0976b4a4.m3u8",
-        "country": "slovenia",
-        "liveliness": "46",
-        "status": "offline",
-        "lastChecked": "2022-06-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2565848",
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/6077880870cd94d70e3e43d2da6150d9.m3u8",
@@ -49,22 +35,22 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "2564044",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/37192a0965498460a80bee7cc881f308.m3u8",
+        "id": "2564043",
+        "channel": "HBO",
+        "link": "https://list.iptvcat.com/my_list/s/a4d3d06b23fe18f7e2e8a9da0976b4a4.m3u8",
         "country": "slovenia",
-        "liveliness": "46",
-        "status": "offline",
+        "liveliness": "47",
+        "status": "online",
         "lastChecked": "2022-06-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -84,15 +70,15 @@
         ]
     },
     {
-        "id": "2564045",
-        "channel": "HBO 3",
-        "link": "https://list.iptvcat.com/my_list/s/e9a5e0e080d9bae575b23548350c0f68.m3u8",
+        "id": "2564044",
+        "channel": "HBO 2",
+        "link": "https://list.iptvcat.com/my_list/s/37192a0965498460a80bee7cc881f308.m3u8",
         "country": "slovenia",
-        "liveliness": "38",
-        "status": "offline",
+        "liveliness": "47",
+        "status": "online",
         "lastChecked": "2022-06-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -103,6 +89,20 @@
         "link": "https://list.iptvcat.com/my_list/s/2008fe1dd93cac8b88fc7f7088c75ff3.m3u8",
         "country": "slovenia",
         "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2564045",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/e9a5e0e080d9bae575b23548350c0f68.m3u8",
+        "country": "slovenia",
+        "liveliness": "40",
         "status": "online",
         "lastChecked": "2022-06-23T00:00:00Z",
         "format": "fhd 2k",
