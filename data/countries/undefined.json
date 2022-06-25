@@ -89,10 +89,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4e778f6ad1659df6a5038e109dc3fcb7.m3u8",
         "country": "undefined",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "hd",
+        "mbps": "4299",
         "URI": [
             "s"
         ]
@@ -102,11 +102,11 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/6843d738dcc9e393a35b9055dae1a083.m3u8",
         "country": "undefined",
-        "liveliness": "63",
-        "status": "online",
+        "liveliness": "62",
+        "status": "offline",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7665",
         "URI": [
             "s"
         ]
@@ -130,7 +130,7 @@
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/05fb7e64f5f12a116f8f6e3d3201cabe.m3u8",
         "country": "undefined",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "fhd 2k",
@@ -172,25 +172,11 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/4b6909f059b3cbfee675a59fa823557c.m3u8",
         "country": "undefined",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2568434",
-        "channel": "HBO 3",
-        "link": "https://list.iptvcat.com/my_list/s/272506b53489a63dc26b8c91b69e5df0.m3u8",
-        "country": "undefined",
-        "liveliness": "76",
-        "status": "online",
-        "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "s"
         ]
@@ -210,15 +196,29 @@
         ]
     },
     {
+        "id": "2568434",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/272506b53489a63dc26b8c91b69e5df0.m3u8",
+        "country": "undefined",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2022-06-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2568187",
         "channel": "HBO 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/2633a3992676828bffa2c142ee4793b3.m3u8",
         "country": "undefined",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -270,11 +270,11 @@
         "channel": "HBO HD",
         "link": "https://list.iptvcat.com/my_list/s/e5a2c211b2c3974ba5b0396701b24825.m3u8",
         "country": "undefined",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -301,8 +301,8 @@
         "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -313,10 +313,10 @@
         "link": "https://list.iptvcat.com/my_list/s/b7b950bb142b2feff5283a19a599b065.m3u8",
         "country": "undefined",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -340,11 +340,11 @@
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/abebb0f6b0c827d37d5b0f664e26880c.m3u8",
         "country": "undefined",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "format": "sd",
+        "mbps": "6997",
         "URI": [
             "s"
         ]
@@ -354,7 +354,7 @@
         "channel": "DISNEY CHANNEL *",
         "link": "https://list.iptvcat.com/my_list/s/c8b5dc8d5fdc13f8e4058fa53c9260d8.m3u8",
         "country": "undefined",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "hd",
@@ -368,11 +368,11 @@
         "channel": "DISNEY JUNIOR TR",
         "link": "https://list.iptvcat.com/my_list/s/f0f64b8c1781f0913795341635ebdb65.m3u8",
         "country": "undefined",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -438,11 +438,11 @@
         "channel": "Disney Channel De",
         "link": "https://list.iptvcat.com/my_list/s/9502aeb3270f64ac5b49ad31da2d3e66.m3u8",
         "country": "undefined",
-        "liveliness": "75",
-        "status": "online",
+        "liveliness": "73",
+        "status": "offline",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "s"
         ]
@@ -469,8 +469,8 @@
         "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -480,7 +480,7 @@
         "channel": "Disney Cinema FR",
         "link": "https://list.iptvcat.com/my_list/s/f88c749a87ba078241fd5202d0f5d868.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "fhd 2k",
@@ -508,8 +508,8 @@
         "channel": "Disney Jr. UK",
         "link": "https://list.iptvcat.com/my_list/s/5577af6e7fd99b2147bdbaf33464bfe0.m3u8",
         "country": "undefined",
-        "liveliness": "89",
-        "status": "offline",
+        "liveliness": "90",
+        "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -522,11 +522,11 @@
         "channel": "Disney Junior DE(Test)",
         "link": "https://list.iptvcat.com/my_list/s/8cd7115972fca52c9aa183d3b5be26e3.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -550,7 +550,7 @@
         "channel": "Disney UK",
         "link": "https://list.iptvcat.com/my_list/s/c58579a3927e651989ce38980617568e.m3u8",
         "country": "undefined",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
         "format": "fhd 2k",
@@ -567,8 +567,8 @@
         "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -578,11 +578,11 @@
         "channel": "Disney XD:DE (Test)",
         "link": "https://list.iptvcat.com/my_list/s/2349c1ef98b4157ed1a3e0fae5a24391.m3u8",
         "country": "undefined",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
