@@ -144,11 +144,11 @@
         "channel": "MoviStar MotoGP",
         "link": "https://list.iptvcat.com/my_list/s/6d7a72b05097ae6176cd28c9c2b3cd5d.m3u8",
         "country": "spain",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-06-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "5007",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -158,11 +158,11 @@
         "channel": "Movistar Action HD",
         "link": "https://list.iptvcat.com/my_list/s/a471b730ed9abcfe1138804bc0cee066.m3u8",
         "country": "spain",
-        "liveliness": "81",
-        "status": "online",
+        "liveliness": "79",
+        "status": "offline",
         "lastChecked": "2022-06-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -176,7 +176,7 @@
         "status": "online",
         "lastChecked": "2022-06-27T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -227,6 +227,20 @@
         "id": "2483741",
         "channel": "Movistar LaLiga HD",
         "link": "https://list.iptvcat.com/my_list/s/df39f2f4a828892896a2e3ec969d20a7.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2483742",
+        "channel": "Movistar Laliga",
+        "link": "https://list.iptvcat.com/my_list/s/4fe04d68ff86697a2d106e2d8def2850.m3u8",
         "country": "spain",
         "liveliness": "100",
         "status": "online",
