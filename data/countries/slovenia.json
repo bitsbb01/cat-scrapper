@@ -1,19 +1,5 @@
 [
     {
-        "id": "2564039",
-        "channel": "Fox Movies",
-        "link": "https://list.iptvcat.com/my_list/s/81dc6e2a462342a57f01047191e1a601.m3u8",
-        "country": "slovenia",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-06-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2565844",
         "channel": "Fox Movies",
         "link": "https://list.iptvcat.com/my_list/s/076a33a6256eff41ff86409cb79244ab.m3u8",
@@ -28,6 +14,20 @@
         ]
     },
     {
+        "id": "2564039",
+        "channel": "Fox Movies",
+        "link": "https://list.iptvcat.com/my_list/s/81dc6e2a462342a57f01047191e1a601.m3u8",
+        "country": "slovenia",
+        "liveliness": "54",
+        "status": "online",
+        "lastChecked": "2022-06-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2564043",
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/a4d3d06b23fe18f7e2e8a9da0976b4a4.m3u8",
@@ -35,8 +35,8 @@
         "liveliness": "51",
         "status": "offline",
         "lastChecked": "2022-06-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -49,8 +49,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -63,8 +63,8 @@
         "liveliness": "51",
         "status": "offline",
         "lastChecked": "2022-06-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "s"
         ]
@@ -77,8 +77,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "s"
         ]
@@ -88,7 +88,7 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/e9a5e0e080d9bae575b23548350c0f68.m3u8",
         "country": "slovenia",
-        "liveliness": "27",
+        "liveliness": "26",
         "status": "offline",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "fhd 2k",
@@ -102,7 +102,7 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/2008fe1dd93cac8b88fc7f7088c75ff3.m3u8",
         "country": "slovenia",
-        "liveliness": "76",
+        "liveliness": "77",
         "status": "online",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "fhd 2k",
