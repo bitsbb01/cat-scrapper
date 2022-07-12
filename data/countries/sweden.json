@@ -21,8 +21,8 @@
         "liveliness": "61",
         "status": "online",
         "lastChecked": "2022-07-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -46,8 +46,22 @@
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/f0a05cad162d20b611a06fbd26933fd6.m3u8",
         "country": "sweden",
-        "liveliness": "55",
-        "status": "offline",
+        "liveliness": "56",
+        "status": "online",
+        "lastChecked": "2022-07-12T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2565918",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/07658af5a06644a0f28502fa653941b9.m3u8",
+        "country": "sweden",
+        "liveliness": "94",
+        "status": "online",
         "lastChecked": "2022-07-12T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -70,11 +84,11 @@
         ]
     },
     {
-        "id": "2565918",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/07658af5a06644a0f28502fa653941b9.m3u8",
+        "id": "2565919",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/9da37275aabe0201907005f1a232fc2d.m3u8",
         "country": "sweden",
-        "liveliness": "95",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-07-12T00:00:00Z",
         "format": "sd",
@@ -102,21 +116,7 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/819179459b30ee990e9fed90fc7fff6b.m3u8",
         "country": "sweden",
-        "liveliness": "52",
-        "status": "online",
-        "lastChecked": "2022-07-12T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2565919",
-        "channel": "Disney Junior",
-        "link": "https://list.iptvcat.com/my_list/s/9da37275aabe0201907005f1a232fc2d.m3u8",
-        "country": "sweden",
-        "liveliness": "92",
+        "liveliness": "51",
         "status": "online",
         "lastChecked": "2022-07-12T00:00:00Z",
         "format": "sd",
