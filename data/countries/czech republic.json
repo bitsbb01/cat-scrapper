@@ -28,26 +28,12 @@
         ]
     },
     {
-        "id": "2574816",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/86db16ed5edf65fa55236619d98564fd.m3u8",
-        "country": "czech republic",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2557261",
         "channel": "HBO HD",
         "link": "https://list.iptvcat.com/my_list/s/aed444188d6787e13dce78678bc8118d.m3u8",
         "country": "czech republic",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-07-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -84,20 +70,6 @@
         ]
     },
     {
-        "id": "2574890",
-        "channel": "Cinemax",
-        "link": "https://list.iptvcat.com/my_list/s/987e290808792ca03dd7886c925a0d31.m3u8",
-        "country": "czech republic",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2557294",
         "channel": "JOJ CINEMA HD",
         "link": "https://list.iptvcat.com/my_list/s/f885d1a2d602b6d6a167e54f3a0192ad.m3u8",
@@ -119,8 +91,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
