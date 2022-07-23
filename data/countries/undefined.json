@@ -5,10 +5,10 @@
         "link": "https://list.iptvcat.com/my_list/s/88e269fc3779aaa406e0bacb9980c990.m3u8",
         "country": "undefined",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-07-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "8378",
         "URI": [
             "s"
         ]
@@ -19,7 +19,7 @@
         "link": "https://list.iptvcat.com/my_list/s/5e6920cf3038741db221c385c3cdc605.m3u8",
         "country": "undefined",
         "liveliness": "93",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-07-23T00:00:00Z",
         "format": "sd",
         "mbps": "1921",
@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-07-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2478, ...",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -74,7 +74,7 @@
         "channel": "제주 MBC(MBC Jeju)",
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
-        "liveliness": "72",
+        "liveliness": "71",
         "status": "offline",
         "lastChecked": "2022-07-23T00:00:00Z",
         "format": "sd",
@@ -89,7 +89,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4e778f6ad1659df6a5038e109dc3fcb7.m3u8",
         "country": "undefined",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-07-23T00:00:00Z",
         "format": "sd",
         "mbps": "1763",
@@ -133,8 +133,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-07-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "1345, ...",
         "URI": [
             "s"
         ]
@@ -176,7 +176,7 @@
         "status": "online",
         "lastChecked": "2022-07-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -231,8 +231,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-07-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
+        "format": "sd",
+        "mbps": "1247, ...",
         "URI": [
             "s"
         ]
@@ -322,6 +322,34 @@
         ]
     },
     {
+        "id": "1200510",
+        "channel": "Moviesphere UK",
+        "link": "https://list.iptvcat.com/my_list/s/68b9eb028f453a4146de734ad461d024.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1031781",
+        "channel": "My time Movies Network",
+        "link": "https://list.iptvcat.com/my_list/s/b6d65d50f2bf0d563a6508169cc47294.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-07-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1515128",
         "channel": "Azstar TV [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a275d7e52ece3ed37f617e451cc00902.m3u8",
@@ -344,7 +372,7 @@
         "status": "online",
         "lastChecked": "2022-07-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3795, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -357,8 +385,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-07-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "4040, ...",
+        "format": "hd",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -507,6 +535,20 @@
         "id": "917376",
         "channel": "Rotana Cinema HD (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/d0becab9132084e98718d0b917693f4c.m3u8",
+        "country": "undefined",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-07-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "917377",
+        "channel": "Rotana Cinema HD KSA (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/36631b5f14ba034bfc2409ffab02e5f5.m3u8",
         "country": "undefined",
         "liveliness": "95",
         "status": "online",
