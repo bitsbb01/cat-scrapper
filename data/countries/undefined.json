@@ -36,7 +36,7 @@
         "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
         "format": "sd",
-        "mbps": "2331",
+        "mbps": "2740",
         "URI": [
             "s"
         ]
@@ -187,7 +187,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c339a0aa300192d4a208c6c159beb331.m3u8",
         "country": "undefined",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
         "format": "sd",
         "mbps": "275",
@@ -246,7 +246,7 @@
         "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
         "format": "sd",
-        "mbps": "1601",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -364,6 +364,230 @@
         ]
     },
     {
+        "id": "1200531",
+        "channel": "MyTime Movie Network (Brazil)",
+        "link": "https://list.iptvcat.com/my_list/s/c535cbe39707a7eb202fddf0a02f0f80.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200532",
+        "channel": "MyTime Movie Network (Mexico)",
+        "link": "https://list.iptvcat.com/my_list/s/153d9b2329c7d340d3aa75a492ab1dc3.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1119509",
+        "channel": "Rai Movie [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/4c02b150d9883c53e0c83657434f782c.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "2637",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162805",
+        "channel": "Roku : Moviesphere",
+        "link": "https://list.iptvcat.com/my_list/s/3d3af72dba0701e8d7ed3ba9a977157e.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2473522",
+        "channel": "STIRR Gravitas Movies (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/670d26a07426e3a342a0df4110f2c063.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "958537",
+        "channel": "STIRR Horror Movies",
+        "link": "https://list.iptvcat.com/my_list/s/2fea59d77613809d59b828bac15717d6.m3u8",
+        "country": "undefined",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "577",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409139",
+        "channel": "TVS Classic Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a1f3ba2f51f4fb90dbe118037e4d470.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1381336",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/e23a95e4c3e0ea83410afb553e6252d5.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "1242",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409145",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "1242",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "790",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1381397",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "920",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409193",
+        "channel": "TVS Western Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/414527d61ec7d8553e612f9efb1dd6b1.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "869",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "11830",
+        "channel": "The Seventh Dimension (Public-OnDemandMovies) (US) (English)",
+        "link": "https://list.iptvcat.com/my_list/s/c0298fc3e2508c829f348048577bad64.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "740",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2473098",
+        "channel": "Toonami Aftermath Movies (540p)",
+        "link": "https://list.iptvcat.com/my_list/s/06b4996089e208fa877fb4a068551b57.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "1783",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162963",
+        "channel": "Victor Valley TV-3 : Movies",
+        "link": "https://list.iptvcat.com/my_list/s/b5aae3698568c8acddcc369458640091.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997265",
+        "channel": "tvN Movies",
+        "link": "https://list.iptvcat.com/my_list/s/726f2c6a7939a3a3cb51a69df60274b6.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "sd",
+        "mbps": "275",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1515128",
         "channel": "Azstar TV [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a275d7e52ece3ed37f617e451cc00902.m3u8",
@@ -386,7 +610,7 @@
         "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -441,8 +665,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "4040, ...",
+        "format": "hd",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -518,12 +742,26 @@
         ]
     },
     {
+        "id": "1200937",
+        "channel": "Trace Sport Stars (Australia)",
+        "link": "https://list.iptvcat.com/my_list/s/64595c8d9b5f800664f23e36a20730f1.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-29T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2472631",
         "channel": "HBO Asia",
         "link": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
         "country": "undefined",
         "liveliness": "85",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -546,9 +784,9 @@
         ]
     },
     {
-        "id": "1381203",
+        "id": "1409026",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -560,9 +798,9 @@
         ]
     },
     {
-        "id": "1409026",
+        "id": "1381203",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -624,7 +862,7 @@
         "status": "online",
         "lastChecked": "2022-07-29T00:00:00Z",
         "format": "sd",
-        "mbps": "1328, ...",
+        "mbps": "1328",
         "URI": [
             "s"
         ]
