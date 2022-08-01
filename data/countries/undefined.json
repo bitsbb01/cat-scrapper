@@ -92,7 +92,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
-        "mbps": "4322",
+        "mbps": "4318",
         "URI": [
             "s"
         ]
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1704",
+        "mbps": "1878",
         "URI": [
             "s"
         ]
@@ -246,7 +246,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1308",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -273,8 +273,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
+        "format": "sd",
+        "mbps": "1761, ...",
         "URI": [
             "s"
         ]
@@ -442,7 +442,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1051",
+        "mbps": "3259",
         "URI": [
             "s"
         ]
@@ -455,22 +455,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "1697",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409145",
-        "channel": "TVS Drive In Movie (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "790",
+        "format": "hd",
+        "mbps": "4821",
         "URI": [
             "s"
         ]
@@ -484,7 +470,35 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "790",
+        "mbps": "1490",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409145",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1490",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1697",
         "URI": [
             "s"
         ]
@@ -504,20 +518,6 @@
         ]
     },
     {
-        "id": "1409167",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "1561",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "1409193",
         "channel": "TVS Western Movie (360p)",
         "link": "https://list.iptvcat.com/my_list/s/414527d61ec7d8553e612f9efb1dd6b1.m3u8",
@@ -526,7 +526,7 @@
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
-        "mbps": "1583",
+        "mbps": "761",
         "URI": [
             "s"
         ]
@@ -623,8 +623,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "sd",
-        "mbps": "4040, ...",
+        "format": "hd",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -693,8 +693,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -760,7 +760,7 @@
         "channel": "HBO Asia",
         "link": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
         "country": "undefined",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
