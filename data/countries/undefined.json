@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "1051",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
-        "mbps": "920",
+        "mbps": "2319",
         "URI": [
             "s"
         ]
@@ -134,7 +134,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -176,7 +176,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "hd",
-        "mbps": "3188, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -201,7 +201,7 @@
         "link": "https://list.iptvcat.com/my_list/s/96452436dfc574a71a0eb060c521aa45.m3u8",
         "country": "undefined",
         "liveliness": "71",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
@@ -246,7 +246,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1308",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -441,8 +441,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "sd",
+        "mbps": "4302",
         "URI": [
             "s"
         ]
@@ -456,7 +456,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -470,7 +470,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "2348",
         "URI": [
             "s"
         ]
@@ -484,21 +484,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409167",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "790",
+        "mbps": "2348",
         "URI": [
             "s"
         ]
@@ -518,6 +504,20 @@
         ]
     },
     {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-04T00:00:00Z",
+        "format": "sd",
+        "mbps": "1697",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1409193",
         "channel": "TVS Western Movie (360p)",
         "link": "https://list.iptvcat.com/my_list/s/414527d61ec7d8553e612f9efb1dd6b1.m3u8",
@@ -526,7 +526,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1307",
+        "mbps": "1182",
         "URI": [
             "s"
         ]
@@ -665,8 +665,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "4040, ...",
         "URI": [
             "s"
         ]
@@ -784,9 +784,9 @@
         ]
     },
     {
-        "id": "1409026",
+        "id": "1381203",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -798,9 +798,9 @@
         ]
     },
     {
-        "id": "1381203",
+        "id": "1409026",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -862,7 +862,7 @@
         "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1328, ...",
+        "mbps": "410",
         "URI": [
             "s"
         ]
