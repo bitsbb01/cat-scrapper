@@ -4,11 +4,11 @@
         "channel": "FilmRise Free Movies on Redbox",
         "link": "https://list.iptvcat.com/my_list/s/57a9d6442b06529a14d4601253a4b0a3.m3u8",
         "country": "united kingdom",
-        "liveliness": "87",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -18,7 +18,7 @@
         "channel": "SKY MOVIES ACTION",
         "link": "https://list.iptvcat.com/my_list/s/94f30e61a772fe0d4112bca42b9302f0.m3u8",
         "country": "united kingdom",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "hd",
@@ -32,7 +32,7 @@
         "channel": "SKY MOVIES PREMIERE",
         "link": "https://list.iptvcat.com/my_list/s/cf5631a18c0259b90369782299b2bee4.m3u8",
         "country": "united kingdom",
-        "liveliness": "27",
+        "liveliness": "25",
         "status": "offline",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "fhd 2k",
@@ -102,8 +102,8 @@
         "channel": "Sky Cinema Family 4K+",
         "link": "https://list.iptvcat.com/my_list/s/2f99454a0d24e846fcc15313faffbbcf.m3u8",
         "country": "united kingdom",
-        "liveliness": "64",
-        "status": "online",
+        "liveliness": "53",
+        "status": "offline",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -140,20 +140,6 @@
         ]
     },
     {
-        "id": "2585561",
-        "channel": "DISNEY CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/09af125ed25ccbb25f5f1b7be9ca3c03.m3u8",
-        "country": "united kingdom",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2497185",
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/ce6fe9d17ab73b79c1616b0e4b4f1c34.m3u8",
@@ -168,15 +154,29 @@
         ]
     },
     {
+        "id": "2585561",
+        "channel": "DISNEY CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/09af125ed25ccbb25f5f1b7be9ca3c03.m3u8",
+        "country": "united kingdom",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-08-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2585562",
         "channel": "DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/879ef9b681037f596cb5d4f7490cb67c.m3u8",
         "country": "united kingdom",
-        "liveliness": "86",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]

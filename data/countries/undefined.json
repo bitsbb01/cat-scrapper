@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
         "liveliness": "71",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
@@ -91,8 +91,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "s"
         ]
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
-        "mbps": "2313",
+        "mbps": "2054",
         "URI": [
             "s"
         ]
@@ -133,8 +133,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1454",
+        "format": "hd",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -218,7 +218,7 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3066, ...",
         "URI": [
             "s"
         ]
@@ -232,7 +232,7 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1308",
         "URI": [
             "s"
         ]
@@ -259,8 +259,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "sd",
+        "mbps": "823",
         "URI": [
             "s"
         ]
@@ -427,8 +427,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
+        "format": "sd",
+        "mbps": "827",
         "URI": [
             "s"
         ]
@@ -442,7 +442,7 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
-        "mbps": "777",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -456,7 +456,7 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1764",
+        "mbps": "1446",
         "URI": [
             "s"
         ]
@@ -470,21 +470,7 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1764",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409167",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "mbps": "1446",
         "URI": [
             "s"
         ]
@@ -498,7 +484,21 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "1697",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "920",
         "URI": [
             "s"
         ]
@@ -512,7 +512,7 @@
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "4600",
         "URI": [
             "s"
         ]
@@ -616,11 +616,11 @@
         ]
     },
     {
-        "id": "1162530",
+        "id": "1162529",
         "channel": "Lone Star",
-        "link": "https://list.iptvcat.com/my_list/s/17805b01d5f8c509c8b66a89304dfe84.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e490cfed8136573d7ae416a5f55cf99.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
@@ -630,11 +630,11 @@
         ]
     },
     {
-        "id": "1162529",
+        "id": "1162530",
         "channel": "Lone Star",
-        "link": "https://list.iptvcat.com/my_list/s/2e490cfed8136573d7ae416a5f55cf99.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/17805b01d5f8c509c8b66a89304dfe84.m3u8",
         "country": "undefined",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-18T00:00:00Z",
         "format": "sd",
