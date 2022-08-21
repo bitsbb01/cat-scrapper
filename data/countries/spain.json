@@ -18,11 +18,11 @@
         "channel": "MOVIEPLEX",
         "link": "https://list.iptvcat.com/my_list/s/c2eae96486ef940454f86c51f7e3ea27.m3u8",
         "country": "spain",
-        "liveliness": "67",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "sd",
-        "mbps": "5069",
+        "mbps": "6456",
         "URI": [
             "s"
         ]
@@ -50,7 +50,7 @@
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "5007",
         "URI": [
             "s"
         ]
@@ -176,7 +176,7 @@
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "sd",
-        "mbps": "136",
+        "mbps": "5007",
         "URI": [
             "s"
         ]
@@ -186,11 +186,11 @@
         "channel": "MOVISTAR F1 HD",
         "link": "https://list.iptvcat.com/my_list/s/e62b46cc6f1a524a49501b2bb43ee6cd.m3u8",
         "country": "spain",
-        "liveliness": "100",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "4532",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -357,6 +357,20 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "11105",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596887",
+        "channel": "Movistar Accion 4K+",
+        "link": "https://list.iptvcat.com/my_list/s/769685ecc5731f03f23a6b409262d456.m3u8",
+        "country": "spain",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-08-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -368,39 +382,11 @@
         "channel": "Movistar Accion 4K+",
         "link": "https://list.iptvcat.com/my_list/s/48a1d5a52c16fd233f74e2c3f539444f.m3u8",
         "country": "spain",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596887",
-        "channel": "Movistar Accion 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/769685ecc5731f03f23a6b409262d456.m3u8",
-        "country": "spain",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596983",
-        "channel": "Movistar Cine 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/4f884bdf4ab52677a0abca36608b7355.m3u8",
-        "country": "spain",
-        "liveliness": "33",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -410,11 +396,25 @@
         "channel": "Movistar Cine 4K+",
         "link": "https://list.iptvcat.com/my_list/s/c59a9e251fdf68a93aef0303fa7db0e0.m3u8",
         "country": "spain",
-        "liveliness": "33",
-        "status": "offline",
+        "liveliness": "50",
+        "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596983",
+        "channel": "Movistar Cine 4K+",
+        "link": "https://list.iptvcat.com/my_list/s/4f884bdf4ab52677a0abca36608b7355.m3u8",
+        "country": "spain",
+        "liveliness": "40",
+        "status": "online",
+        "lastChecked": "2022-08-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -427,8 +427,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -441,8 +441,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -456,7 +456,7 @@
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -466,8 +466,8 @@
         "channel": "Movistar Drama 4K+",
         "link": "https://list.iptvcat.com/my_list/s/649f10dd414ed5af3188d9129478ee03.m3u8",
         "country": "spain",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "75",
+        "status": "offline",
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "sd",
         "mbps": "5007",
@@ -483,8 +483,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -497,8 +497,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -540,7 +540,7 @@
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "3795",
         "URI": [
             "s"
         ]
@@ -550,8 +550,8 @@
         "channel": "HBO PLUS ESTE",
         "link": "https://list.iptvcat.com/my_list/s/0594a331176d61509c0d20649370852e.m3u8",
         "country": "spain",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "75",
+        "status": "offline",
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -567,8 +567,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "sd",
+        "mbps": "1903",
         "URI": [
             "s"
         ]
@@ -630,20 +630,6 @@
         ]
     },
     {
-        "id": "2597470",
-        "channel": "DISNEY JUNIOR",
-        "link": "https://list.iptvcat.com/my_list/s/e854f7049ff6cffcdbc948785dfeb7bd.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2597079",
         "channel": "DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/2a35d95d91b8d3dfecedfab0aac046f6.m3u8",
@@ -653,6 +639,20 @@
         "lastChecked": "2022-08-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597470",
+        "channel": "DISNEY JUNIOR",
+        "link": "https://list.iptvcat.com/my_list/s/e854f7049ff6cffcdbc948785dfeb7bd.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
