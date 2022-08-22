@@ -32,8 +32,8 @@
         "channel": "Rai Movie HD+",
         "link": "https://list.iptvcat.com/my_list/s/7c8aa46ace00e6fd364447217895eca3.m3u8",
         "country": "italy",
-        "liveliness": "57",
-        "status": "offline",
+        "liveliness": "70",
+        "status": "online",
         "lastChecked": "2022-08-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -46,25 +46,11 @@
         "channel": "Video Star TV Catania (Sicilia)",
         "link": "https://list.iptvcat.com/my_list/s/a406da53b6fcd5b13424fd50ff87b4de.m3u8",
         "country": "italy",
-        "liveliness": "43",
-        "status": "online",
-        "lastChecked": "2022-08-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2593461",
-        "channel": "Disney Channel HD+",
-        "link": "https://list.iptvcat.com/my_list/s/21835a206aad0a515988d7a512a91a22.m3u8",
-        "country": "italy",
-        "liveliness": "25",
+        "liveliness": "33",
         "status": "offline",
         "lastChecked": "2022-08-22T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -74,7 +60,7 @@
         "channel": "Disney Channel HD+",
         "link": "https://list.iptvcat.com/my_list/s/d375afbff0cb0a0121606b0266a71417.m3u8",
         "country": "italy",
-        "liveliness": "43",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-08-22T00:00:00Z",
         "format": "hd",
@@ -84,15 +70,29 @@
         ]
     },
     {
+        "id": "2593461",
+        "channel": "Disney Channel HD+",
+        "link": "https://list.iptvcat.com/my_list/s/21835a206aad0a515988d7a512a91a22.m3u8",
+        "country": "italy",
+        "liveliness": "30",
+        "status": "offline",
+        "lastChecked": "2022-08-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "3429",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2593462",
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/fe9dd4db5969af6ab1d28394be23df3e.m3u8",
         "country": "italy",
-        "liveliness": "75",
-        "status": "online",
+        "liveliness": "70",
+        "status": "offline",
         "lastChecked": "2022-08-22T00:00:00Z",
         "format": "sd",
-        "mbps": "3429",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
