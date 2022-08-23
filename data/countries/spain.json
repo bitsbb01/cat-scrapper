@@ -4,8 +4,8 @@
         "channel": "FOX PREMIUM MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/80f18f2c2c3e91dd699759636604a19c.m3u8",
         "country": "spain",
-        "liveliness": "73",
-        "status": "online",
+        "liveliness": "71",
+        "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "sd",
         "mbps": "1795",
@@ -18,11 +18,11 @@
         "channel": "MOVIEPLEX",
         "link": "https://list.iptvcat.com/my_list/s/c2eae96486ef940454f86c51f7e3ea27.m3u8",
         "country": "spain",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "sd",
-        "mbps": "5011",
+        "mbps": "5002",
         "URI": [
             "s"
         ]
@@ -50,7 +50,7 @@
         "status": "online",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "sd",
-        "mbps": "5007",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -102,7 +102,7 @@
         "channel": "MOVISTAR DRAMA",
         "link": "https://list.iptvcat.com/my_list/s/8c8318a173b95ab3ab4ff4c0a5742a9f.m3u8",
         "country": "spain",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "sd",
@@ -186,8 +186,8 @@
         "channel": "MOVISTAR F1 HD",
         "link": "https://list.iptvcat.com/my_list/s/e62b46cc6f1a524a49501b2bb43ee6cd.m3u8",
         "country": "spain",
-        "liveliness": "60",
-        "status": "online",
+        "liveliness": "50",
+        "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -326,8 +326,8 @@
         "channel": "MOVISTAR TOROS TV",
         "link": "https://list.iptvcat.com/my_list/s/dc6ffd92d83dd4e68d6a5a0aa2a08654.m3u8",
         "country": "spain",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "92",
+        "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -368,8 +368,8 @@
         "channel": "Movistar Accion 4K+",
         "link": "https://list.iptvcat.com/my_list/s/48a1d5a52c16fd233f74e2c3f539444f.m3u8",
         "country": "spain",
-        "liveliness": "45",
-        "status": "online",
+        "liveliness": "38",
+        "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -382,8 +382,8 @@
         "channel": "Movistar Accion 4K+",
         "link": "https://list.iptvcat.com/my_list/s/769685ecc5731f03f23a6b409262d456.m3u8",
         "country": "spain",
-        "liveliness": "64",
-        "status": "online",
+        "liveliness": "54",
+        "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -396,7 +396,7 @@
         "channel": "Movistar Cine 4K+",
         "link": "https://list.iptvcat.com/my_list/s/c59a9e251fdf68a93aef0303fa7db0e0.m3u8",
         "country": "spain",
-        "liveliness": "40",
+        "liveliness": "42",
         "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "sd",
@@ -410,8 +410,8 @@
         "channel": "Movistar Cine 4K+",
         "link": "https://list.iptvcat.com/my_list/s/4f884bdf4ab52677a0abca36608b7355.m3u8",
         "country": "spain",
-        "liveliness": "60",
-        "status": "online",
+        "liveliness": "50",
+        "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -466,7 +466,7 @@
         "channel": "Movistar Drama 4K+",
         "link": "https://list.iptvcat.com/my_list/s/649f10dd414ed5af3188d9129478ee03.m3u8",
         "country": "spain",
-        "liveliness": "70",
+        "liveliness": "67",
         "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "hd",
@@ -518,6 +518,20 @@
         ]
     },
     {
+        "id": "2596944",
+        "channel": "Movistar Golf",
+        "link": "https://list.iptvcat.com/my_list/s/a615a565bc5768c5e1170f7b3815b4e1.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2597102",
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/cc1d5a1d9395fe11999085717f96894b.m3u8",
@@ -564,7 +578,7 @@
         "channel": "HBO PLUS ESTE",
         "link": "https://list.iptvcat.com/my_list/s/0594a331176d61509c0d20649370852e.m3u8",
         "country": "spain",
-        "liveliness": "50",
+        "liveliness": "54",
         "status": "offline",
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "fhd 2k",
@@ -644,20 +658,6 @@
         ]
     },
     {
-        "id": "2597079",
-        "channel": "DISNEY JUNIOR",
-        "link": "https://list.iptvcat.com/my_list/s/2a35d95d91b8d3dfecedfab0aac046f6.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2597470",
         "channel": "DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/e854f7049ff6cffcdbc948785dfeb7bd.m3u8",
@@ -667,6 +667,20 @@
         "lastChecked": "2022-08-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597079",
+        "channel": "DISNEY JUNIOR",
+        "link": "https://list.iptvcat.com/my_list/s/2a35d95d91b8d3dfecedfab0aac046f6.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
