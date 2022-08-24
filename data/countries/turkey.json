@@ -119,20 +119,6 @@
         ]
     },
     {
-        "id": "1520806",
-        "channel": "24 TV",
-        "link": "https://list.iptvcat.com/my_list/s/529bc93b5855c430e8effdc71bdb7517.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "21095",
         "channel": "24 TV",
         "link": "https://list.iptvcat.com/my_list/s/9f653da2150cc5d0fc992a4da597d831.m3u8",
@@ -147,15 +133,15 @@
         ]
     },
     {
-        "id": "2021773",
-        "channel": "24 TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/845127885ff7752094471aff28d39bf6.m3u8",
+        "id": "1520806",
+        "channel": "24 TV",
+        "link": "https://list.iptvcat.com/my_list/s/529bc93b5855c430e8effdc71bdb7517.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -170,6 +156,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2021773",
+        "channel": "24 TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/845127885ff7752094471aff28d39bf6.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -221,7 +221,7 @@
         "channel": "A SPOR",
         "link": "https://list.iptvcat.com/my_list/s/6ac8c7a0f752c0873fa0fadbe313de73.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -561,7 +561,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1008",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -658,8 +658,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -670,10 +670,10 @@
         "link": "https://list.iptvcat.com/my_list/s/e5d9b920bbddda101f9f5fdbc3ba2db1.m3u8",
         "country": "turkey",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1883",
+        "mbps": "13256",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -771,7 +771,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "13311",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -798,8 +798,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -809,8 +809,8 @@
         "channel": "BEIN SPORTS 3",
         "link": "https://list.iptvcat.com/my_list/s/2490134e3cb462813b08c99bedf60018.m3u8",
         "country": "turkey",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -823,8 +823,8 @@
         "channel": "BEIN SPORTS 4",
         "link": "https://list.iptvcat.com/my_list/s/0d55a6bff4c0f163a924224d7ef2e065.m3u8",
         "country": "turkey",
-        "liveliness": "93",
-        "status": "offline",
+        "liveliness": "94",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -837,8 +837,8 @@
         "channel": "BEIN SPORTS MAX 1",
         "link": "https://list.iptvcat.com/my_list/s/b86ce63a44f44227e79c45acfabc76df.m3u8",
         "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -922,7 +922,7 @@
         "link": "https://list.iptvcat.com/my_list/s/18c121a9c2a7172abcc09d770076da3a.m3u8",
         "country": "turkey",
         "liveliness": "88",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -1113,9 +1113,9 @@
         ]
     },
     {
-        "id": "2915",
+        "id": "133443",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -1127,9 +1127,9 @@
         ]
     },
     {
-        "id": "133443",
+        "id": "2915",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -1197,20 +1197,6 @@
         ]
     },
     {
-        "id": "2175467",
-        "channel": "Bloomberg HT",
-        "link": "https://list.iptvcat.com/my_list/s/9f4700b9c109fba64edc67f629949059.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "1520805",
         "channel": "Bloomberg HT",
         "link": "https://list.iptvcat.com/my_list/s/3661bb910d9c24272e03492d01584073.m3u8",
@@ -1220,6 +1206,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2175467",
+        "channel": "Bloomberg HT",
+        "link": "https://list.iptvcat.com/my_list/s/9f4700b9c109fba64edc67f629949059.m3u8",
+        "country": "turkey",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -1239,9 +1239,9 @@
         ]
     },
     {
-        "id": "142372",
+        "id": "2455185",
         "channel": "Bodrum Belediyesi Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/b5fa2eb68e0ec705a28abb2624dabfc4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3cf8443a9ad953db8121b3e3097334e2.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -1253,9 +1253,9 @@
         ]
     },
     {
-        "id": "2455185",
+        "id": "142372",
         "channel": "Bodrum Belediyesi Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/3cf8443a9ad953db8121b3e3097334e2.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b5fa2eb68e0ec705a28abb2624dabfc4.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -1407,9 +1407,9 @@
         ]
     },
     {
-        "id": "2455193",
+        "id": "2472436",
         "channel": "Cekmeköy TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/9ee9be1d92c8eabdcfb98ba7db0b8ae4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f78a050e39bb5c975e9cf6da38e756f1.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -1421,9 +1421,9 @@
         ]
     },
     {
-        "id": "2472436",
+        "id": "2455193",
         "channel": "Cekmeköy TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/f78a050e39bb5c975e9cf6da38e756f1.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/9ee9be1d92c8eabdcfb98ba7db0b8ae4.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -1477,20 +1477,6 @@
         ]
     },
     {
-        "id": "2021930",
-        "channel": "DEHA TV",
-        "link": "https://list.iptvcat.com/my_list/s/50578e54037e699fff4ec9739c3427f6.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "679090",
         "channel": "DEHA TV",
         "link": "https://list.iptvcat.com/my_list/s/91f69fb2c9e3e821680fe505a9e50c14.m3u8",
@@ -1505,15 +1491,15 @@
         ]
     },
     {
-        "id": "129194",
-        "channel": "YABAN TV [HD]",
-        "link": "https://list.iptvcat.com/my_list/s/985aa1807d9fac5fd146f0e301c6b39d.m3u8",
+        "id": "2021930",
+        "channel": "DEHA TV",
+        "link": "https://list.iptvcat.com/my_list/s/50578e54037e699fff4ec9739c3427f6.m3u8",
         "country": "turkey",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "4532",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -1523,8 +1509,8 @@
         "channel": "YAREN TV",
         "link": "https://list.iptvcat.com/my_list/s/3dd4d6335271295b85a2c32de6ad6ed6.m3u8",
         "country": "turkey",
-        "liveliness": "96",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -1701,11 +1687,11 @@
         ]
     },
     {
-        "id": "2455376",
+        "id": "2175617",
         "channel": "Çay TV",
-        "link": "https://list.iptvcat.com/my_list/s/2e00d430c386fbd843222435739e48d7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/aabf5d28cd5355acb94082ad1b9a371d.m3u8",
         "country": "turkey",
-        "liveliness": "99",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -1715,11 +1701,11 @@
         ]
     },
     {
-        "id": "2175617",
+        "id": "2455376",
         "channel": "Çay TV",
-        "link": "https://list.iptvcat.com/my_list/s/aabf5d28cd5355acb94082ad1b9a371d.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e00d430c386fbd843222435739e48d7.m3u8",
         "country": "turkey",
-        "liveliness": "97",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -1757,20 +1743,6 @@
         ]
     },
     {
-        "id": "679089",
-        "channel": "ÇİFTCİ TV",
-        "link": "https://list.iptvcat.com/my_list/s/a616e32eaaf4d77ef42e76ab22a43d33.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "679088",
         "channel": "ÇİFTCİ TV",
         "link": "https://list.iptvcat.com/my_list/s/3365751b194acc26308f46712f0ece6e.m3u8",
@@ -1780,6 +1752,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "679089",
+        "channel": "ÇİFTCİ TV",
+        "link": "https://list.iptvcat.com/my_list/s/a616e32eaaf4d77ef42e76ab22a43d33.m3u8",
+        "country": "turkey",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -1813,11 +1799,11 @@
         ]
     },
     {
-        "id": "2175641",
+        "id": "694044",
         "channel": "Öncü TV",
-        "link": "https://list.iptvcat.com/my_list/s/841efe0bdb511640738f646085eaadc8.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b10d361396152ff3d6feb594ca01bc5c.m3u8",
         "country": "turkey",
-        "liveliness": "95",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -1827,11 +1813,11 @@
         ]
     },
     {
-        "id": "694044",
+        "id": "2175641",
         "channel": "Öncü TV",
-        "link": "https://list.iptvcat.com/my_list/s/b10d361396152ff3d6feb594ca01bc5c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/841efe0bdb511640738f646085eaadc8.m3u8",
         "country": "turkey",
-        "liveliness": "97",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -1911,11 +1897,11 @@
         ]
     },
     {
-        "id": "2455416",
+        "id": "2175628",
         "channel": "İçel TV",
-        "link": "https://list.iptvcat.com/my_list/s/5aa93f05e3996fd62d6c624d45cdddad.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f16db32a766b9a1a560835e9989ae0ec.m3u8",
         "country": "turkey",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -1925,11 +1911,11 @@
         ]
     },
     {
-        "id": "2175628",
+        "id": "2455416",
         "channel": "İçel TV",
-        "link": "https://list.iptvcat.com/my_list/s/f16db32a766b9a1a560835e9989ae0ec.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5aa93f05e3996fd62d6c624d45cdddad.m3u8",
         "country": "turkey",
-        "liveliness": "98",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -2129,7 +2115,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "3188, ...",
+        "mbps": "11126, ...",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2282,8 +2268,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "136",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2321,8 +2307,8 @@
         "channel": "TRT SPOR",
         "link": "https://list.iptvcat.com/my_list/s/64d1dccff0915020f09e8855e82dc275.m3u8",
         "country": "turkey",
-        "liveliness": "86",
-        "status": "online",
+        "liveliness": "81",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -2335,8 +2321,8 @@
         "channel": "TRT SPOR 2",
         "link": "https://list.iptvcat.com/my_list/s/4c8e39867e210952c6143610f0785dbd.m3u8",
         "country": "turkey",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "82",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -2450,8 +2436,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "136",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2479,21 +2465,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "4821",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2021778",
-        "channel": "TURK HABER TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/ee20cb66da84c3187d2c8508ff8d874c.m3u8",
-        "country": "turkey",
-        "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "mbps": "5997",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2535,7 +2507,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "2020",
+        "mbps": "2020, ...",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2597,6 +2569,20 @@
         ]
     },
     {
+        "id": "51199",
+        "channel": "TV 41",
+        "link": "https://list.iptvcat.com/my_list/s/0dd37dea7ac2b5ca53ea4f9409672b4d.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2455329",
         "channel": "TV 41",
         "link": "https://list.iptvcat.com/my_list/s/ca5b2b569f981e8d0a3d01a6552d4b62.m3u8",
@@ -2625,9 +2611,9 @@
         ]
     },
     {
-        "id": "51199",
-        "channel": "TV 41",
-        "link": "https://list.iptvcat.com/my_list/s/0dd37dea7ac2b5ca53ea4f9409672b4d.m3u8",
+        "id": "2472548",
+        "channel": "TV 41 (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/f1cab138e7169fe5eb6569d9eadfc585.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -2642,20 +2628,6 @@
         "id": "2455334",
         "channel": "TV 41 (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/4f679814a28c1d42bf621fb211f1fe6f.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2472548",
-        "channel": "TV 41 (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/f1cab138e7169fe5eb6569d9eadfc585.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -2709,6 +2681,20 @@
         ]
     },
     {
+        "id": "142565",
+        "channel": "TV 52",
+        "link": "https://list.iptvcat.com/my_list/s/a307f8c6f4b22aeb2d52988f3db6a87a.m3u8",
+        "country": "turkey",
+        "liveliness": "98",
+        "status": "offline",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2455335",
         "channel": "TV 52",
         "link": "https://list.iptvcat.com/my_list/s/faff9cd7bde560ef2f501280a57b0aab.m3u8",
@@ -2737,43 +2723,15 @@
         ]
     },
     {
-        "id": "142565",
-        "channel": "TV 52",
-        "link": "https://list.iptvcat.com/my_list/s/a307f8c6f4b22aeb2d52988f3db6a87a.m3u8",
-        "country": "turkey",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2455337",
         "channel": "TV 52 m3u8 taksimbilisim",
         "link": "https://list.iptvcat.com/my_list/s/b6b5af9362e7feded6de889548a4453f.m3u8",
         "country": "turkey",
-        "liveliness": "98",
+        "liveliness": "97",
         "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "720928",
-        "channel": "TV DEN",
-        "link": "https://list.iptvcat.com/my_list/s/20dbdf2139cf5d0c8f3e13f60042a5a4.m3u8",
-        "country": "turkey",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2785,6 +2743,20 @@
         "country": "turkey",
         "liveliness": "89",
         "status": "offline",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "720928",
+        "channel": "TV DEN",
+        "link": "https://list.iptvcat.com/my_list/s/20dbdf2139cf5d0c8f3e13f60042a5a4.m3u8",
+        "country": "turkey",
+        "liveliness": "94",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
@@ -2807,11 +2779,11 @@
         ]
     },
     {
-        "id": "2021739",
+        "id": "679125",
         "channel": "TV EM",
-        "link": "https://list.iptvcat.com/my_list/s/c0a885a3715ee9ca6088e16c3d828d7f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a93a14765515bffe9cb9df4723609353.m3u8",
         "country": "turkey",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -2821,11 +2793,11 @@
         ]
     },
     {
-        "id": "679125",
+        "id": "2021739",
         "channel": "TV EM",
-        "link": "https://list.iptvcat.com/my_list/s/a93a14765515bffe9cb9df4723609353.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/c0a885a3715ee9ca6088e16c3d828d7f.m3u8",
         "country": "turkey",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -2919,25 +2891,11 @@
         ]
     },
     {
-        "id": "679129",
-        "channel": "TV52",
-        "link": "https://list.iptvcat.com/my_list/s/380129fe81af1057aa0b5805d4150541.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "679128",
         "channel": "TV52",
         "link": "https://list.iptvcat.com/my_list/s/07f2a26852bf5b1d5cff797052459d95.m3u8",
         "country": "turkey",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -2953,6 +2911,20 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "offline",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "679129",
+        "channel": "TV52",
+        "link": "https://list.iptvcat.com/my_list/s/380129fe81af1057aa0b5805d4150541.m3u8",
+        "country": "turkey",
+        "liveliness": "99",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -3045,11 +3017,11 @@
         ]
     },
     {
-        "id": "2175651",
+        "id": "2455315",
         "channel": "Trakya Türk TV",
-        "link": "https://list.iptvcat.com/my_list/s/8fa769816f20b8ab6c283aa8595e0122.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/6c4235d62c80ffe3a84f998a1060c056.m3u8",
         "country": "turkey",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -3059,11 +3031,11 @@
         ]
     },
     {
-        "id": "2455315",
+        "id": "2175651",
         "channel": "Trakya Türk TV",
-        "link": "https://list.iptvcat.com/my_list/s/6c4235d62c80ffe3a84f998a1060c056.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8fa769816f20b8ab6c283aa8595e0122.m3u8",
         "country": "turkey",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -3095,7 +3067,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "4821",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3204,7 +3176,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f281d67f704fe5bf547b41379cdff99f.m3u8",
         "country": "turkey",
         "liveliness": "94",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -3339,6 +3311,20 @@
         ]
     },
     {
+        "id": "129194",
+        "channel": "YABAN TV [HD]",
+        "link": "https://list.iptvcat.com/my_list/s/985aa1807d9fac5fd146f0e301c6b39d.m3u8",
+        "country": "turkey",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "4532",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2455287",
         "channel": "Muğla Türk",
         "link": "https://list.iptvcat.com/my_list/s/109cf17289812e4935dec6538e85839d.m3u8",
@@ -3389,7 +3375,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "4821",
+        "mbps": "5991",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3441,11 +3427,11 @@
         "channel": "NBA TV",
         "link": "https://list.iptvcat.com/my_list/s/c0b1ea4ca2eea3a4169af6be462bb5da.m3u8",
         "country": "turkey",
-        "liveliness": "81",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3456,7 +3442,7 @@
         "link": "https://list.iptvcat.com/my_list/s/87e0284765d1dd0f3192b09a9d8466eb.m3u8",
         "country": "turkey",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "5346",
@@ -3577,20 +3563,6 @@
         ]
     },
     {
-        "id": "520664",
-        "channel": "Natural TV",
-        "link": "https://list.iptvcat.com/my_list/s/720fb535f5c878f7a96e93373b919ca7.m3u8",
-        "country": "turkey",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2175585",
         "channel": "Natural TV",
         "link": "https://list.iptvcat.com/my_list/s/05343730797fc03797ce32b57c50484d.m3u8",
@@ -3608,6 +3580,20 @@
         "id": "2946",
         "channel": "Natural TV",
         "link": "https://list.iptvcat.com/my_list/s/847ff317ed36f84a309fbf2e23527e6f.m3u8",
+        "country": "turkey",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "520664",
+        "channel": "Natural TV",
+        "link": "https://list.iptvcat.com/my_list/s/720fb535f5c878f7a96e93373b919ca7.m3u8",
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
@@ -3792,7 +3778,7 @@
         "link": "https://list.iptvcat.com/my_list/s/cc3ab28c87db8450caff8df81dde382e.m3u8",
         "country": "turkey",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -3815,11 +3801,11 @@
         ]
     },
     {
-        "id": "2175534",
+        "id": "2455295",
         "channel": "Ordu BB TV",
-        "link": "https://list.iptvcat.com/my_list/s/9a320430cc16f9810b07d0ef5cadda11.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/c9df6f20d9888520e13d161a815d887e.m3u8",
         "country": "turkey",
-        "liveliness": "97",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -3829,11 +3815,11 @@
         ]
     },
     {
-        "id": "2455295",
+        "id": "2175534",
         "channel": "Ordu BB TV",
-        "link": "https://list.iptvcat.com/my_list/s/c9df6f20d9888520e13d161a815d887e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/9a320430cc16f9810b07d0ef5cadda11.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -3871,9 +3857,9 @@
         ]
     },
     {
-        "id": "560166",
+        "id": "2021805",
         "channel": "POWER TURK HD",
-        "link": "https://list.iptvcat.com/my_list/s/53b786e67beed445da93e61067f42e40.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b83261c57cfee1c1c52d1740bca58ef4.m3u8",
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
@@ -3885,9 +3871,9 @@
         ]
     },
     {
-        "id": "2021805",
+        "id": "560166",
         "channel": "POWER TURK HD",
-        "link": "https://list.iptvcat.com/my_list/s/b83261c57cfee1c1c52d1740bca58ef4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/53b786e67beed445da93e61067f42e40.m3u8",
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
@@ -4058,7 +4044,7 @@
         "channel": "S SPORT",
         "link": "https://list.iptvcat.com/my_list/s/1bcdccd27848d562931e7df1fb1148cd.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -4198,11 +4184,11 @@
         "channel": "SMARTSPOR 1",
         "link": "https://list.iptvcat.com/my_list/s/47c13f30f4cb4118a54d8ba8ef2580f9.m3u8",
         "country": "turkey",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "75",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4226,11 +4212,11 @@
         "channel": "SPORTS TV",
         "link": "https://list.iptvcat.com/my_list/s/5a3f9f170a9062ba1f7d0ddb3f34ac0d.m3u8",
         "country": "turkey",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4453,8 +4439,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322",
+        "format": "sd",
+        "mbps": "2606",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4719,8 +4705,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4754,11 +4740,11 @@
         ]
     },
     {
-        "id": "2455227",
+        "id": "2472475",
         "channel": "Icel TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/47bd0d6200674627ab1bbbed465f0b1d.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/ac87b68968facbc9e4587362f2e99349.m3u8",
         "country": "turkey",
-        "liveliness": "98",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -4768,11 +4754,11 @@
         ]
     },
     {
-        "id": "2472475",
+        "id": "2455227",
         "channel": "Icel TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/ac87b68968facbc9e4587362f2e99349.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/47bd0d6200674627ab1bbbed465f0b1d.m3u8",
         "country": "turkey",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -4852,11 +4838,11 @@
         ]
     },
     {
-        "id": "679106",
+        "id": "2021954",
         "channel": "KANAL 23",
-        "link": "https://list.iptvcat.com/my_list/s/4393673864352c01f18bf893eb343184.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/96170170a8ef7d98b6f4e32bdb904000.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -4866,11 +4852,11 @@
         ]
     },
     {
-        "id": "2021954",
+        "id": "679106",
         "channel": "KANAL 23",
-        "link": "https://list.iptvcat.com/my_list/s/96170170a8ef7d98b6f4e32bdb904000.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4393673864352c01f18bf893eb343184.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -4913,7 +4899,7 @@
         "link": "https://list.iptvcat.com/my_list/s/32dff9fd4db2eb654302adccf8859df4.m3u8",
         "country": "turkey",
         "liveliness": "94",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -4940,7 +4926,7 @@
         "channel": "KANAL 38",
         "link": "https://list.iptvcat.com/my_list/s/28698de858db7e9f686ff1d4fdb3db3d.m3u8",
         "country": "turkey",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -5048,11 +5034,11 @@
         ]
     },
     {
-        "id": "679112",
+        "id": "2021958",
         "channel": "KANAL FIRAT",
-        "link": "https://list.iptvcat.com/my_list/s/4fe58e1a55459a90f612a5a348133db7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5845a87937e64cac3baacdfd2824b091.m3u8",
         "country": "turkey",
-        "liveliness": "92",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -5062,11 +5048,11 @@
         ]
     },
     {
-        "id": "2021958",
+        "id": "679112",
         "channel": "KANAL FIRAT",
-        "link": "https://list.iptvcat.com/my_list/s/5845a87937e64cac3baacdfd2824b091.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4fe58e1a55459a90f612a5a348133db7.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -5104,11 +5090,11 @@
         ]
     },
     {
-        "id": "2021960",
+        "id": "142524",
         "channel": "KANAL Z",
-        "link": "https://list.iptvcat.com/my_list/s/c2622d862feb9845ad85fe866f30fcff.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2f834aedb527996509a8d02b07ba5127.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -5118,11 +5104,11 @@
         ]
     },
     {
-        "id": "142524",
+        "id": "2021960",
         "channel": "KANAL Z",
-        "link": "https://list.iptvcat.com/my_list/s/2f834aedb527996509a8d02b07ba5127.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/c2622d862feb9845ad85fe866f30fcff.m3u8",
         "country": "turkey",
-        "liveliness": "91",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -5244,20 +5230,6 @@
         ]
     },
     {
-        "id": "2175591",
-        "channel": "Kanal 23",
-        "link": "https://list.iptvcat.com/my_list/s/75c67beb32cd7da8d9c41ca7db65bf51.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "7986, ...",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2455233",
         "channel": "Kanal 23",
         "link": "https://list.iptvcat.com/my_list/s/7399db65461474521dcb721cfd0f154a.m3u8",
@@ -5267,6 +5239,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2175591",
+        "channel": "Kanal 23",
+        "link": "https://list.iptvcat.com/my_list/s/75c67beb32cd7da8d9c41ca7db65bf51.m3u8",
+        "country": "turkey",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "7986, ...",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5728,7 +5714,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "2308",
+        "mbps": "2743",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5927,7 +5913,7 @@
         "link": "https://list.iptvcat.com/my_list/s/09c94cabc7e25179f2b68b94b427e0bd.m3u8",
         "country": "turkey",
         "liveliness": "81",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
@@ -5992,9 +5978,9 @@
         ]
     },
     {
-        "id": "2455278",
+        "id": "2175533",
         "channel": "Marmaris Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/8f58a80f0808942f6c2aacb6eb9fea6e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/bec05a22644271f52c2e6c3f95b9b17c.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -6006,9 +5992,9 @@
         ]
     },
     {
-        "id": "2175533",
+        "id": "2455278",
         "channel": "Marmaris Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/bec05a22644271f52c2e6c3f95b9b17c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8f58a80f0808942f6c2aacb6eb9fea6e.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -6160,20 +6146,6 @@
         ]
     },
     {
-        "id": "1520806",
-        "channel": "24 TV",
-        "link": "https://list.iptvcat.com/my_list/s/529bc93b5855c430e8effdc71bdb7517.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "21095",
         "channel": "24 TV",
         "link": "https://list.iptvcat.com/my_list/s/9f653da2150cc5d0fc992a4da597d831.m3u8",
@@ -6188,15 +6160,15 @@
         ]
     },
     {
-        "id": "2021773",
-        "channel": "24 TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/845127885ff7752094471aff28d39bf6.m3u8",
+        "id": "1520806",
+        "channel": "24 TV",
+        "link": "https://list.iptvcat.com/my_list/s/529bc93b5855c430e8effdc71bdb7517.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6211,6 +6183,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2021773",
+        "channel": "24 TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/845127885ff7752094471aff28d39bf6.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6262,7 +6248,7 @@
         "channel": "A SPOR",
         "link": "https://list.iptvcat.com/my_list/s/6ac8c7a0f752c0873fa0fadbe313de73.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -6602,7 +6588,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1008",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6699,8 +6685,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6711,10 +6697,10 @@
         "link": "https://list.iptvcat.com/my_list/s/e5d9b920bbddda101f9f5fdbc3ba2db1.m3u8",
         "country": "turkey",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1883",
+        "mbps": "13256",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6812,7 +6798,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "13311",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6839,8 +6825,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6850,8 +6836,8 @@
         "channel": "BEIN SPORTS 3",
         "link": "https://list.iptvcat.com/my_list/s/2490134e3cb462813b08c99bedf60018.m3u8",
         "country": "turkey",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -6864,8 +6850,8 @@
         "channel": "BEIN SPORTS 4",
         "link": "https://list.iptvcat.com/my_list/s/0d55a6bff4c0f163a924224d7ef2e065.m3u8",
         "country": "turkey",
-        "liveliness": "93",
-        "status": "offline",
+        "liveliness": "94",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -6878,8 +6864,8 @@
         "channel": "BEIN SPORTS MAX 1",
         "link": "https://list.iptvcat.com/my_list/s/b86ce63a44f44227e79c45acfabc76df.m3u8",
         "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -6963,7 +6949,7 @@
         "link": "https://list.iptvcat.com/my_list/s/18c121a9c2a7172abcc09d770076da3a.m3u8",
         "country": "turkey",
         "liveliness": "88",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -7154,9 +7140,9 @@
         ]
     },
     {
-        "id": "2915",
+        "id": "133443",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -7168,9 +7154,9 @@
         ]
     },
     {
-        "id": "133443",
+        "id": "2915",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -7238,20 +7224,6 @@
         ]
     },
     {
-        "id": "2175467",
-        "channel": "Bloomberg HT",
-        "link": "https://list.iptvcat.com/my_list/s/9f4700b9c109fba64edc67f629949059.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "1520805",
         "channel": "Bloomberg HT",
         "link": "https://list.iptvcat.com/my_list/s/3661bb910d9c24272e03492d01584073.m3u8",
@@ -7261,6 +7233,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2175467",
+        "channel": "Bloomberg HT",
+        "link": "https://list.iptvcat.com/my_list/s/9f4700b9c109fba64edc67f629949059.m3u8",
+        "country": "turkey",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -7280,9 +7266,9 @@
         ]
     },
     {
-        "id": "142372",
+        "id": "2455185",
         "channel": "Bodrum Belediyesi Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/b5fa2eb68e0ec705a28abb2624dabfc4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3cf8443a9ad953db8121b3e3097334e2.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -7294,9 +7280,9 @@
         ]
     },
     {
-        "id": "2455185",
+        "id": "142372",
         "channel": "Bodrum Belediyesi Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/3cf8443a9ad953db8121b3e3097334e2.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b5fa2eb68e0ec705a28abb2624dabfc4.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -7448,9 +7434,9 @@
         ]
     },
     {
-        "id": "2455193",
+        "id": "2472436",
         "channel": "Cekmeköy TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/9ee9be1d92c8eabdcfb98ba7db0b8ae4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f78a050e39bb5c975e9cf6da38e756f1.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -7462,9 +7448,9 @@
         ]
     },
     {
-        "id": "2472436",
+        "id": "2455193",
         "channel": "Cekmeköy TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/f78a050e39bb5c975e9cf6da38e756f1.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/9ee9be1d92c8eabdcfb98ba7db0b8ae4.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -7518,11 +7504,11 @@
         ]
     },
     {
-        "id": "2021930",
+        "id": "679090",
         "channel": "DEHA TV",
-        "link": "https://list.iptvcat.com/my_list/s/50578e54037e699fff4ec9739c3427f6.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/91f69fb2c9e3e821680fe505a9e50c14.m3u8",
         "country": "turkey",
-        "liveliness": "99",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -7532,11 +7518,11 @@
         ]
     },
     {
-        "id": "679090",
+        "id": "2021930",
         "channel": "DEHA TV",
-        "link": "https://list.iptvcat.com/my_list/s/91f69fb2c9e3e821680fe505a9e50c14.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/50578e54037e699fff4ec9739c3427f6.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -7568,7 +7554,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -7764,7 +7750,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -7792,7 +7778,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -7873,7 +7859,7 @@
         "link": "https://list.iptvcat.com/my_list/s/bab5be7b9b12649ebd3dab9ee35a96f9.m3u8",
         "country": "turkey",
         "liveliness": "84",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -7887,7 +7873,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6de13770fce3fb72f1e3ccdb0318876a.m3u8",
         "country": "turkey",
         "liveliness": "94",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -8013,7 +7999,7 @@
         "link": "https://list.iptvcat.com/my_list/s/17827bb149d2e887b11154592449e3e6.m3u8",
         "country": "turkey",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -8127,8 +8113,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "format": "sd",
+        "mbps": "2308",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -8239,8 +8225,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -8250,7 +8236,7 @@
         "channel": "Eurosport 2",
         "link": "https://list.iptvcat.com/my_list/s/ae233c85dcbecaff67844266770a2d44.m3u8",
         "country": "turkey",
-        "liveliness": "80",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -8404,7 +8390,7 @@
         "channel": "GAZiANTEP OLAY TV",
         "link": "https://list.iptvcat.com/my_list/s/b2a380220305e10b24785e816f38d64d.m3u8",
         "country": "turkey",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -8475,7 +8461,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a43757b7898f8dc20450e2b6187ac893.m3u8",
         "country": "turkey",
         "liveliness": "86",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -8614,7 +8600,7 @@
         "channel": "Gaziantep Olay Tv (720p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/b70b020fecc0b09ed341ff749a596d25.m3u8",
         "country": "turkey",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -8688,7 +8674,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "4322, ...",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -8702,7 +8688,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "4322, ...",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -8792,25 +8778,25 @@
         ]
     },
     {
-        "id": "2455223",
-        "channel": "Haber 61",
-        "link": "https://list.iptvcat.com/my_list/s/ec81d53560214af4edc4559bb9f739b7.m3u8",
-        "country": "turkey",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "694023",
         "channel": "Haber 61",
         "link": "https://list.iptvcat.com/my_list/s/f45871f24096bae9f84064b5dcedef87.m3u8",
         "country": "turkey",
         "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322, ...",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2455223",
+        "channel": "Haber 61",
+        "link": "https://list.iptvcat.com/my_list/s/ec81d53560214af4edc4559bb9f739b7.m3u8",
+        "country": "turkey",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -8862,11 +8848,11 @@
         ]
     },
     {
-        "id": "142319",
+        "id": "694026",
         "channel": "IBB TV",
-        "link": "https://list.iptvcat.com/my_list/s/5621382beecffdc5e51196d0625a6c96.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a81c4f9eeeee98c1f265f7fb0d434fa0.m3u8",
         "country": "turkey",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -8876,11 +8862,11 @@
         ]
     },
     {
-        "id": "694026",
+        "id": "142319",
         "channel": "IBB TV",
-        "link": "https://list.iptvcat.com/my_list/s/a81c4f9eeeee98c1f265f7fb0d434fa0.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5621382beecffdc5e51196d0625a6c96.m3u8",
         "country": "turkey",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -8960,20 +8946,6 @@
         ]
     },
     {
-        "id": "1520806",
-        "channel": "24 TV",
-        "link": "https://list.iptvcat.com/my_list/s/529bc93b5855c430e8effdc71bdb7517.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "21095",
         "channel": "24 TV",
         "link": "https://list.iptvcat.com/my_list/s/9f653da2150cc5d0fc992a4da597d831.m3u8",
@@ -8988,15 +8960,15 @@
         ]
     },
     {
-        "id": "2021773",
-        "channel": "24 TV HD",
-        "link": "https://list.iptvcat.com/my_list/s/845127885ff7752094471aff28d39bf6.m3u8",
+        "id": "1520806",
+        "channel": "24 TV",
+        "link": "https://list.iptvcat.com/my_list/s/529bc93b5855c430e8effdc71bdb7517.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9011,6 +8983,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2021773",
+        "channel": "24 TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/845127885ff7752094471aff28d39bf6.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9062,7 +9048,7 @@
         "channel": "A SPOR",
         "link": "https://list.iptvcat.com/my_list/s/6ac8c7a0f752c0873fa0fadbe313de73.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -9402,7 +9388,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1008",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9499,8 +9485,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9511,10 +9497,10 @@
         "link": "https://list.iptvcat.com/my_list/s/e5d9b920bbddda101f9f5fdbc3ba2db1.m3u8",
         "country": "turkey",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "1883",
+        "mbps": "13256",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9612,7 +9598,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "13311",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9639,8 +9625,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9650,8 +9636,8 @@
         "channel": "BEIN SPORTS 3",
         "link": "https://list.iptvcat.com/my_list/s/2490134e3cb462813b08c99bedf60018.m3u8",
         "country": "turkey",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -9664,8 +9650,8 @@
         "channel": "BEIN SPORTS 4",
         "link": "https://list.iptvcat.com/my_list/s/0d55a6bff4c0f163a924224d7ef2e065.m3u8",
         "country": "turkey",
-        "liveliness": "93",
-        "status": "offline",
+        "liveliness": "94",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -9678,8 +9664,8 @@
         "channel": "BEIN SPORTS MAX 1",
         "link": "https://list.iptvcat.com/my_list/s/b86ce63a44f44227e79c45acfabc76df.m3u8",
         "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -9763,7 +9749,7 @@
         "link": "https://list.iptvcat.com/my_list/s/18c121a9c2a7172abcc09d770076da3a.m3u8",
         "country": "turkey",
         "liveliness": "88",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -9954,9 +9940,9 @@
         ]
     },
     {
-        "id": "2915",
+        "id": "133443",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -9968,9 +9954,9 @@
         ]
     },
     {
-        "id": "133443",
+        "id": "2915",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -10038,20 +10024,6 @@
         ]
     },
     {
-        "id": "2175467",
-        "channel": "Bloomberg HT",
-        "link": "https://list.iptvcat.com/my_list/s/9f4700b9c109fba64edc67f629949059.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "1520805",
         "channel": "Bloomberg HT",
         "link": "https://list.iptvcat.com/my_list/s/3661bb910d9c24272e03492d01584073.m3u8",
@@ -10061,6 +10033,20 @@
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2175467",
+        "channel": "Bloomberg HT",
+        "link": "https://list.iptvcat.com/my_list/s/9f4700b9c109fba64edc67f629949059.m3u8",
+        "country": "turkey",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "turkey_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -10080,9 +10066,9 @@
         ]
     },
     {
-        "id": "142372",
+        "id": "2455185",
         "channel": "Bodrum Belediyesi Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/b5fa2eb68e0ec705a28abb2624dabfc4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3cf8443a9ad953db8121b3e3097334e2.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -10094,9 +10080,9 @@
         ]
     },
     {
-        "id": "2455185",
+        "id": "142372",
         "channel": "Bodrum Belediyesi Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/3cf8443a9ad953db8121b3e3097334e2.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b5fa2eb68e0ec705a28abb2624dabfc4.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -10248,9 +10234,9 @@
         ]
     },
     {
-        "id": "2455193",
+        "id": "2472436",
         "channel": "Cekmeköy TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/9ee9be1d92c8eabdcfb98ba7db0b8ae4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f78a050e39bb5c975e9cf6da38e756f1.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -10262,9 +10248,9 @@
         ]
     },
     {
-        "id": "2472436",
+        "id": "2455193",
         "channel": "Cekmeköy TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/f78a050e39bb5c975e9cf6da38e756f1.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/9ee9be1d92c8eabdcfb98ba7db0b8ae4.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -10318,11 +10304,11 @@
         ]
     },
     {
-        "id": "2021930",
+        "id": "679090",
         "channel": "DEHA TV",
-        "link": "https://list.iptvcat.com/my_list/s/50578e54037e699fff4ec9739c3427f6.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/91f69fb2c9e3e821680fe505a9e50c14.m3u8",
         "country": "turkey",
-        "liveliness": "99",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -10332,11 +10318,11 @@
         ]
     },
     {
-        "id": "679090",
+        "id": "2021930",
         "channel": "DEHA TV",
-        "link": "https://list.iptvcat.com/my_list/s/91f69fb2c9e3e821680fe505a9e50c14.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/50578e54037e699fff4ec9739c3427f6.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",

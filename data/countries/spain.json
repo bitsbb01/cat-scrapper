@@ -4,8 +4,8 @@
         "channel": "FOX PREMIUM MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/80f18f2c2c3e91dd699759636604a19c.m3u8",
         "country": "spain",
-        "liveliness": "69",
-        "status": "offline",
+        "liveliness": "72",
+        "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "1795",
@@ -18,7 +18,7 @@
         "channel": "MOVIEPLEX",
         "link": "https://list.iptvcat.com/my_list/s/c2eae96486ef940454f86c51f7e3ea27.m3u8",
         "country": "spain",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -50,7 +50,7 @@
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "5007",
         "URI": [
             "s"
         ]
@@ -102,7 +102,7 @@
         "channel": "MOVISTAR DRAMA",
         "link": "https://list.iptvcat.com/my_list/s/8c8318a173b95ab3ab4ff4c0a5742a9f.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -154,20 +154,6 @@
         ]
     },
     {
-        "id": "2597488",
-        "channel": "MOVISTAR F1 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/285e1c5145d06beafae8254e9fab9a3f.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "5007",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2483746",
         "channel": "MOVISTAR F1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/467f17c2cb142f047a4a28d0351e1bf7.m3u8",
@@ -182,12 +168,26 @@
         ]
     },
     {
+        "id": "2597488",
+        "channel": "MOVISTAR F1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/285e1c5145d06beafae8254e9fab9a3f.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "5007",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2597476",
         "channel": "MOVISTAR F1 HD",
         "link": "https://list.iptvcat.com/my_list/s/e62b46cc6f1a524a49501b2bb43ee6cd.m3u8",
         "country": "spain",
-        "liveliness": "57",
-        "status": "online",
+        "liveliness": "53",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -326,7 +326,7 @@
         "channel": "MOVISTAR TOROS TV",
         "link": "https://list.iptvcat.com/my_list/s/dc6ffd92d83dd4e68d6a5a0aa2a08654.m3u8",
         "country": "spain",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "fhd 2k",
@@ -368,7 +368,7 @@
         "channel": "Movistar Accion 4K+",
         "link": "https://list.iptvcat.com/my_list/s/fceb0dfde90fc83d2ab74d9f544ce32f.m3u8",
         "country": "spain",
-        "liveliness": "50",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
@@ -382,8 +382,8 @@
         "channel": "Movistar Accion 4K+",
         "link": "https://list.iptvcat.com/my_list/s/48a1d5a52c16fd233f74e2c3f539444f.m3u8",
         "country": "spain",
-        "liveliness": "40",
-        "status": "online",
+        "liveliness": "41",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -397,7 +397,7 @@
         "link": "https://list.iptvcat.com/my_list/s/769685ecc5731f03f23a6b409262d456.m3u8",
         "country": "spain",
         "liveliness": "53",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -410,7 +410,7 @@
         "channel": "Movistar Cine 4K+",
         "link": "https://list.iptvcat.com/my_list/s/c59a9e251fdf68a93aef0303fa7db0e0.m3u8",
         "country": "spain",
-        "liveliness": "43",
+        "liveliness": "38",
         "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -424,8 +424,8 @@
         "channel": "Movistar Cine 4K+",
         "link": "https://list.iptvcat.com/my_list/s/4f884bdf4ab52677a0abca36608b7355.m3u8",
         "country": "spain",
-        "liveliness": "57",
-        "status": "online",
+        "liveliness": "56",
+        "status": "offline",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
@@ -480,11 +480,11 @@
         "channel": "HBO FAMILY ESTE",
         "link": "https://list.iptvcat.com/my_list/s/968524bc7f9dc301613b19a9d731ea28.m3u8",
         "country": "spain",
-        "liveliness": "100",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "721",
         "URI": [
             "s"
         ]
@@ -494,7 +494,7 @@
         "channel": "HBO PLUS ESTE",
         "link": "https://list.iptvcat.com/my_list/s/0594a331176d61509c0d20649370852e.m3u8",
         "country": "spain",
-        "liveliness": "60",
+        "liveliness": "65",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
         "format": "sd",
@@ -609,8 +609,8 @@
         "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-08-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2480",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
