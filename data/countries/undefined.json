@@ -4,8 +4,8 @@
         "channel": "MBC (540p)",
         "link": "https://list.iptvcat.com/my_list/s/88e269fc3779aaa406e0bacb9980c990.m3u8",
         "country": "undefined",
-        "liveliness": "96",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-08-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8356",
@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
+        "format": "sd",
+        "mbps": "2478",
         "URI": [
             "s"
         ]
@@ -91,8 +91,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "hd",
+        "mbps": "4322",
         "URI": [
             "s"
         ]
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
         "format": "sd",
-        "mbps": "2289",
+        "mbps": "2313",
         "URI": [
             "s"
         ]
@@ -218,7 +218,7 @@
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3066, ...",
         "URI": [
             "s"
         ]
@@ -428,7 +428,7 @@
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
         "format": "sd",
-        "mbps": "4302",
+        "mbps": "3259",
         "URI": [
             "s"
         ]
@@ -448,20 +448,6 @@
         ]
     },
     {
-        "id": "1381336",
-        "channel": "TVS Drive In Movie (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/e23a95e4c3e0ea83410afb553e6252d5.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1600",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "1409145",
         "channel": "TVS Drive In Movie (360p)",
         "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
@@ -470,21 +456,21 @@
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
         "format": "sd",
-        "mbps": "1234",
+        "mbps": "484",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "1409167",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "id": "1381336",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/e23a95e4c3e0ea83410afb553e6252d5.m3u8",
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "format": "hd",
+        "mbps": "4825",
         "URI": [
             "s"
         ]
@@ -498,7 +484,21 @@
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "763",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "763",
         "URI": [
             "s"
         ]
@@ -511,8 +511,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -667,6 +667,34 @@
         "lastChecked": "2022-08-27T00:00:00Z",
         "format": "sd",
         "mbps": "1328",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2593228",
+        "channel": "Канал Disney",
+        "link": "https://list.iptvcat.com/my_list/s/1185230ad61055df77ef61ac92363810.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-27T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2473288",
+        "channel": "Канал Disney (480p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/6e26a464286cc5a37fbc556b2d343c3c.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308, ...",
         "URI": [
             "s"
         ]
