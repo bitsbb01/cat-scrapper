@@ -18,7 +18,7 @@
         "channel": "Stars TV",
         "link": "https://list.iptvcat.com/my_list/s/afb1cb4a8cd6bfd55aad737bfd67736b.m3u8",
         "country": "poland",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
@@ -74,7 +74,7 @@
         "channel": "HBO 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/0c7e52b1ff821084ad62525f52278215.m3u8",
         "country": "poland",
-        "liveliness": "40",
+        "liveliness": "39",
         "status": "offline",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "fhd 2k",
@@ -106,7 +106,21 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2587006",
+        "channel": "HBO 3",
+        "link": "https://list.iptvcat.com/my_list/s/5f02beaaf82748c649e3c6304fdb51fe.m3u8",
+        "country": "poland",
+        "liveliness": "81",
+        "status": "offline",
+        "lastChecked": "2022-09-04T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -120,21 +134,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2587006",
-        "channel": "HBO 3",
-        "link": "https://list.iptvcat.com/my_list/s/5f02beaaf82748c649e3c6304fdb51fe.m3u8",
-        "country": "poland",
-        "liveliness": "82",
-        "status": "online",
-        "lastChecked": "2022-09-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -144,8 +144,8 @@
         "channel": "HBO 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/0591502ccb82c4a925a2d4d6e8b0ca59.m3u8",
         "country": "poland",
-        "liveliness": "38",
-        "status": "online",
+        "liveliness": "37",
+        "status": "offline",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -175,8 +175,8 @@
         "liveliness": "92",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -228,11 +228,11 @@
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/def12242fe92a36117760178c4c1e785.m3u8",
         "country": "poland",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -242,7 +242,7 @@
         "channel": "Disney Channel FHD",
         "link": "https://list.iptvcat.com/my_list/s/98384a75021534be6c90017ce0c9daf5.m3u8",
         "country": "poland",
-        "liveliness": "68",
+        "liveliness": "69",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "fhd 2k",
@@ -256,7 +256,7 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/21b50eef094fef0e742e1497e10ab936.m3u8",
         "country": "poland",
-        "liveliness": "78",
+        "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
@@ -270,8 +270,8 @@
         "channel": "Disney XD",
         "link": "https://list.iptvcat.com/my_list/s/779be3c6e2d2f9422e246b8e229cd41b.m3u8",
         "country": "poland",
-        "liveliness": "88",
-        "status": "online",
+        "liveliness": "87",
+        "status": "offline",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
         "mbps": "1509",

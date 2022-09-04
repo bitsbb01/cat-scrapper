@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "2478, ...",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
         "liveliness": "71",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
@@ -106,7 +106,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
-        "mbps": "2319",
+        "mbps": "1883",
         "URI": [
             "s"
         ]
@@ -133,8 +133,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "1453, ...",
+        "format": "hd",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -176,7 +176,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -427,8 +427,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "3259",
         "URI": [
             "s"
         ]
@@ -442,21 +442,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
-        "mbps": "3676",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409145",
-        "channel": "TVS Drive In Movie (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "1600",
+        "mbps": "3926",
         "URI": [
             "s"
         ]
@@ -469,8 +455,22 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "1234",
+        "format": "hd",
+        "mbps": "4825",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409145",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-04T00:00:00Z",
+        "format": "hd",
+        "mbps": "4825",
         "URI": [
             "s"
         ]
@@ -484,7 +484,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "1589",
         "URI": [
             "s"
         ]
@@ -498,7 +498,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "763",
         "URI": [
             "s"
         ]
@@ -512,7 +512,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1014",
+        "mbps": "3676",
         "URI": [
             "s"
         ]
@@ -588,9 +588,9 @@
         ]
     },
     {
-        "id": "1381203",
+        "id": "1409026",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -602,9 +602,9 @@
         ]
     },
     {
-        "id": "1409026",
+        "id": "1381203",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -680,7 +680,7 @@
         "status": "online",
         "lastChecked": "2022-09-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1328, ...",
+        "mbps": "1328",
         "URI": [
             "s"
         ]
