@@ -63,8 +63,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -189,8 +189,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "5325",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -214,7 +214,7 @@
         "channel": "Cinema Classic",
         "link": "https://list.iptvcat.com/my_list/s/3827e3d4ec2f988d949ce9ac5fe5695b.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "97",
+        "liveliness": "95",
         "status": "offline",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "sd",
@@ -224,11 +224,137 @@
         ]
     },
     {
+        "id": "2591895",
+        "channel": "Cinemax 2",
+        "link": "https://list.iptvcat.com/my_list/s/f59e21b9f04d82ef5245ad1e22f145ad.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2590312",
+        "channel": "Cinéma",
+        "link": "https://list.iptvcat.com/my_list/s/3e32e1780159930b9236d3ca740a4662.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "95",
+        "status": "offline",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2488791",
+        "channel": "PINK WORLD CINEMA",
+        "link": "https://list.iptvcat.com/my_list/s/7925d7334380d737665fb6d9245be385.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2592121",
+        "channel": "Pink World Cinema",
+        "link": "https://list.iptvcat.com/my_list/s/8c4b8788f6f16473da0ea3c2333f7f99.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2589832",
+        "channel": "Star Cinema HD",
+        "link": "https://list.iptvcat.com/my_list/s/0315ce7b9290746af4a728c8765d50b0.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2591890",
+        "channel": "cinemax 1",
+        "link": "https://list.iptvcat.com/my_list/s/c69459613e6f315b4db8b39f33453192.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2585423",
+        "channel": "nov@ cinema",
+        "link": "https://list.iptvcat.com/my_list/s/e188fe1528c3d1210eaffa79c6af8251.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3066",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2585417",
+        "channel": "nov@ cinema 2",
+        "link": "https://list.iptvcat.com/my_list/s/5712c68c096cf3d3a79a55b6ec520f59.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2585418",
+        "channel": "nov@ cinema 2K",
+        "link": "https://list.iptvcat.com/my_list/s/08964c64dec7ad64e0c9785898eb5276.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6730",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2590541",
         "channel": "Disney",
         "link": "https://list.iptvcat.com/my_list/s/de24cc73cc1087ed6052c6b356cf0a48.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "98",
+        "liveliness": "96",
         "status": "offline",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "fhd 2k",

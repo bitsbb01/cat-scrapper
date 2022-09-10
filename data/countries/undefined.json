@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2478, ...",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -61,7 +61,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b6bdd1563b52206530c756b86eabb5fb.m3u8",
         "country": "undefined",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
@@ -92,7 +92,259 @@
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "hd",
-        "mbps": "4322",
+        "mbps": "4311",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2024778",
+        "channel": "Sky Sports 2",
+        "link": "https://list.iptvcat.com/my_list/s/2801f49dd5b90b4b172ef7cbc00c2a3f.m3u8",
+        "country": "undefined",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "136",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2024779",
+        "channel": "Sky Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/7557cd1600c365dafebff1b041a8720d.m3u8",
+        "country": "undefined",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2024780",
+        "channel": "Sky Sports 4",
+        "link": "https://list.iptvcat.com/my_list/s/4151d74291c4930bda368d9fab0f0dfc.m3u8",
+        "country": "undefined",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597346",
+        "channel": "Sky Sports Action",
+        "link": "https://list.iptvcat.com/my_list/s/b0eb8260c1d127ddb24e3178a9ffda9e.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597347",
+        "channel": "Sky Sports Arena",
+        "link": "https://list.iptvcat.com/my_list/s/8d0ecae97abd2e8427f9b57acc46ffe9.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597348",
+        "channel": "Sky Sports Cricket",
+        "link": "https://list.iptvcat.com/my_list/s/9a8452d0f8fe60e4214d668e372c2995.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597349",
+        "channel": "Sky Sports F1",
+        "link": "https://list.iptvcat.com/my_list/s/6219e22dc075be04cb89db8c2bb0ac30.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597350",
+        "channel": "Sky Sports Football",
+        "link": "https://list.iptvcat.com/my_list/s/3d30885aaa28bbe963be29f30a01b203.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597351",
+        "channel": "Sky Sports Golf",
+        "link": "https://list.iptvcat.com/my_list/s/12cbc0bf39c0cd1ae0a6cc7f9169a980.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597352",
+        "channel": "Sky Sports Main Event",
+        "link": "https://list.iptvcat.com/my_list/s/981fe032e20dd904b76f10e973e18b9d.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597353",
+        "channel": "Sky Sports Mix",
+        "link": "https://list.iptvcat.com/my_list/s/82a19be0270f1ea2a39a6e739cbb1b91.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2024782",
+        "channel": "Sky Sports News",
+        "link": "https://list.iptvcat.com/my_list/s/063116894845ad49874d891739cbb816.m3u8",
+        "country": "undefined",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597354",
+        "channel": "Sky Sports News",
+        "link": "https://list.iptvcat.com/my_list/s/ffcbd2555f136cef0654223e9b5108e4.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597355",
+        "channel": "Sky Sports Premier League",
+        "link": "https://list.iptvcat.com/my_list/s/984dc8f81ba9c093f5cd33350f83d4ee.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597356",
+        "channel": "Sky Sports Racing",
+        "link": "https://list.iptvcat.com/my_list/s/0324447d897cf88d657f64bc4401e6ed.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2024783",
+        "channel": "Sky Sports f1",
+        "link": "https://list.iptvcat.com/my_list/s/9e8426e5df4285fddf0fbba9e3fd5a06.m3u8",
+        "country": "undefined",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "136",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1334869",
+        "channel": "Skylines.2020",
+        "link": "https://list.iptvcat.com/my_list/s/a8e1404b2666ea1b1c98e5ced22fc29d.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "831",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1334880",
+        "channel": "The.Midnight.Sky.2020",
+        "link": "https://list.iptvcat.com/my_list/s/abe18556623382a0b2ea9ad56e968489.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1052",
         "URI": [
             "s"
         ]
@@ -106,7 +358,7 @@
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1485",
+        "mbps": "2319",
         "URI": [
             "s"
         ]
@@ -134,7 +386,7 @@
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3066, ...",
         "URI": [
             "s"
         ]
@@ -176,7 +428,7 @@
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -217,8 +469,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "1247, ...",
         "URI": [
             "s"
         ]
@@ -232,7 +484,7 @@
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "1308",
         "URI": [
             "s"
         ]
@@ -378,6 +630,202 @@
         ]
     },
     {
+        "id": "1119509",
+        "channel": "Rai Movie [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/4c02b150d9883c53e0c83657434f782c.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2637",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162805",
+        "channel": "Roku : Moviesphere",
+        "link": "https://list.iptvcat.com/my_list/s/3d3af72dba0701e8d7ed3ba9a977157e.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2473522",
+        "channel": "STIRR Gravitas Movies (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/670d26a07426e3a342a0df4110f2c063.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "958537",
+        "channel": "STIRR Horror Movies",
+        "link": "https://list.iptvcat.com/my_list/s/2fea59d77613809d59b828bac15717d6.m3u8",
+        "country": "undefined",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "3259",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409139",
+        "channel": "TVS Classic Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a1f3ba2f51f4fb90dbe118037e4d470.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2740",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409145",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1526",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1381336",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/e23a95e4c3e0ea83410afb553e6252d5.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2214",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2088",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1381397",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "990",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409193",
+        "channel": "TVS Western Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/414527d61ec7d8553e612f9efb1dd6b1.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1014",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "11830",
+        "channel": "The Seventh Dimension (Public-OnDemandMovies) (US) (English)",
+        "link": "https://list.iptvcat.com/my_list/s/c0298fc3e2508c829f348048577bad64.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "740",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2473098",
+        "channel": "Toonami Aftermath Movies (540p)",
+        "link": "https://list.iptvcat.com/my_list/s/06b4996089e208fa877fb4a068551b57.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1783",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1162963",
+        "channel": "Victor Valley TV-3 : Movies",
+        "link": "https://list.iptvcat.com/my_list/s/b5aae3698568c8acddcc369458640091.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997265",
+        "channel": "tvN Movies",
+        "link": "https://list.iptvcat.com/my_list/s/726f2c6a7939a3a3cb51a69df60274b6.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "275",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1162304",
         "channel": "Business Rockstars",
         "link": "https://list.iptvcat.com/my_list/s/5204cc9a2ea4256f13d6b8652d2563e4.m3u8",
@@ -427,8 +875,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "4040, ...",
         "URI": [
             "s"
         ]
@@ -499,6 +947,34 @@
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "11829",
+        "channel": "Telesur Costarica",
+        "link": "https://list.iptvcat.com/my_list/s/0c498cfb6d32cb6e88f681b0e7f8af1c.m3u8",
+        "country": "undefined",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1200937",
+        "channel": "Trace Sport Stars (Australia)",
+        "link": "https://list.iptvcat.com/my_list/s/64595c8d9b5f800664f23e36a20730f1.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "s"
         ]
@@ -666,7 +1142,7 @@
         "status": "online",
         "lastChecked": "2022-09-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1328, ...",
+        "mbps": "410",
         "URI": [
             "s"
         ]
