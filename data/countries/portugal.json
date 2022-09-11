@@ -32,8 +32,8 @@
         "channel": "AXN MOVIES FHD",
         "link": "https://list.iptvcat.com/my_list/s/ebb17c4131e78472d866e40c3393af48.m3u8",
         "country": "portugal",
-        "liveliness": "39",
-        "status": "offline",
+        "liveliness": "40",
+        "status": "online",
         "lastChecked": "2022-09-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -60,7 +60,7 @@
         "channel": "FOX MOVIES (LOW)",
         "link": "https://list.iptvcat.com/my_list/s/81f4849aad229dbb5803568692a58ad7.m3u8",
         "country": "portugal",
-        "liveliness": "59",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-09-11T00:00:00Z",
         "format": "hd",
@@ -75,21 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/093480bf0e98f73270bcb7d1d6f2b436.m3u8",
         "country": "portugal",
         "liveliness": "32",
-        "status": "online",
-        "lastChecked": "2022-09-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596021",
-        "channel": "FOX Movies",
-        "link": "https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -107,6 +93,20 @@
         "lastChecked": "2022-09-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596021",
+        "channel": "FOX Movies",
+        "link": "https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]

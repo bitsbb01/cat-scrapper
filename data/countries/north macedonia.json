@@ -4,7 +4,21 @@
         "channel": "Sky Folk HD",
         "link": "https://list.iptvcat.com/my_list/s/3e825425755c779edc98c6f483505248.m3u8",
         "country": "north macedonia",
-        "liveliness": "87",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2022-09-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2472284",
+        "channel": "Sky Folk TV (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/c6706451df382585372aaca52424c081.m3u8",
+        "country": "north macedonia",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-11T00:00:00Z",
         "format": "hd",
@@ -17,20 +31,6 @@
         "id": "2472292",
         "channel": "Sky Folk TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/ead9768d7d409acb5229557fb886321b.m3u8",
-        "country": "north macedonia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-09-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2472284",
-        "channel": "Sky Folk TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/c6706451df382585372aaca52424c081.m3u8",
         "country": "north macedonia",
         "liveliness": "97",
         "status": "online",
@@ -61,10 +61,10 @@
         "link": "https://list.iptvcat.com/my_list/s/0aff1e23d975568ba26bc2d07e45d5b0.m3u8",
         "country": "north macedonia",
         "liveliness": "85",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-11T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -88,11 +88,11 @@
         "channel": "HBO HD",
         "link": "https://list.iptvcat.com/my_list/s/1ededb839f409443abb3c454d54c962a.m3u8",
         "country": "north macedonia",
-        "liveliness": "85",
-        "status": "offline",
+        "liveliness": "86",
+        "status": "online",
         "lastChecked": "2022-09-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
