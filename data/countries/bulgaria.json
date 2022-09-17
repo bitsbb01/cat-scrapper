@@ -63,8 +63,8 @@
         "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "4715",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -116,8 +116,8 @@
         "channel": "Hbo HD",
         "link": "https://list.iptvcat.com/my_list/s/b737e27764b790397ba2d6f065fe881a.m3u8",
         "country": "bulgaria",
-        "liveliness": "76",
-        "status": "online",
+        "liveliness": "75",
+        "status": "offline",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -130,7 +130,7 @@
         "channel": "B Tv Cinema",
         "link": "https://list.iptvcat.com/my_list/s/129114b8cb31af6db9ac6934df185b80.m3u8",
         "country": "bulgaria",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",
@@ -145,7 +145,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0d063a56e40cfe74676f6a9eb0894133.m3u8",
         "country": "bulgaria",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -159,7 +159,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2ce780cab7678c83db10d7d938ebc8c1.m3u8",
         "country": "bulgaria",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -172,11 +172,11 @@
         "channel": "Cinemax HD",
         "link": "https://list.iptvcat.com/my_list/s/bad96bd98bc684641c5d0d9da6336a7e.m3u8",
         "country": "bulgaria",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2711",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -196,37 +196,23 @@
         ]
     },
     {
-        "id": "2024929",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/573af8ce69e75c35537a196755c8cd78.m3u8",
-        "country": "bulgaria",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2587179",
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/a3b917ea370c763ee21a805b8be61fd2.m3u8",
         "country": "bulgaria",
         "liveliness": "82",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "2024931",
-        "channel": "Disney Junior",
-        "link": "https://list.iptvcat.com/my_list/s/a99b4c44e44c660e227afcb480b874a5.m3u8",
+        "id": "2024929",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/573af8ce69e75c35537a196755c8cd78.m3u8",
         "country": "bulgaria",
         "liveliness": "98",
         "status": "online",
@@ -242,7 +228,21 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/3fec28885653243c84699e6061de4147.m3u8",
         "country": "bulgaria",
-        "liveliness": "82",
+        "liveliness": "81",
+        "status": "offline",
+        "lastChecked": "2022-09-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2024931",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/a99b4c44e44c660e227afcb480b874a5.m3u8",
+        "country": "bulgaria",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",

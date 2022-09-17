@@ -92,7 +92,7 @@
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "4322",
         "URI": [
             "s"
         ]
@@ -119,8 +119,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
+        "format": "sd",
+        "mbps": "136",
         "URI": [
             "s"
         ]
@@ -315,8 +315,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "136",
         "URI": [
             "s"
         ]
@@ -357,8 +357,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "sd",
+        "mbps": "2313",
         "URI": [
             "s"
         ]
@@ -386,7 +386,7 @@
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1453, ...",
+        "mbps": "1190, ...",
         "URI": [
             "s"
         ]
@@ -470,7 +470,7 @@
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3066, ...",
         "URI": [
             "s"
         ]
@@ -484,7 +484,7 @@
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "1308",
         "URI": [
             "s"
         ]
@@ -512,7 +512,7 @@
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3799",
         "URI": [
             "s"
         ]
@@ -679,8 +679,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "577",
         "URI": [
             "s"
         ]
@@ -708,7 +708,7 @@
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "2130",
         "URI": [
             "s"
         ]
@@ -721,22 +721,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1381397",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-17T00:00:00Z",
         "format": "sd",
-        "mbps": "2285",
+        "mbps": "4600",
         "URI": [
             "s"
         ]
@@ -756,6 +742,20 @@
         ]
     },
     {
+        "id": "1381397",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2088",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1409193",
         "channel": "TVS Western Movie (360p)",
         "link": "https://list.iptvcat.com/my_list/s/414527d61ec7d8553e612f9efb1dd6b1.m3u8",
@@ -764,7 +764,7 @@
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "4821",
         "URI": [
             "s"
         ]
@@ -889,8 +889,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "4040, ...",
         "URI": [
             "s"
         ]
