@@ -1,12 +1,12 @@
 [
     {
-        "id": "2600928",
-        "channel": "Cinestar TV Premiere 2",
-        "link": "https://list.iptvcat.com/my_list/s/a8228a586480a3790e1f59ebcf208410.m3u8",
+        "id": "2618402",
+        "channel": "CINESTAR ACTION",
+        "link": "https://list.iptvcat.com/my_list/s/647b5d42e3888f2a20a5f3d19721a691.m3u8",
         "country": "serbia",
-        "liveliness": "12",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2022-08-28T00:00:00Z",
+        "lastChecked": "2022-09-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -14,15 +14,29 @@
         ]
     },
     {
-        "id": "2600927",
-        "channel": "HBO 2 HD+",
-        "link": "https://list.iptvcat.com/my_list/s/6d3bf87a67c4f878c3c34792ab54a086.m3u8",
+        "id": "2618403",
+        "channel": "CINESTAR FANTASY",
+        "link": "https://list.iptvcat.com/my_list/s/ef77cfa44fdb045f7a66720d4e127d14.m3u8",
         "country": "serbia",
-        "liveliness": "12",
-        "status": "offline",
-        "lastChecked": "2022-08-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2131",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2618406",
+        "channel": "CINESTAR PREMIERE 2",
+        "link": "https://list.iptvcat.com/my_list/s/b55974f6a2589717bc3bf9b33c222d28.m3u8",
+        "country": "serbia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
