@@ -6,7 +6,7 @@
         "country": "north macedonia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
+        "lastChecked": "2022-09-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -19,8 +19,8 @@
         "link": "https://list.iptvcat.com/my_list/s/e72493dd3bfcf4c6d50f4b9d8a24ed31.m3u8",
         "country": "north macedonia",
         "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-09-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -34,23 +34,9 @@
         "country": "north macedonia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
+        "lastChecked": "2022-09-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2615729",
-        "channel": "HBO 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/534e2a11db485dc7d28ad6e1e5446731.m3u8",
-        "country": "north macedonia",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -60,9 +46,23 @@
         "channel": "HBO 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/0aff1e23d975568ba26bc2d07e45d5b0.m3u8",
         "country": "north macedonia",
-        "liveliness": "84",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-09-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2615729",
+        "channel": "HBO 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/534e2a11db485dc7d28ad6e1e5446731.m3u8",
+        "country": "north macedonia",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
+        "lastChecked": "2022-09-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -74,11 +74,11 @@
         "channel": "HBO 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/130555f0b05f91f8a16a25160a40c4a5.m3u8",
         "country": "north macedonia",
-        "liveliness": "86",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
+        "lastChecked": "2022-09-21T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -90,21 +90,7 @@
         "country": "north macedonia",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2615724",
-        "channel": "HBO HD",
-        "link": "https://list.iptvcat.com/my_list/s/4a73276c92d7d53636f22385e924a722.m3u8",
-        "country": "north macedonia",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
+        "lastChecked": "2022-09-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -117,10 +103,24 @@
         "link": "https://list.iptvcat.com/my_list/s/1ededb839f409443abb3c454d54c962a.m3u8",
         "country": "north macedonia",
         "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2022-09-20T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-09-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2615724",
+        "channel": "HBO HD",
+        "link": "https://list.iptvcat.com/my_list/s/4a73276c92d7d53636f22385e924a722.m3u8",
+        "country": "north macedonia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-09-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
