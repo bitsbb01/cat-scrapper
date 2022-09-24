@@ -1,10 +1,10 @@
 [
     {
-        "id": "2587094",
+        "id": "2622494",
         "channel": "Stars TV",
-        "link": "https://list.iptvcat.com/my_list/s/afb1cb4a8cd6bfd55aad737bfd67736b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a02418ae42a270e0503ea2a5a2432609.m3u8",
         "country": "poland",
-        "liveliness": "88",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -14,11 +14,11 @@
         ]
     },
     {
-        "id": "2622494",
+        "id": "2587094",
         "channel": "Stars TV",
-        "link": "https://list.iptvcat.com/my_list/s/a02418ae42a270e0503ea2a5a2432609.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/afb1cb4a8cd6bfd55aad737bfd67736b.m3u8",
         "country": "poland",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -186,11 +186,11 @@
         "channel": "Lifetime HD",
         "link": "https://list.iptvcat.com/my_list/s/507ea7d3ef9626d41fbc88ed893b89ec.m3u8",
         "country": "poland",
-        "liveliness": "64",
-        "status": "offline",
+        "liveliness": "65",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -217,8 +217,8 @@
         "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -256,11 +256,11 @@
         "channel": "Lifetime HD",
         "link": "https://list.iptvcat.com/my_list/s/507ea7d3ef9626d41fbc88ed893b89ec.m3u8",
         "country": "poland",
-        "liveliness": "64",
-        "status": "offline",
+        "liveliness": "65",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -350,20 +350,6 @@
         ]
     },
     {
-        "id": "2622270",
-        "channel": "Disney Junior",
-        "link": "https://list.iptvcat.com/my_list/s/d05ad14bb06bb332b3ee2765b38ffc9e.m3u8",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2586992",
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/21b50eef094fef0e742e1497e10ab936.m3u8",
@@ -378,11 +364,25 @@
         ]
     },
     {
+        "id": "2622270",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/d05ad14bb06bb332b3ee2765b38ffc9e.m3u8",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2622271",
         "channel": "Disney XD",
         "link": "https://list.iptvcat.com/my_list/s/a21ebfb1c2bd1d727f8217f60b1988a5.m3u8",
         "country": "poland",
-        "liveliness": "95",
+        "liveliness": "91",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
