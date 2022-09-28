@@ -32,9 +32,9 @@
         "channel": "HBO 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/ee35e952820aaac6b91ef670fe033410.m3u8",
         "country": "north macedonia",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2022-09-28T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -70,20 +70,6 @@
         ]
     },
     {
-        "id": "2587321",
-        "channel": "HBO 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/0bed24d09a35692e02fcf57636aee787.m3u8",
-        "country": "north macedonia",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2615731",
         "channel": "HBO 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/130555f0b05f91f8a16a25160a40c4a5.m3u8",
@@ -98,13 +84,27 @@
         ]
     },
     {
+        "id": "2587321",
+        "channel": "HBO 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/0bed24d09a35692e02fcf57636aee787.m3u8",
+        "country": "north macedonia",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2022-09-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2615724",
         "channel": "HBO HD",
         "link": "https://list.iptvcat.com/my_list/s/4a73276c92d7d53636f22385e924a722.m3u8",
         "country": "north macedonia",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-09-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -118,9 +118,9 @@
         "country": "north macedonia",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
+        "lastChecked": "2022-09-28T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
