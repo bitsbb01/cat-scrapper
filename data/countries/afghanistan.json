@@ -20,7 +20,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
@@ -35,7 +35,7 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-01T00:00:00Z",
-        "format": "hd",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "s"
@@ -75,8 +75,8 @@
         "link": "https://list.iptvcat.com/my_list/s/ab09e173af6887033894a3ad3e9d6f06.m3u8",
         "country": "afghanistan",
         "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -146,23 +146,9 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "sd",
         "mbps": "3665",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2607303",
-        "channel": "Rakuten Action Movies",
-        "link": "https://list.iptvcat.com/my_list/s/681685bb3071a6b81b230fda3347b969.m3u8",
-        "country": "afghanistan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -182,15 +168,29 @@
         ]
     },
     {
+        "id": "2607303",
+        "channel": "Rakuten Action Movies",
+        "link": "https://list.iptvcat.com/my_list/s/681685bb3071a6b81b230fda3347b969.m3u8",
+        "country": "afghanistan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2605074",
         "channel": "Rakuten Action Movies (720p)",
         "link": "https://list.iptvcat.com/my_list/s/bbbd542d38d925257fd91266a31558a9.m3u8",
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -202,9 +202,9 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -216,9 +216,9 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -244,23 +244,9 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2606854",
-        "channel": "Rakuten Comedy Movies",
-        "link": "https://list.iptvcat.com/my_list/s/0dfd3e96422b63fe306cca701cc5bb9e.m3u8",
-        "country": "afghanistan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -275,6 +261,20 @@
         "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "4825, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2606854",
+        "channel": "Rakuten Comedy Movies",
+        "link": "https://list.iptvcat.com/my_list/s/0dfd3e96422b63fe306cca701cc5bb9e.m3u8",
+        "country": "afghanistan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -300,7 +300,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -328,7 +328,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -342,9 +342,9 @@
         "country": "afghanistan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -370,7 +370,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -384,7 +384,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -398,9 +398,9 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -412,7 +412,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -454,7 +454,7 @@
         "country": "afghanistan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -482,7 +482,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -496,7 +496,7 @@
         "country": "afghanistan",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -510,7 +510,7 @@
         "country": "afghanistan",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -524,7 +524,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -580,7 +580,7 @@
         "country": "afghanistan",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -664,7 +664,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "sd",
         "mbps": "2218",
         "URI": [
@@ -678,7 +678,7 @@
         "country": "afghanistan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-30T00:00:00Z",
+        "lastChecked": "2022-10-01T00:00:00Z",
         "format": "sd",
         "mbps": "2218",
         "URI": [
