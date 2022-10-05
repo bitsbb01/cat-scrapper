@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1051, ...",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -61,7 +61,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb5bd0c9c44096e14c8ba16b6684d8fe.m3u8",
         "country": "undefined",
         "liveliness": "71",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
@@ -92,7 +92,7 @@
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2229",
+        "mbps": "2088",
         "URI": [
             "s"
         ]
@@ -218,7 +218,7 @@
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "1308",
         "URI": [
             "s"
         ]
@@ -413,8 +413,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "4302",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -428,7 +428,7 @@
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "2740",
         "URI": [
             "s"
         ]
@@ -442,7 +442,7 @@
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "1242",
         "URI": [
             "s"
         ]
@@ -456,21 +456,7 @@
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409167",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "mbps": "1242",
         "URI": [
             "s"
         ]
@@ -484,7 +470,21 @@
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "920",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "790",
         "URI": [
             "s"
         ]
@@ -498,7 +498,7 @@
         "status": "online",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "1307",
         "URI": [
             "s"
         ]
@@ -555,6 +555,34 @@
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "sd",
         "mbps": "275",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2472631",
+        "channel": "HBO Asia",
+        "link": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
+        "country": "undefined",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2022-10-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "997004",
+        "channel": "HBO PREMIUM",
+        "link": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "s"
         ]
@@ -621,7 +649,7 @@
         "link": "https://list.iptvcat.com/my_list/s/d0becab9132084e98718d0b917693f4c.m3u8",
         "country": "undefined",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-05T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
