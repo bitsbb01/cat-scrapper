@@ -20,7 +20,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -284,7 +284,7 @@
         "channel": "Movistar Alquiler 5 FHD ES",
         "link": "https://list.iptvcat.com/my_list/s/839db91d5f2049175fcddad5b20b919b.m3u8",
         "country": "spain",
-        "liveliness": "71",
+        "liveliness": "72",
         "status": "online",
         "lastChecked": "2022-10-08T00:00:00Z",
         "format": "hd",
@@ -370,7 +370,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -468,7 +468,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -494,11 +494,11 @@
         "channel": "Movistar Deportes 1 FHD ES",
         "link": "https://list.iptvcat.com/my_list/s/b9056dcca87d40a5ce6bb24546ab8fc3.m3u8",
         "country": "spain",
-        "liveliness": "93",
-        "status": "offline",
+        "liveliness": "94",
+        "status": "online",
         "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -518,125 +518,13 @@
         ]
     },
     {
-        "id": "2639619",
-        "channel": "Movistar Disney ES",
-        "link": "https://list.iptvcat.com/my_list/s/1299a8059a665bfa29e5d1c6f3e265f2.m3u8",
-        "country": "spain",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2639617",
-        "channel": "Movistar Disney HD ES",
-        "link": "https://list.iptvcat.com/my_list/s/edf2b770ea95c889ed10b5fd266f86d7.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2639621",
-        "channel": "Movistar Drama ES",
-        "link": "https://list.iptvcat.com/my_list/s/a599cb8fc5283019acc4a69d2e070381.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2639626",
-        "channel": "Movistar Drama FHD ES",
-        "link": "https://list.iptvcat.com/my_list/s/ff7c25d7410aa33a23ef5ed9b0c10546.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2639623",
-        "channel": "Movistar Drama HD ES",
-        "link": "https://list.iptvcat.com/my_list/s/4a6fbf4b14ce10a630ce4f72e6d80d1f.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2639631",
-        "channel": "Movistar EStrenos FHD ES",
-        "link": "https://list.iptvcat.com/my_list/s/4e2e7e4fb14aaf885dcfafd73292972d.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2639629",
-        "channel": "Movistar EStrenos HD ES",
-        "link": "https://list.iptvcat.com/my_list/s/ee92a88821f58d0f4f96243c863655aa.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596942",
-        "channel": "Movistar Estrenos",
-        "link": "https://list.iptvcat.com/my_list/s/1c9b5bada78eb58f944446bbddc7f90d.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2605743",
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/64958ab7ab7444d446a27c3202fdd85a.m3u8",
         "country": "spain",
-        "liveliness": "71",
+        "liveliness": "72",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -678,7 +566,7 @@
         "country": "spain",
         "liveliness": "71",
         "status": "online",
-        "lastChecked": "2022-10-07T00:00:00Z",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [

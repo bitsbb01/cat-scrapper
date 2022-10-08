@@ -1,14 +1,28 @@
 [
     {
-        "id": "2624777",
-        "channel": "Movistar Plus",
-        "link": "https://list.iptvcat.com/my_list/s/61174f729f2c171741e707944c6a7539.m3u8",
+        "id": "2645528",
+        "channel": "MOVISTAR DEPORTES",
+        "link": "https://list.iptvcat.com/my_list/s/39b8a31e19f676291ff484bcf75a07da.m3u8",
         "country": "peru",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2022-10-05T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-08T00:00:00Z",
         "format": "sd",
-        "mbps": "2283",
+        "mbps": "1570",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2645530",
+        "channel": "MOVISTAR PLUS TV",
+        "link": "https://list.iptvcat.com/my_list/s/d270db207a83e024aa7fd23980acbee9.m3u8",
+        "country": "peru",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
