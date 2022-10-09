@@ -1,19 +1,5 @@
 [
     {
-        "id": "2643460",
-        "channel": "DISNEY CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/acd8351c6f7fb7dbea3df91d085d4436.m3u8",
-        "country": "netherlands",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2022-10-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2489974",
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/cb77fa21ad64a0efc4b90e190b6969df.m3u8",
@@ -28,13 +14,27 @@
         ]
     },
     {
+        "id": "2643460",
+        "channel": "DISNEY CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/acd8351c6f7fb7dbea3df91d085d4436.m3u8",
+        "country": "netherlands",
+        "liveliness": "40",
+        "status": "online",
+        "lastChecked": "2022-10-09T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2489978",
         "channel": "DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/89df2186eecc5f1401087ac89900a29c.m3u8",
         "country": "netherlands",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
+        "lastChecked": "2022-10-09T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -62,9 +62,9 @@
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
+        "lastChecked": "2022-10-09T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -77,8 +77,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2022-10-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -90,7 +90,7 @@
         "country": "netherlands",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
+        "lastChecked": "2022-10-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -102,25 +102,11 @@
         "channel": "Disney Channel NL",
         "link": "https://list.iptvcat.com/my_list/s/696e8e15ab4d9046bd1411b6c673e9c4.m3u8",
         "country": "netherlands",
-        "liveliness": "71",
+        "liveliness": "56",
         "status": "offline",
         "lastChecked": "2022-10-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2641574",
-        "channel": "Disney Junior",
-        "link": "https://list.iptvcat.com/my_list/s/687dc9bd6fc451e3971e72a8a6ea6fc9.m3u8",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -135,6 +121,20 @@
         "lastChecked": "2022-10-09T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2641574",
+        "channel": "Disney Junior",
+        "link": "https://list.iptvcat.com/my_list/s/687dc9bd6fc451e3971e72a8a6ea6fc9.m3u8",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-09T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -158,7 +158,7 @@
         "channel": "Veronica / Disney XD FHD NL",
         "link": "https://list.iptvcat.com/my_list/s/b18057c4c0826fdccec85b681d41fcf8.m3u8",
         "country": "netherlands",
-        "liveliness": "71",
+        "liveliness": "56",
         "status": "offline",
         "lastChecked": "2022-10-09T00:00:00Z",
         "format": "hd",
