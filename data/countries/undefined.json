@@ -6,7 +6,7 @@
         "country": "undefined",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -118,9 +118,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -132,7 +132,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
         "mbps": "663",
         "URI": [
@@ -162,7 +162,7 @@
         "status": "online",
         "lastChecked": "2022-10-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3795, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -202,9 +202,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "926, ...",
+        "lastChecked": "2022-10-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -244,7 +244,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -286,7 +286,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -342,7 +342,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -370,7 +370,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
         "mbps": "2637",
         "URI": [
@@ -398,7 +398,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -412,9 +412,9 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "4302",
+        "lastChecked": "2022-10-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "s"
         ]
@@ -427,8 +427,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1181",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -441,8 +441,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "sd",
+        "mbps": "2348",
         "URI": [
             "s"
         ]
@@ -456,21 +456,7 @@
         "status": "online",
         "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1381397",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764",
+        "mbps": "2348",
         "URI": [
             "s"
         ]
@@ -490,6 +476,20 @@
         ]
     },
     {
+        "id": "1381397",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "920",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1409193",
         "channel": "TVS Western Movie (360p)",
         "link": "https://list.iptvcat.com/my_list/s/414527d61ec7d8553e612f9efb1dd6b1.m3u8",
@@ -498,7 +498,7 @@
         "status": "online",
         "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
-        "mbps": "761",
+        "mbps": "920",
         "URI": [
             "s"
         ]
@@ -580,7 +580,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -664,7 +664,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
         "mbps": "1328, ...",
         "URI": [
@@ -692,7 +692,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
         "mbps": "1328, ...",
         "URI": [
@@ -706,7 +706,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "sd",
         "mbps": "1328",
         "URI": [
@@ -720,7 +720,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-10T00:00:00Z",
+        "lastChecked": "2022-10-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
