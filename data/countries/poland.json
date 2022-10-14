@@ -28,20 +28,6 @@
         ]
     },
     {
-        "id": "2587007",
-        "channel": "HBO",
-        "link": "https://list.iptvcat.com/my_list/s/071727137946f71ac258244c330356f3.m3u8",
-        "country": "poland",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2022-10-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2646808",
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/871b46f8db84f4575ba56668763cd84f.m3u8",
@@ -56,13 +42,27 @@
         ]
     },
     {
+        "id": "2587007",
+        "channel": "HBO",
+        "link": "https://list.iptvcat.com/my_list/s/071727137946f71ac258244c330356f3.m3u8",
+        "country": "poland",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2022-10-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2585943",
         "channel": "HBO 1 FHD",
         "link": "https://list.iptvcat.com/my_list/s/12a3ea6a29fdc37365c26a28486f472a.m3u8",
         "country": "poland",
         "liveliness": "31",
-        "status": "online",
-        "lastChecked": "2022-10-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-10-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -116,8 +116,8 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/5f02beaaf82748c649e3c6304fdb51fe.m3u8",
         "country": "poland",
-        "liveliness": "81",
-        "status": "online",
+        "liveliness": "80",
+        "status": "offline",
         "lastChecked": "2022-10-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -146,7 +146,7 @@
         "country": "poland",
         "liveliness": "34",
         "status": "online",
-        "lastChecked": "2022-10-13T00:00:00Z",
+        "lastChecked": "2022-10-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -214,8 +214,8 @@
         "channel": "Cinemax 2",
         "link": "https://list.iptvcat.com/my_list/s/c98cdc9972d8eb5807c9092c11913be4.m3u8",
         "country": "poland",
-        "liveliness": "84",
-        "status": "online",
+        "liveliness": "83",
+        "status": "offline",
         "lastChecked": "2022-10-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -314,7 +314,7 @@
         "country": "poland",
         "liveliness": "77",
         "status": "online",
-        "lastChecked": "2022-10-13T00:00:00Z",
+        "lastChecked": "2022-10-14T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
