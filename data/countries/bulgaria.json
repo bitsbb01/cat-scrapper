@@ -33,7 +33,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2ba0c62447e49eeff59d30512ba2cd4c.m3u8",
         "country": "bulgaria",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -75,7 +75,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2ba0c62447e49eeff59d30512ba2cd4c.m3u8",
         "country": "bulgaria",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -105,8 +105,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "4715",
         "URI": [
             "s"
         ]
@@ -144,8 +144,8 @@
         "channel": "Hbo 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/25b949c7ccfb0aca1109026da5c70973.m3u8",
         "country": "bulgaria",
-        "liveliness": "86",
-        "status": "online",
+        "liveliness": "85",
+        "status": "offline",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "sd",
         "mbps": "4715",
@@ -161,8 +161,8 @@
         "liveliness": "80",
         "status": "online",
         "lastChecked": "2022-10-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "4715",
         "URI": [
             "s"
         ]
@@ -256,11 +256,11 @@
         "channel": "CINEMAX 2",
         "link": "https://list.iptvcat.com/my_list/s/f34e1ac4b3ca79e338abb48722f37155.m3u8",
         "country": "bulgaria",
-        "liveliness": "85",
-        "status": "offline",
+        "liveliness": "87",
+        "status": "online",
         "lastChecked": "2022-10-15T00:00:00Z",
-        "format": "sd",
-        "mbps": "2711",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -271,7 +271,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0d063a56e40cfe74676f6a9eb0894133.m3u8",
         "country": "bulgaria",
         "liveliness": "82",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -285,7 +285,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2ce780cab7678c83db10d7d938ebc8c1.m3u8",
         "country": "bulgaria",
         "liveliness": "81",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -302,7 +302,7 @@
         "status": "online",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3625",
         "URI": [
             "s"
         ]
@@ -340,7 +340,21 @@
         "channel": "DISNEY JR",
         "link": "https://list.iptvcat.com/my_list/s/497d62de2108800ddff2dd6077701c53.m3u8",
         "country": "bulgaria",
-        "liveliness": "92",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-10-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2587179",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/a3b917ea370c763ee21a805b8be61fd2.m3u8",
+        "country": "bulgaria",
+        "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "sd",
@@ -364,26 +378,12 @@
         ]
     },
     {
-        "id": "2587179",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/a3b917ea370c763ee21a805b8be61fd2.m3u8",
-        "country": "bulgaria",
-        "liveliness": "78",
-        "status": "online",
-        "lastChecked": "2022-10-15T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2587180",
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/3fec28885653243c84699e6061de4147.m3u8",
         "country": "bulgaria",
         "liveliness": "83",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-15T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
