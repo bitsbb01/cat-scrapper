@@ -18,7 +18,7 @@
         "channel": "MBC (614p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/5e6920cf3038741db221c385c3cdc605.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "sd",
@@ -35,8 +35,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
+        "format": "sd",
+        "mbps": "663",
         "URI": [
             "s"
         ]
@@ -78,7 +78,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "4322",
         "URI": [
             "s"
         ]
@@ -92,7 +92,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2331",
+        "mbps": "2321",
         "URI": [
             "s"
         ]
@@ -162,7 +162,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "hd",
-        "mbps": "3066, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -218,7 +218,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1307",
         "URI": [
             "s"
         ]
@@ -245,8 +245,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
+        "format": "hd",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -411,10 +411,10 @@
         "link": "https://list.iptvcat.com/my_list/s/2fea59d77613809d59b828bac15717d6.m3u8",
         "country": "undefined",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5991, ...",
         "URI": [
             "s"
         ]
@@ -428,7 +428,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1054",
+        "mbps": "2088",
         "URI": [
             "s"
         ]
@@ -442,7 +442,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "1526",
         "URI": [
             "s"
         ]
@@ -456,7 +456,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "2226",
         "URI": [
             "s"
         ]
@@ -470,7 +470,7 @@
         "status": "online",
         "lastChecked": "2022-10-16T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "784",
         "URI": [
             "s"
         ]
@@ -574,6 +574,20 @@
         ]
     },
     {
+        "id": "1162333",
+        "channel": "Cinedigm : Lone Star",
+        "link": "https://list.iptvcat.com/my_list/s/ab687cfe091e96a47f6ce6b3c3b654b6.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "4040, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "997004",
         "channel": "HBO PREMIUM",
         "link": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
@@ -602,9 +616,9 @@
         ]
     },
     {
-        "id": "1381203",
+        "id": "1409026",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -616,9 +630,9 @@
         ]
     },
     {
-        "id": "1409026",
+        "id": "1381203",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
