@@ -36,7 +36,7 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "sd",
-        "mbps": "2478, ...",
+        "mbps": "1051, ...",
         "URI": [
             "s"
         ]
@@ -47,7 +47,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b6bdd1563b52206530c756b86eabb5fb.m3u8",
         "country": "undefined",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
@@ -92,7 +92,7 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "sd",
-        "mbps": "2217",
+        "mbps": "1883",
         "URI": [
             "s"
         ]
@@ -162,7 +162,7 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -218,7 +218,7 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1308",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -246,7 +246,7 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "hd",
-        "mbps": "3799, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -273,7 +273,7 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
-        "format": "fhd 2k",
+        "format": "hd",
         "mbps": "13324, ...",
         "URI": [
             "s"
@@ -413,8 +413,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1190",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -427,8 +427,22 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1073",
+        "format": "hd",
+        "mbps": "4821",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1381336",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/e23a95e4c3e0ea83410afb553e6252d5.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "4825",
         "URI": [
             "s"
         ]
@@ -442,35 +456,7 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1041",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1381336",
-        "channel": "TVS Drive In Movie (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/e23a95e4c3e0ea83410afb553e6252d5.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1234",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1381397",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "mbps": "3676",
         "URI": [
             "s"
         ]
@@ -484,7 +470,21 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "920",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1381397",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/29b815fa0595b365fb52fae30487e49f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "763",
         "URI": [
             "s"
         ]
@@ -498,7 +498,7 @@
         "status": "online",
         "lastChecked": "2022-10-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
+        "mbps": "2088",
         "URI": [
             "s"
         ]
