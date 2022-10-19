@@ -21,8 +21,8 @@
         "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-10-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -266,20 +266,6 @@
         ]
     },
     {
-        "id": "2497185",
-        "channel": "DISNEY CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/ce6fe9d17ab73b79c1616b0e4b4f1c34.m3u8",
-        "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-10-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2585561",
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/09af125ed25ccbb25f5f1b7be9ca3c03.m3u8",
@@ -289,6 +275,20 @@
         "lastChecked": "2022-10-19T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2497185",
+        "channel": "DISNEY CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/ce6fe9d17ab73b79c1616b0e4b4f1c34.m3u8",
+        "country": "united kingdom",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-10-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
         "URI": [
             "s"
         ]

@@ -22,7 +22,7 @@
         "status": "online",
         "lastChecked": "2022-10-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3066, ...",
         "URI": [
             "s"
         ]
@@ -91,8 +91,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-10-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
+        "format": "sd",
+        "mbps": "908, ...",
         "URI": [
             "s"
         ]
@@ -105,8 +105,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "3188",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "s"
         ]
@@ -266,6 +266,48 @@
         ]
     },
     {
+        "id": "2592474",
+        "channel": "HBO Signature (West)",
+        "link": "https://list.iptvcat.com/my_list/s/1f17668a76e3c4cf5caab356c97fef48.m3u8",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2592476",
+        "channel": "HBO Zone (East) US",
+        "link": "https://list.iptvcat.com/my_list/s/b0b68ca33ce0c5c216fc63c340f70603.m3u8",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2592478",
+        "channel": "HBO Zone (West)",
+        "link": "https://list.iptvcat.com/my_list/s/98e820deed828b6ffe0a64593912aed6.m3u8",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2592444",
         "channel": "Hallmark Channel (East) US",
         "link": "https://list.iptvcat.com/my_list/s/33f5b7551e0ba7b8a46906e217cf3b9c.m3u8",
@@ -357,8 +399,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-10-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
+        "format": "sd",
+        "mbps": "908, ...",
         "URI": [
             "s"
         ]
