@@ -4,7 +4,7 @@
         "channel": "SKY FOLK",
         "link": "https://list.iptvcat.com/my_list/s/f166b053b71c970873d052f7e02254c8.m3u8",
         "country": "north macedonia",
-        "liveliness": "64",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-10-20T00:00:00Z",
         "format": "hd",
@@ -18,11 +18,25 @@
         "channel": "Sky Folk HD",
         "link": "https://list.iptvcat.com/my_list/s/3e825425755c779edc98c6f483505248.m3u8",
         "country": "north macedonia",
-        "liveliness": "84",
-        "status": "online",
+        "liveliness": "83",
+        "status": "offline",
         "lastChecked": "2022-10-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2472284",
+        "channel": "Sky Folk TV (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/c6706451df382585372aaca52424c081.m3u8",
+        "country": "north macedonia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-10-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5005",
         "URI": [
             "s"
         ]
@@ -42,25 +56,11 @@
         ]
     },
     {
-        "id": "2472284",
-        "channel": "Sky Folk TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/c6706451df382585372aaca52424c081.m3u8",
-        "country": "north macedonia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-10-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2646382",
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/0ed132671690e9f97503387c35b70794.m3u8",
         "country": "north macedonia",
-        "liveliness": "58",
+        "liveliness": "54",
         "status": "offline",
         "lastChecked": "2022-10-20T00:00:00Z",
         "format": "hd",
@@ -88,7 +88,7 @@
         "channel": "HBO 1",
         "link": "https://list.iptvcat.com/my_list/s/3b9825bf4bd64f3334adf0db85e6a65d.m3u8",
         "country": "north macedonia",
-        "liveliness": "69",
+        "liveliness": "67",
         "status": "offline",
         "lastChecked": "2022-10-20T00:00:00Z",
         "format": "fhd 2k",
@@ -102,7 +102,7 @@
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/b4a218b615aad93e8947344d2d25edae.m3u8",
         "country": "north macedonia",
-        "liveliness": "59",
+        "liveliness": "56",
         "status": "offline",
         "lastChecked": "2022-10-20T00:00:00Z",
         "format": "sd",
@@ -130,7 +130,7 @@
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/fee4f0e6d7c802c48bc47f7f373e230c.m3u8",
         "country": "north macedonia",
-        "liveliness": "69",
+        "liveliness": "65",
         "status": "offline",
         "lastChecked": "2022-10-20T00:00:00Z",
         "format": "fhd 2k",
@@ -148,7 +148,7 @@
         "status": "online",
         "lastChecked": "2022-10-20T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -161,8 +161,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-10-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
