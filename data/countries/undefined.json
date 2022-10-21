@@ -18,7 +18,7 @@
         "channel": "MBC (614p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/5e6920cf3038741db221c385c3cdc605.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
@@ -130,7 +130,7 @@
         "channel": "Sky Sports Cricket",
         "link": "https://list.iptvcat.com/my_list/s/9a8452d0f8fe60e4214d668e372c2995.m3u8",
         "country": "undefined",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "fhd 2k",
@@ -154,6 +154,20 @@
         ]
     },
     {
+        "id": "2597350",
+        "channel": "Sky Sports Football",
+        "link": "https://list.iptvcat.com/my_list/s/3d30885aaa28bbe963be29f30a01b203.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1155413",
         "channel": "American Horrors Movies EN",
         "link": "https://list.iptvcat.com/my_list/s/63085ca4fb541fb8d5915b47daf6d9cd.m3u8",
@@ -162,7 +176,7 @@
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1883",
+        "mbps": "1120",
         "URI": [
             "s"
         ]
@@ -243,7 +257,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c339a0aa300192d4a208c6c159beb331.m3u8",
         "country": "undefined",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
         "mbps": "275",
@@ -273,8 +287,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "1247, ...",
+        "format": "hd",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -288,7 +302,7 @@
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "1308",
         "URI": [
             "s"
         ]
@@ -315,8 +329,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
+        "format": "sd",
+        "mbps": "3188, ...",
         "URI": [
             "s"
         ]
@@ -484,7 +498,7 @@
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
-        "mbps": "4302",
+        "mbps": "1051",
         "URI": [
             "s"
         ]
@@ -498,7 +512,7 @@
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "2088",
         "URI": [
             "s"
         ]
@@ -512,7 +526,7 @@
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
-        "mbps": "4469",
+        "mbps": "1242",
         "URI": [
             "s"
         ]
@@ -526,21 +540,7 @@
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1600",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409167",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "mbps": "1307",
         "URI": [
             "s"
         ]
@@ -554,7 +554,21 @@
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
+        "mbps": "1697",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "917",
         "URI": [
             "s"
         ]
@@ -593,7 +607,7 @@
         "link": "https://list.iptvcat.com/my_list/s/06b4996089e208fa877fb4a068551b57.m3u8",
         "country": "undefined",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
         "format": "sd",
         "mbps": "1783",
@@ -651,8 +665,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-10-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "4040, ...",
         "URI": [
             "s"
         ]
@@ -812,9 +826,9 @@
         ]
     },
     {
-        "id": "1381203",
+        "id": "1409026",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -826,9 +840,9 @@
         ]
     },
     {
-        "id": "1409026",
+        "id": "1381203",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
