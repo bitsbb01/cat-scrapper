@@ -28,20 +28,6 @@
         ]
     },
     {
-        "id": "2604615",
-        "channel": "FOX Movies",
-        "link": "https://list.iptvcat.com/my_list/s/1b79e824228d3e70b722651213ba599d.m3u8",
-        "country": "portugal",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2596021",
         "channel": "FOX Movies",
         "link": "https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8",
@@ -56,11 +42,25 @@
         ]
     },
     {
+        "id": "2604615",
+        "channel": "FOX Movies",
+        "link": "https://list.iptvcat.com/my_list/s/1b79e824228d3e70b722651213ba599d.m3u8",
+        "country": "portugal",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2022-11-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2604769",
         "channel": "Star Cinema",
         "link": "https://list.iptvcat.com/my_list/s/602f7890687645f888ae829c0f94da85.m3u8",
         "country": "portugal",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -88,7 +88,7 @@
         "channel": "Star Cinema",
         "link": "https://list.iptvcat.com/my_list/s/602f7890687645f888ae829c0f94da85.m3u8",
         "country": "portugal",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -131,7 +131,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4fbff7df29b293dc9f468ac17d6e45b7.m3u8",
         "country": "portugal",
         "liveliness": "26",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
@@ -159,7 +159,7 @@
         "link": "https://list.iptvcat.com/my_list/s/34804fa40ea36eeaef8f2f4c9ea76039.m3u8",
         "country": "portugal",
         "liveliness": "82",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
