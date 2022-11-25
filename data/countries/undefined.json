@@ -14,20 +14,6 @@
         ]
     },
     {
-        "id": "2650434",
-        "channel": "MBC 1 USA (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/b1b1928bdbca29937717cb2f78dff4b9.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2591536",
         "channel": "MBC 1 USA (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8",
@@ -37,6 +23,20 @@
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2650434",
+        "channel": "MBC 1 USA (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/b1b1928bdbca29937717cb2f78dff4b9.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "s"
         ]
@@ -103,7 +103,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b6bdd1563b52206530c756b86eabb5fb.m3u8",
         "country": "undefined",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
@@ -148,7 +148,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "9905",
         "URI": [
             "s"
         ]
@@ -161,8 +161,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -175,8 +175,8 @@
         "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -186,11 +186,11 @@
         "channel": "SP :Sky Sports Arena SD",
         "link": "https://list.iptvcat.com/my_list/s/35b7fe3dd4886d6a0cb605e0b2e17334.m3u8",
         "country": "undefined",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -218,7 +218,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "9905",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -243,7 +243,7 @@
         "link": "https://list.iptvcat.com/my_list/s/4151d74291c4930bda368d9fab0f0dfc.m3u8",
         "country": "undefined",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -411,7 +411,7 @@
         "link": "https://list.iptvcat.com/my_list/s/9e8426e5df4285fddf0fbba9e3fd5a06.m3u8",
         "country": "undefined",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
         "mbps": "136",
@@ -498,7 +498,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
-        "mbps": "2301",
+        "mbps": "1508",
         "URI": [
             "s"
         ]
@@ -536,7 +536,7 @@
         "channel": "Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/ab09e173af6887033894a3ad3e9d6f06.m3u8",
         "country": "undefined",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
@@ -652,7 +652,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "3064, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -662,7 +662,7 @@
         "channel": "Hits Movies",
         "link": "https://list.iptvcat.com/my_list/s/c339a0aa300192d4a208c6c159beb331.m3u8",
         "country": "undefined",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
@@ -693,8 +693,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "1248, ...",
+        "format": "hd",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -749,8 +749,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "3188, ...",
         "URI": [
             "s"
         ]
@@ -918,7 +918,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -932,7 +932,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -946,7 +946,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -960,7 +960,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -988,7 +988,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -1002,7 +1002,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1016,7 +1016,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -1044,7 +1044,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -1058,7 +1058,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -1100,7 +1100,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -1114,7 +1114,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1142,7 +1142,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1198,7 +1198,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -1212,21 +1212,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
-        "mbps": "1054",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409145",
-        "channel": "TVS Drive In Movie (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "1243",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -1246,15 +1232,15 @@
         ]
     },
     {
-        "id": "1409167",
-        "channel": "TVS Nostalgia Movies (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "id": "1409145",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -1269,6 +1255,20 @@
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
         "mbps": "1561",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "1409167",
+        "channel": "TVS Nostalgia Movies (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2088",
         "URI": [
             "s"
         ]
@@ -1526,9 +1526,9 @@
         ]
     },
     {
-        "id": "1381203",
+        "id": "1409026",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -1540,9 +1540,9 @@
         ]
     },
     {
-        "id": "1409026",
+        "id": "1381203",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -1610,11 +1610,11 @@
         ]
     },
     {
-        "id": "2580262",
+        "id": "2576675",
         "channel": "My Cinema Asia (1080p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/8442bb987ddb6923aa7fa009310df2b2.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/d32775d2a721678b2a9faae87dad11eb.m3u8",
         "country": "undefined",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "fhd 2k",
@@ -1624,11 +1624,11 @@
         ]
     },
     {
-        "id": "2576675",
+        "id": "2580262",
         "channel": "My Cinema Asia (1080p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/d32775d2a721678b2a9faae87dad11eb.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8442bb987ddb6923aa7fa009310df2b2.m3u8",
         "country": "undefined",
-        "liveliness": "95",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "fhd 2k",
@@ -1698,8 +1698,8 @@
         "channel": "Rotana Cinema KSA (1080p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/9183da6ac10998752c1d5a873390134d.m3u8",
         "country": "undefined",
-        "liveliness": "61",
-        "status": "online",
+        "liveliness": "59",
+        "status": "offline",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -1716,7 +1716,7 @@
         "status": "online",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
-        "mbps": "1328",
+        "mbps": "1328, ...",
         "URI": [
             "s"
         ]
@@ -1768,8 +1768,8 @@
         "channel": "Disney Junior Japan (540p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/6fa46fce2b24d5616a589ce95280baae.m3u8",
         "country": "undefined",
-        "liveliness": "83",
-        "status": "online",
+        "liveliness": "82",
+        "status": "offline",
         "lastChecked": "2022-11-25T00:00:00Z",
         "format": "sd",
         "mbps": "2218",
