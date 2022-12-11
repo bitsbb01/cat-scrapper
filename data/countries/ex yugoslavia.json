@@ -118,7 +118,7 @@
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-10T00:00:00Z",
+        "lastChecked": "2022-12-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-10T00:00:00Z",
+        "lastChecked": "2022-12-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -298,7 +298,7 @@
         "channel": "HBO max",
         "link": "https://list.iptvcat.com/my_list/s/c17ddc33b1e865290670bcb44b0d7184.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "79",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-12-11T00:00:00Z",
         "format": "sd",
@@ -434,9 +434,9 @@
         ]
     },
     {
-        "id": "2654753",
+        "id": "2611076",
         "channel": "BCU Cinema HD",
-        "link": "https://list.iptvcat.com/my_list/s/c34f09e2dff455b72d1e57dd045de065.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/630bb484748cdb675c2952ec28f514e5.m3u8",
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
@@ -448,9 +448,9 @@
         ]
     },
     {
-        "id": "2611076",
+        "id": "2654753",
         "channel": "BCU Cinema HD",
-        "link": "https://list.iptvcat.com/my_list/s/630bb484748cdb675c2952ec28f514e5.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/c34f09e2dff455b72d1e57dd045de065.m3u8",
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
@@ -566,7 +566,7 @@
         "country": "ex yugoslavia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-10T00:00:00Z",
+        "lastChecked": "2022-12-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -602,11 +602,11 @@
         ]
     },
     {
-        "id": "2656140",
+        "id": "2612554",
         "channel": "Disney",
-        "link": "https://list.iptvcat.com/my_list/s/a618caa34f8411e0b3a8c460ca38da10.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0ce5eea93ca8059f278784b6375ffa32.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-12-11T00:00:00Z",
         "format": "hd",
@@ -616,11 +616,11 @@
         ]
     },
     {
-        "id": "2612554",
+        "id": "2656140",
         "channel": "Disney",
-        "link": "https://list.iptvcat.com/my_list/s/0ce5eea93ca8059f278784b6375ffa32.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a618caa34f8411e0b3a8c460ca38da10.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-12-11T00:00:00Z",
         "format": "hd",
@@ -826,9 +826,23 @@
         ]
     },
     {
-        "id": "2655335",
-        "channel": "LIBERTY NETFLIX 4K",
-        "link": "https://list.iptvcat.com/my_list/s/be1bdff63076f1dc8d2ba408c3218faf.m3u8",
+        "id": "2612596",
+        "channel": "Disney orig",
+        "link": "https://list.iptvcat.com/my_list/s/d27221dd0083d5fae8b9ecbb7225497c.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-12-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2656177",
+        "channel": "Disney orig",
+        "link": "https://list.iptvcat.com/my_list/s/9e9aa32721f138926360dc08091890e6.m3u8",
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
@@ -843,6 +857,20 @@
         "id": "2611669",
         "channel": "LIBERTY NETFLIX 4K",
         "link": "https://list.iptvcat.com/my_list/s/dfa4ca0348bd8a95d8136c418231ab02.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-12-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2655335",
+        "channel": "LIBERTY NETFLIX 4K",
+        "link": "https://list.iptvcat.com/my_list/s/be1bdff63076f1dc8d2ba408c3218faf.m3u8",
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
