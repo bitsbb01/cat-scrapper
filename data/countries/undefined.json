@@ -14,20 +14,6 @@
         ]
     },
     {
-        "id": "2591536",
-        "channel": "MBC 1 USA (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8",
-        "country": "undefined",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2650434",
         "channel": "MBC 1 USA (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/b1b1928bdbca29937717cb2f78dff4b9.m3u8",
@@ -37,6 +23,20 @@
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2591536",
+        "channel": "MBC 1 USA (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8",
+        "country": "undefined",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-12-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "s"
         ]
@@ -62,7 +62,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "1783",
         "URI": [
@@ -90,9 +90,9 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3795, ...",
         "URI": [
             "s"
         ]
@@ -174,7 +174,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -216,7 +216,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -314,7 +314,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
         "URI": [
@@ -342,7 +342,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -357,8 +357,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "sd",
+        "mbps": "2214",
         "URI": [
             "s"
         ]
@@ -382,7 +382,7 @@
         "channel": "C+ AF: CANAL 2 MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/3abe26f6a91026dad13bcec2c2079a7e.m3u8",
         "country": "undefined",
-        "liveliness": "48",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
@@ -398,7 +398,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -412,7 +412,7 @@
         "country": "undefined",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -440,7 +440,7 @@
         "country": "undefined",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -468,7 +468,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -512,7 +512,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3066, ...",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -566,9 +566,9 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1307",
+        "mbps": "1357",
         "URI": [
             "s"
         ]
@@ -580,7 +580,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -706,7 +706,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -746,7 +746,7 @@
         "channel": "OSN MOVIES ACTION +2 HD",
         "link": "https://list.iptvcat.com/my_list/s/0ca7113f422b7b232e1eb48b3d759030.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
@@ -760,7 +760,7 @@
         "channel": "OSN MOVIES ACTION +4 HD",
         "link": "https://list.iptvcat.com/my_list/s/cd823febcb3bb5f29883027f110f8310.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
@@ -774,7 +774,7 @@
         "channel": "OSN MOVIES ACTION HD",
         "link": "https://list.iptvcat.com/my_list/s/a5e5ccfe6ecf5f5399de589bbc10ded5.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
@@ -788,7 +788,7 @@
         "channel": "OSN MOVIES FAMILY +2 HD",
         "link": "https://list.iptvcat.com/my_list/s/fdcfe10785b243045db3c7fe4f2d1b83.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -802,7 +802,7 @@
         "channel": "OSN MOVIES FAMILY HD",
         "link": "https://list.iptvcat.com/my_list/s/dcd708fe7dafbaa5046e6963c910f386.m3u8",
         "country": "undefined",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -816,7 +816,7 @@
         "channel": "OSN MOVIES HOLLYWOOD +2 HD",
         "link": "https://list.iptvcat.com/my_list/s/12814245c7053506457c615e4b35af07.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
@@ -830,7 +830,7 @@
         "channel": "OSN MOVIES PREMIERE +2 HD",
         "link": "https://list.iptvcat.com/my_list/s/b5b01c9fe18f3da55e7a16ca4d7ffea7.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -844,7 +844,7 @@
         "channel": "OSN MOVIES PREMIERE +4 HD",
         "link": "https://list.iptvcat.com/my_list/s/e7b747a1be8328584232897270f17a32.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -858,7 +858,7 @@
         "channel": "OSN MOVIES PREMIERE HD",
         "link": "https://list.iptvcat.com/my_list/s/9653c89c161c85d7a2ddd10206403198.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -874,23 +874,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "2637",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2607303",
-        "channel": "Rakuten Action Movies",
-        "link": "https://list.iptvcat.com/my_list/s/681685bb3071a6b81b230fda3347b969.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -910,6 +896,20 @@
         ]
     },
     {
+        "id": "2607303",
+        "channel": "Rakuten Action Movies",
+        "link": "https://list.iptvcat.com/my_list/s/681685bb3071a6b81b230fda3347b969.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-12-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2605074",
         "channel": "Rakuten Action Movies (720p)",
         "link": "https://list.iptvcat.com/my_list/s/bbbd542d38d925257fd91266a31558a9.m3u8",
@@ -918,7 +918,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -946,7 +946,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -974,7 +974,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -988,7 +988,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1002,7 +1002,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -1056,7 +1056,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -1072,7 +1072,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1098,9 +1098,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1124,7 +1124,7 @@
         "channel": "STAR MOVIES HD",
         "link": "https://list.iptvcat.com/my_list/s/946865c9ca48c7d9ee09ab1a294aea2c.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1140,7 +1140,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -1154,9 +1154,9 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3482, ...",
+        "mbps": "3064",
         "URI": [
             "s"
         ]
@@ -1170,21 +1170,7 @@
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
-        "mbps": "2088",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "1409145",
-        "channel": "TVS Drive In Movie (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "4821",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -1204,15 +1190,29 @@
         ]
     },
     {
+        "id": "1409145",
+        "channel": "TVS Drive In Movie (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a61258953bce67c4656109316b44cdb.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-12-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1409167",
         "channel": "TVS Nostalgia Movies (480p)",
         "link": "https://list.iptvcat.com/my_list/s/c560983f87b26deb08650991b41551eb.m3u8",
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
-        "mbps": "920",
+        "mbps": "2088",
         "URI": [
             "s"
         ]
@@ -1224,9 +1224,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
-        "mbps": "920",
+        "mbps": "2088",
         "URI": [
             "s"
         ]
@@ -1238,9 +1238,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "1546",
+        "lastChecked": "2022-12-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -1252,7 +1252,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "740",
         "URI": [
@@ -1266,7 +1266,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "1783",
         "URI": [
@@ -1294,7 +1294,7 @@
         "country": "undefined",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
         "mbps": "2578",
         "URI": [
@@ -1308,7 +1308,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -1348,7 +1348,7 @@
         "channel": "C+ AF: CSTAR",
         "link": "https://list.iptvcat.com/my_list/s/a9b08c4e818004ebdd72543627bad485.m3u8",
         "country": "undefined",
-        "liveliness": "67",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
@@ -1362,7 +1362,7 @@
         "channel": "C+ AF: ISANGO STAR TV",
         "link": "https://list.iptvcat.com/my_list/s/4ae3aeec3f3a80ee220f9155463be116.m3u8",
         "country": "undefined",
-        "liveliness": "67",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
@@ -1392,7 +1392,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "4040, ...",
         "URI": [
@@ -1404,7 +1404,7 @@
         "channel": "Daystar TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/fb9e39fc39a4dea3952f7d4cb893b896.m3u8",
         "country": "undefined",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1448,7 +1448,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "4040, ...",
         "URI": [
@@ -1488,7 +1488,7 @@
         "channel": "OSN STAR WORLD HD",
         "link": "https://list.iptvcat.com/my_list/s/28c02563ab5e1d429c65c6f38eaa4987.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1530,7 +1530,7 @@
         "channel": "STAR MOVIES HD",
         "link": "https://list.iptvcat.com/my_list/s/946865c9ca48c7d9ee09ab1a294aea2c.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1600,7 +1600,7 @@
         "channel": "ALFA CINEMA 1",
         "link": "https://list.iptvcat.com/my_list/s/12cd267bbe52328917d1dc302960c3d1.m3u8",
         "country": "undefined",
-        "liveliness": "79",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1614,7 +1614,7 @@
         "channel": "ALFA CINEMA 1 +2",
         "link": "https://list.iptvcat.com/my_list/s/21047ca88d68650e3af5d17ec29d35d8.m3u8",
         "country": "undefined",
-        "liveliness": "79",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1628,7 +1628,7 @@
         "channel": "ALFA CINEMA 2 +2",
         "link": "https://list.iptvcat.com/my_list/s/c96050d8857b08c473af6a17875ed08a.m3u8",
         "country": "undefined",
-        "liveliness": "72",
+        "liveliness": "68",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1642,7 +1642,7 @@
         "channel": "C+ AF: C+ CINEMA C",
         "link": "https://list.iptvcat.com/my_list/s/99b19cfc81a055912a8f905654faab92.m3u8",
         "country": "undefined",
-        "liveliness": "67",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1656,7 +1656,7 @@
         "channel": "C+ AF: C+ CINEMA O",
         "link": "https://list.iptvcat.com/my_list/s/12bcecebc61ac0555adbd9af285707cb.m3u8",
         "country": "undefined",
-        "liveliness": "67",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1722,9 +1722,9 @@
         ]
     },
     {
-        "id": "1381203",
+        "id": "1409026",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -1736,9 +1736,9 @@
         ]
     },
     {
-        "id": "1409026",
+        "id": "1381203",
         "channel": "Classic Cinema (240p)",
-        "link": "https://list.iptvcat.com/my_list/s/24041a48cc7c8374644370c21303d30b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/39a4fe8286237f876416a69bacd7dc3e.m3u8",
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
@@ -1754,7 +1754,7 @@
         "channel": "Fox: Cinema CAM 1",
         "link": "https://list.iptvcat.com/my_list/s/df558972b3f72e52e254d5d4d2183258.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1768,7 +1768,7 @@
         "channel": "Fox: Cinema CAM 2",
         "link": "https://list.iptvcat.com/my_list/s/ccdb77c748742642a4f6d3b1e4be7f65.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1782,7 +1782,7 @@
         "channel": "Fox: Cinema Comedy",
         "link": "https://list.iptvcat.com/my_list/s/9550ed91083f41f405bf7d09a5f7f6fd.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1796,7 +1796,7 @@
         "channel": "Fox: Shahid Cinema",
         "link": "https://list.iptvcat.com/my_list/s/33ef27eed2ac72e8187a519fce493421.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1840,7 +1840,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1936,7 +1936,7 @@
         "channel": "C+ AF: DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/4105208b59ea782b51636c6e5d5ceee0.m3u8",
         "country": "undefined",
-        "liveliness": "41",
+        "liveliness": "39",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
@@ -1950,7 +1950,7 @@
         "channel": "C+ AF: DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/6099c93158b5db410bf4ac3993f44190.m3u8",
         "country": "undefined",
-        "liveliness": "41",
+        "liveliness": "38",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
@@ -1964,7 +1964,7 @@
         "channel": "DISNEY CHANNEL +1 HD",
         "link": "https://list.iptvcat.com/my_list/s/c879d0fd1f7aeafdf48c7b56a8a46754.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -1978,7 +1978,7 @@
         "channel": "DISNEY CHANNEL +2 HD",
         "link": "https://list.iptvcat.com/my_list/s/53b36cdda9edf675e38533ac7b1ebd53.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2050,7 +2050,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-16T00:00:00Z",
+        "lastChecked": "2022-12-17T00:00:00Z",
         "format": "sd",
         "mbps": "1328",
         "URI": [
@@ -2062,7 +2062,7 @@
         "channel": "OSN DISNEY CHANNEL HD (EN)",
         "link": "https://list.iptvcat.com/my_list/s/d9cbabd600d89d1288a8f1aaab58268e.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2076,7 +2076,7 @@
         "channel": "OSN DISNEY JR HD",
         "link": "https://list.iptvcat.com/my_list/s/27f739c84b6f3d133e5c99fc737499c4.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "77",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2118,7 +2118,7 @@
         "channel": "Fox: Netflix 1",
         "link": "https://list.iptvcat.com/my_list/s/9b30eb7587626ebd2bbbdab5cf2a28cd.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2132,7 +2132,7 @@
         "channel": "Fox: Netflix 10",
         "link": "https://list.iptvcat.com/my_list/s/9187fc24c7181384a361dd66557964d2.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2146,7 +2146,7 @@
         "channel": "Fox: Netflix 2",
         "link": "https://list.iptvcat.com/my_list/s/1ab416fa0b3461a0b4d08db205b05f86.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2160,7 +2160,7 @@
         "channel": "Fox: Netflix 3",
         "link": "https://list.iptvcat.com/my_list/s/2fc1cd2be32abbc46bc1680e6533dfc5.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2174,7 +2174,7 @@
         "channel": "Fox: Netflix 4",
         "link": "https://list.iptvcat.com/my_list/s/a692f342b06b2c6dc211feb7bfd777e8.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2188,7 +2188,7 @@
         "channel": "Fox: Netflix 5",
         "link": "https://list.iptvcat.com/my_list/s/2c58956c6c8b56b7a2d48a89fd32e709.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2202,7 +2202,7 @@
         "channel": "Fox: Netflix 6",
         "link": "https://list.iptvcat.com/my_list/s/cf4906dbc2a9569796e6e8e55735186c.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2216,7 +2216,7 @@
         "channel": "Fox: Netflix 7",
         "link": "https://list.iptvcat.com/my_list/s/51ce4a3128df5a1fd88eb35c39ba5657.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2230,7 +2230,7 @@
         "channel": "Fox: Netflix 8",
         "link": "https://list.iptvcat.com/my_list/s/1daee2f091bc6418352814e4aeba0768.m3u8",
         "country": "undefined",
-        "liveliness": "82",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2244,7 +2244,7 @@
         "channel": "Fox: Netflix 9",
         "link": "https://list.iptvcat.com/my_list/s/e8b0a0ce0b95f7a70c9644f448885041.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2258,7 +2258,7 @@
         "channel": "Fox: Netflix Action 1",
         "link": "https://list.iptvcat.com/my_list/s/bd7417aa8ea6c75ce90499ba373c51d8.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2272,7 +2272,7 @@
         "channel": "Fox: Netflix Action 2",
         "link": "https://list.iptvcat.com/my_list/s/03a2ea99c8373b8bd5992e6ee4c870bf.m3u8",
         "country": "undefined",
-        "liveliness": "76",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2286,7 +2286,7 @@
         "channel": "Fox: Netflix Cartoon 1",
         "link": "https://list.iptvcat.com/my_list/s/58a2200d1dcd1eb864661d11223327aa.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2300,7 +2300,7 @@
         "channel": "Fox: Netflix Cartoon 2",
         "link": "https://list.iptvcat.com/my_list/s/5b6684ab6a8d38ace8bcaaf64e093837.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2314,7 +2314,7 @@
         "channel": "Fox: Netflix Horror 1",
         "link": "https://list.iptvcat.com/my_list/s/6d3edde5c17c491ac269d399330bf90b.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2328,7 +2328,7 @@
         "channel": "Fox: Netflix Horror 2",
         "link": "https://list.iptvcat.com/my_list/s/dd55fb01362f2e7cfefe4ca778e2e9b4.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2342,7 +2342,7 @@
         "channel": "Fox: Netflix Romance 1",
         "link": "https://list.iptvcat.com/my_list/s/dc5bdd2e1123c44c0ec048361f03e233.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2356,7 +2356,7 @@
         "channel": "Fox: Netflix Romance 2",
         "link": "https://list.iptvcat.com/my_list/s/d3bb160e7a9f5a6d0f7921b33fe40d08.m3u8",
         "country": "undefined",
-        "liveliness": "84",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
@@ -2370,7 +2370,7 @@
         "channel": "Fox: Netflix Sci-Fi",
         "link": "https://list.iptvcat.com/my_list/s/c6d7d78196bacd5695dd0c6240592717.m3u8",
         "country": "undefined",
-        "liveliness": "79",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2022-12-17T00:00:00Z",
         "format": "hd",
