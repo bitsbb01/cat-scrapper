@@ -4,9 +4,9 @@
         "channel": "SKY PRIMAFILA 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/662726f4c9f0794a30820605149b1a9f.m3u8",
         "country": "italy",
-        "liveliness": "81",
-        "status": "online",
-        "lastChecked": "2022-12-30T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2022-12-31T00:00:00Z",
         "format": "sd",
         "mbps": "1140",
         "URI": [
@@ -32,7 +32,7 @@
         "channel": "SKY TG 24",
         "link": "https://list.iptvcat.com/my_list/s/cc1fd03aaa8778064dac2d171fdf01c6.m3u8",
         "country": "italy",
-        "liveliness": "80",
+        "liveliness": "57",
         "status": "offline",
         "lastChecked": "2022-12-31T00:00:00Z",
         "format": "sd",
@@ -76,7 +76,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-30T00:00:00Z",
+        "lastChecked": "2022-12-31T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -133,8 +133,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-12-31T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -174,7 +174,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-30T00:00:00Z",
+        "lastChecked": "2022-12-31T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -185,20 +185,6 @@
         "id": "2593391",
         "channel": "Sky Sport Serie A IT",
         "link": "https://list.iptvcat.com/my_list/s/e5df44788fb28a5a1595adea7f6c3b0b.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-12-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2593393",
-        "channel": "Sky Sport Uno",
-        "link": "https://list.iptvcat.com/my_list/s/2adf99c5ed6432902007e588e23dc937.m3u8",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
@@ -219,6 +205,20 @@
         "lastChecked": "2022-12-31T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2593393",
+        "channel": "Sky Sport Uno",
+        "link": "https://list.iptvcat.com/my_list/s/2adf99c5ed6432902007e588e23dc937.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-12-31T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -256,7 +256,7 @@
         "channel": "DISNEY JR",
         "link": "https://list.iptvcat.com/my_list/s/0a382553552b7b76ddb7e1d7d7f65678.m3u8",
         "country": "italy",
-        "liveliness": "43",
+        "liveliness": "33",
         "status": "offline",
         "lastChecked": "2022-12-31T00:00:00Z",
         "format": "hd",
