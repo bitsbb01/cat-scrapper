@@ -6,7 +6,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -20,9 +20,9 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-01-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -34,9 +34,9 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2023-01-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -48,7 +48,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -76,9 +76,9 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -104,9 +104,9 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-01-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -132,7 +132,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -144,7 +144,7 @@
         "channel": "CINEMA EST",
         "link": "https://list.iptvcat.com/my_list/s/204ce8e165ebf08dfd6ed6bc242713a4.m3u8",
         "country": "romania",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-01-10T00:00:00Z",
         "format": "sd",
@@ -160,7 +160,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -202,9 +202,9 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-01-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -216,7 +216,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -230,7 +230,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -258,23 +258,9 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2671891",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/cdc51cec8bbf9906b262e37789107eaa.m3u8",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -294,13 +280,27 @@
         ]
     },
     {
+        "id": "2671891",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/cdc51cec8bbf9906b262e37789107eaa.m3u8",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2596434",
         "channel": "Disney Jr",
         "link": "https://list.iptvcat.com/my_list/s/6c5d56baac37eee7a861271785d9cb6a.m3u8",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -314,7 +314,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-10T00:00:00Z",
+        "lastChecked": "2023-01-11T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
