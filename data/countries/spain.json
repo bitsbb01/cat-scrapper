@@ -18,9 +18,9 @@
         "channel": "Netflix Movies 2",
         "link": "https://list.iptvcat.com/my_list/s/64499390cd2f177c833a52337ad89fcb.m3u8",
         "country": "spain",
-        "liveliness": "34",
-        "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -48,9 +48,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -62,9 +62,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -104,9 +104,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -118,7 +118,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -160,7 +160,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -216,7 +216,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -230,7 +230,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -244,7 +244,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -266,20 +266,6 @@
         ]
     },
     {
-        "id": "2674169",
-        "channel": "MOVISTAR LIGA DE CAMPEONES",
-        "link": "https://list.iptvcat.com/my_list/s/a383c57ff5eb89ff4939b868718f1cfc.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2483793",
         "channel": "MOVISTAR LIGA DE CAMPEONES",
         "link": "https://list.iptvcat.com/my_list/s/bb864194012d28eaa694706bf9d1883a.m3u8",
@@ -294,15 +280,29 @@
         ]
     },
     {
+        "id": "2674169",
+        "channel": "MOVISTAR LIGA DE CAMPEONES",
+        "link": "https://list.iptvcat.com/my_list/s/a383c57ff5eb89ff4939b868718f1cfc.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2674171",
         "channel": "MOVISTAR LIGA DE CAMPEONES 2",
         "link": "https://list.iptvcat.com/my_list/s/1d0c80125df5d9d86da1fe6ff1712241.m3u8",
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -314,7 +314,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -328,7 +328,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -342,9 +342,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -356,7 +356,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -370,9 +370,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -384,7 +384,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -398,9 +398,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -412,9 +412,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -440,7 +440,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -482,7 +482,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -496,7 +496,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -538,7 +538,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -552,7 +552,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -580,7 +580,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -594,7 +594,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -636,7 +636,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -650,7 +650,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -662,11 +662,11 @@
         "channel": "Star TVE",
         "link": "https://list.iptvcat.com/my_list/s/fdb8eb31bba3b50cecf35b97554a0629.m3u8",
         "country": "spain",
-        "liveliness": "67",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "1783",
         "URI": [
             "s"
         ]
@@ -678,7 +678,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -690,11 +690,11 @@
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/f2f167236dfd5433dbf85c86ce336ab6.m3u8",
         "country": "spain",
-        "liveliness": "70",
-        "status": "offline",
+        "liveliness": "71",
+        "status": "online",
         "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -704,11 +704,11 @@
         "channel": "DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/2606ff0b2d004cccc0d99d3b1b742866.m3u8",
         "country": "spain",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -718,9 +718,9 @@
         "channel": "DISNEY XD",
         "link": "https://list.iptvcat.com/my_list/s/c771afd3d95b4c30e8f9c27f89b1f14e.m3u8",
         "country": "spain",
-        "liveliness": "35",
-        "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -734,7 +734,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -748,9 +748,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -762,9 +762,9 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "lastChecked": "2023-01-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -774,9 +774,9 @@
         "channel": "Netflix Action",
         "link": "https://list.iptvcat.com/my_list/s/504a801caaaf4d1e2171cc736605c9b9.m3u8",
         "country": "spain",
-        "liveliness": "70",
-        "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -788,9 +788,9 @@
         "channel": "Netflix Action 2",
         "link": "https://list.iptvcat.com/my_list/s/1f816c9572ce68ecc12898115deb005a.m3u8",
         "country": "spain",
-        "liveliness": "75",
+        "liveliness": "76",
         "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -802,9 +802,9 @@
         "channel": "Netflix Box Office",
         "link": "https://list.iptvcat.com/my_list/s/c8e14ea19d518607048bc8ad04215c76.m3u8",
         "country": "spain",
-        "liveliness": "52",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -830,9 +830,9 @@
         "channel": "Netflix Comedy 2",
         "link": "https://list.iptvcat.com/my_list/s/6d1586e6f72dc919a4b1799efc59142d.m3u8",
         "country": "spain",
-        "liveliness": "37",
-        "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -844,9 +844,9 @@
         "channel": "Netflix Discovery",
         "link": "https://list.iptvcat.com/my_list/s/399b06f5d8d9490ec47d1471791d2a16.m3u8",
         "country": "spain",
-        "liveliness": "48",
+        "liveliness": "46",
         "status": "offline",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -872,9 +872,9 @@
         "channel": "Netflix Movies 2",
         "link": "https://list.iptvcat.com/my_list/s/64499390cd2f177c833a52337ad89fcb.m3u8",
         "country": "spain",
-        "liveliness": "34",
-        "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -886,9 +886,9 @@
         "channel": "Netflix Thriller 2",
         "link": "https://list.iptvcat.com/my_list/s/7d268aca5d764a78d3212bbcf7034129.m3u8",
         "country": "spain",
-        "liveliness": "51",
-        "status": "online",
-        "lastChecked": "2023-01-15T00:00:00Z",
+        "liveliness": "49",
+        "status": "offline",
+        "lastChecked": "2023-01-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
