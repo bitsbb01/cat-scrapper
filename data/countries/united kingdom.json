@@ -91,8 +91,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2023-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -105,20 +105,6 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596175",
-        "channel": "Sky Cinema Animation",
-        "link": "https://list.iptvcat.com/my_list/s/c4c0f9fd4722babaea5d748f6067740f.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -140,9 +126,37 @@
         ]
     },
     {
+        "id": "2596175",
+        "channel": "Sky Cinema Animation",
+        "link": "https://list.iptvcat.com/my_list/s/c4c0f9fd4722babaea5d748f6067740f.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2596176",
         "channel": "Sky Cinema Comedy",
         "link": "https://list.iptvcat.com/my_list/s/7bd5fa15099267280f9d0e5378e1aca2.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596177",
+        "channel": "Sky Cinema Drama",
+        "link": "https://list.iptvcat.com/my_list/s/648087fadd70fe974c754eb824976a63.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
@@ -163,20 +177,6 @@
         "lastChecked": "2023-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596177",
-        "channel": "Sky Cinema Drama",
-        "link": "https://list.iptvcat.com/my_list/s/648087fadd70fe974c754eb824976a63.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -266,20 +266,6 @@
         ]
     },
     {
-        "id": "2672833",
-        "channel": "Sky Cinema Premiere",
-        "link": "https://list.iptvcat.com/my_list/s/68ce4c70fc088ffde9c581f11d95572d.m3u8",
-        "country": "united kingdom",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2023-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2596181",
         "channel": "Sky Cinema Premiere",
         "link": "https://list.iptvcat.com/my_list/s/91e551a0c6a635c5fec103c27497fe7a.m3u8",
@@ -294,23 +280,23 @@
         ]
     },
     {
-        "id": "2596182",
-        "channel": "Sky Cinema Sci-fi Horror",
-        "link": "https://list.iptvcat.com/my_list/s/d07203390b9469c099e64138e25f076d.m3u8",
+        "id": "2672833",
+        "channel": "Sky Cinema Premiere",
+        "link": "https://list.iptvcat.com/my_list/s/68ce4c70fc088ffde9c581f11d95572d.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "2596183",
-        "channel": "Sky Cinema Select",
-        "link": "https://list.iptvcat.com/my_list/s/fb6f92a797b0127b69d2a31ef008b664.m3u8",
+        "id": "2596182",
+        "channel": "Sky Cinema Sci-fi Horror",
+        "link": "https://list.iptvcat.com/my_list/s/d07203390b9469c099e64138e25f076d.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
@@ -336,13 +322,27 @@
         ]
     },
     {
+        "id": "2596183",
+        "channel": "Sky Cinema Select",
+        "link": "https://list.iptvcat.com/my_list/s/fb6f92a797b0127b69d2a31ef008b664.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2596184",
         "channel": "Sky Cinema Thriller",
         "link": "https://list.iptvcat.com/my_list/s/d3b49a75611bf5096184ad6fff657ecd.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-24T00:00:00Z",
+        "lastChecked": "2023-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -357,8 +357,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2023-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "11103",
         "URI": [
             "s"
         ]
@@ -382,11 +382,11 @@
         "channel": "VIP SKY CINEMA COMEDY",
         "link": "https://list.iptvcat.com/my_list/s/c4ba926d79ec021198329128ca275725.m3u8",
         "country": "united kingdom",
-        "liveliness": "40",
-        "status": "offline",
+        "liveliness": "41",
+        "status": "online",
         "lastChecked": "2023-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -448,20 +448,6 @@
         ]
     },
     {
-        "id": "2672560",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/fd837846b2a6557ac3a06bedb8e43ca9.m3u8",
-        "country": "united kingdom",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2023-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2497189",
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/dc691867af329b4e9fb2ff945694ee28.m3u8",
@@ -471,6 +457,20 @@
         "lastChecked": "2023-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2672560",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/fd837846b2a6557ac3a06bedb8e43ca9.m3u8",
+        "country": "united kingdom",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2023-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
