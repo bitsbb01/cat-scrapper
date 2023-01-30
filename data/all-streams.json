@@ -413,8 +413,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "s"
         ]
@@ -536,9 +536,9 @@
         "channel": "MBC Persia",
         "link": "https://list.iptvcat.com/my_list/s/891d1b782aa954667f462850ceca302b.m3u8",
         "country": "iran",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -622,7 +622,7 @@
         "country": "south korea",
         "liveliness": "71",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
         "URI": [
@@ -734,20 +734,6 @@
         ]
     },
     {
-        "id": "2650434",
-        "channel": "MBC 1 USA (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/b1b1928bdbca29937717cb2f78dff4b9.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2591536",
         "channel": "MBC 1 USA (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8",
@@ -757,6 +743,20 @@
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2650434",
+        "channel": "MBC 1 USA (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/b1b1928bdbca29937717cb2f78dff4b9.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "s"
         ]
@@ -796,7 +796,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -937,8 +937,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
+        "format": "sd",
+        "mbps": "2478, ...",
         "URI": [
             "s"
         ]
@@ -964,7 +964,7 @@
         "country": "undefined",
         "liveliness": "72",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
         "URI": [
@@ -1172,8 +1172,8 @@
         "channel": "Sky Flix Aflam 2",
         "link": "https://list.iptvcat.com/my_list/s/16689b66244a5bfcecfb2892d9725814.m3u8",
         "country": "argentina",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1230,23 +1230,9 @@
         "country": "argentina",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2675651",
-        "channel": "Sky News Arabia",
-        "link": "https://list.iptvcat.com/my_list/s/daff83f65119e89fbe7127287f425140.m3u8",
-        "country": "argentina",
-        "liveliness": "100",
-        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -1261,6 +1247,20 @@
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2675651",
+        "channel": "Sky News Arabia",
+        "link": "https://list.iptvcat.com/my_list/s/daff83f65119e89fbe7127287f425140.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "s"
         ]
@@ -1284,7 +1284,7 @@
         "channel": "SKY CINEMA 1+",
         "link": "https://list.iptvcat.com/my_list/s/30a7b7cad2d32f69f9debc38bcf45e48.m3u8",
         "country": "germany",
-        "liveliness": "33",
+        "liveliness": "34",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -1301,8 +1301,8 @@
         "liveliness": "83",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -1314,20 +1314,6 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2672397",
-        "channel": "Sky Arts",
-        "link": "https://list.iptvcat.com/my_list/s/dbd54a3e5755aeb2071276738e2fdb01.m3u8",
-        "country": "germany",
-        "liveliness": "65",
-        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -1342,7 +1328,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1357,8 +1343,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -1372,7 +1358,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -1434,20 +1420,6 @@
         ]
     },
     {
-        "id": "2591962",
-        "channel": "Sky Cinema Best Of",
-        "link": "https://list.iptvcat.com/my_list/s/cf6330b974fcf24fe648b4a61eeff84e.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2672411",
         "channel": "Sky Cinema Best Of",
         "link": "https://list.iptvcat.com/my_list/s/92d40412b3957856cac0f2c9218ad135.m3u8",
@@ -1462,15 +1434,15 @@
         ]
     },
     {
-        "id": "2672412",
-        "channel": "Sky Cinema Classics",
-        "link": "https://list.iptvcat.com/my_list/s/82ab503f9d032dbc8f57fb6a9dba952f.m3u8",
+        "id": "2591962",
+        "channel": "Sky Cinema Best Of",
+        "link": "https://list.iptvcat.com/my_list/s/cf6330b974fcf24fe648b4a61eeff84e.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -1490,11 +1462,25 @@
         ]
     },
     {
+        "id": "2672412",
+        "channel": "Sky Cinema Classics",
+        "link": "https://list.iptvcat.com/my_list/s/82ab503f9d032dbc8f57fb6a9dba952f.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2672415",
         "channel": "Sky Cinema Comedy",
         "link": "https://list.iptvcat.com/my_list/s/f06faa3254fec95b0289cca350cb93c5.m3u8",
         "country": "germany",
-        "liveliness": "85",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -1522,8 +1508,8 @@
         "channel": "Sky Cinema Family",
         "link": "https://list.iptvcat.com/my_list/s/a37f49b6991a9c224461b6fb768d854b.m3u8",
         "country": "germany",
-        "liveliness": "93",
-        "status": "online",
+        "liveliness": "91",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -1552,7 +1538,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1568,7 +1554,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -1595,8 +1581,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -1630,11 +1616,11 @@
         ]
     },
     {
-        "id": "2672443",
+        "id": "2591976",
         "channel": "Sky Cinema Premieren +24",
-        "link": "https://list.iptvcat.com/my_list/s/87d9c9f34965cfc4c3495105e59866f6.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4e6621f1d0fa0fa37f1f6e6ec9d39604.m3u8",
         "country": "germany",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -1644,11 +1630,11 @@
         ]
     },
     {
-        "id": "2591976",
+        "id": "2672443",
         "channel": "Sky Cinema Premieren +24",
-        "link": "https://list.iptvcat.com/my_list/s/4e6621f1d0fa0fa37f1f6e6ec9d39604.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87d9c9f34965cfc4c3495105e59866f6.m3u8",
         "country": "germany",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -1665,8 +1651,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -1686,6 +1672,20 @@
         ]
     },
     {
+        "id": "2672450",
+        "channel": "Sky Cinema Thriller",
+        "link": "https://list.iptvcat.com/my_list/s/934cbb20ab90ddecfe0d8d42a3fb58dc.m3u8",
+        "country": "germany",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2591980",
         "channel": "Sky Cinema Thriller",
         "link": "https://list.iptvcat.com/my_list/s/30e3913631cdf41c556741177a1390e8.m3u8",
@@ -1700,29 +1700,15 @@
         ]
     },
     {
-        "id": "2672450",
-        "channel": "Sky Cinema Thriller",
-        "link": "https://list.iptvcat.com/my_list/s/934cbb20ab90ddecfe0d8d42a3fb58dc.m3u8",
-        "country": "germany",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2672455",
         "channel": "Sky Comedy",
         "link": "https://list.iptvcat.com/my_list/s/cdeff8d381960ce6408f50552e0faf3a.m3u8",
         "country": "germany",
-        "liveliness": "85",
-        "status": "offline",
+        "liveliness": "83",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -1732,25 +1718,11 @@
         "channel": "Sky Crime",
         "link": "https://list.iptvcat.com/my_list/s/4a56dec67ae488e0a20a74901848761b.m3u8",
         "country": "germany",
-        "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2672459",
-        "channel": "Sky Krimi",
-        "link": "https://list.iptvcat.com/my_list/s/c1cc69dc4fc6afb3a19061976ee343bc.m3u8",
-        "country": "germany",
-        "liveliness": "93",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -1770,13 +1742,27 @@
         ]
     },
     {
+        "id": "2672459",
+        "channel": "Sky Krimi",
+        "link": "https://list.iptvcat.com/my_list/s/c1cc69dc4fc6afb3a19061976ee343bc.m3u8",
+        "country": "germany",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2672464",
         "channel": "Sky Nature",
         "link": "https://list.iptvcat.com/my_list/s/6c1a5aa2232eb796efa595b9d0097009.m3u8",
         "country": "germany",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1792,7 +1778,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "6997",
+        "mbps": "11103",
         "URI": [
             "s"
         ]
@@ -1817,10 +1803,10 @@
         "link": "https://list.iptvcat.com/my_list/s/77008c6b889645e5ea64507e6266b3fe.m3u8",
         "country": "germany",
         "liveliness": "81",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "6559",
+        "mbps": "5224",
         "URI": [
             "s"
         ]
@@ -1860,7 +1846,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1873,10 +1859,10 @@
         "link": "https://list.iptvcat.com/my_list/s/9aee368f7c53a1826458809f23a6a690.m3u8",
         "country": "germany",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "5224",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -1924,12 +1910,12 @@
         ]
     },
     {
-        "id": "2672491",
+        "id": "2591987",
         "channel": "Sky Sport 1",
-        "link": "https://list.iptvcat.com/my_list/s/07d0c8f26458b59f40b3446e318c4a53.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/c6d4adf3eb461d067b5bea989cc521c4.m3u8",
         "country": "germany",
-        "liveliness": "85",
-        "status": "offline",
+        "liveliness": "99",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -1938,13 +1924,13 @@
         ]
     },
     {
-        "id": "2591987",
+        "id": "2672491",
         "channel": "Sky Sport 1",
-        "link": "https://list.iptvcat.com/my_list/s/c6d4adf3eb461d067b5bea989cc521c4.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/07d0c8f26458b59f40b3446e318c4a53.m3u8",
         "country": "germany",
-        "liveliness": "99",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1958,7 +1944,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1984,9 +1970,9 @@
         "channel": "Sky Sport 4",
         "link": "https://list.iptvcat.com/my_list/s/d41d308bc165612a44fd5e46d6a03e6b.m3u8",
         "country": "germany",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2001,8 +1987,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -2015,8 +2001,8 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -2040,8 +2026,8 @@
         "channel": "Sky Sport 8",
         "link": "https://list.iptvcat.com/my_list/s/d777e7927d569db03317624a5eabbb86.m3u8",
         "country": "germany",
-        "liveliness": "93",
-        "status": "online",
+        "liveliness": "91",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
@@ -2056,9 +2042,9 @@
         "country": "germany",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -2070,7 +2056,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2111,7 +2097,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fd70871056fef3cf4d728eaafc3932e8.m3u8",
         "country": "germany",
         "liveliness": "85",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -2124,8 +2110,8 @@
         "channel": "Sky Sport Bundesliga 3",
         "link": "https://list.iptvcat.com/my_list/s/95ac55711248d7e1960016a0b3bb2036.m3u8",
         "country": "germany",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "85",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -2141,8 +2127,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "4k uhd",
-        "mbps": "88056",
+        "format": "sd",
+        "mbps": "11103",
         "URI": [
             "s"
         ]
@@ -2167,7 +2153,21 @@
         "link": "https://list.iptvcat.com/my_list/s/6bbcffe42ab870b8252f34cb5d3bdccb.m3u8",
         "country": "germany",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2591996",
+        "channel": "Sky Sport News",
+        "link": "https://list.iptvcat.com/my_list/s/e7334607576765479d066c5ed65b75f2.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -2181,24 +2181,10 @@
         "link": "https://list.iptvcat.com/my_list/s/6e7d6a4104ad97cfdeb3a0e6f7ce6224.m3u8",
         "country": "germany",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2591996",
-        "channel": "Sky Sport News",
-        "link": "https://list.iptvcat.com/my_list/s/e7334607576765479d066c5ed65b75f2.m3u8",
-        "country": "germany",
-        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -2208,11 +2194,11 @@
         "channel": "Sky Sport Tennis",
         "link": "https://list.iptvcat.com/my_list/s/0e5e747f84c8f022fcfed284b9d09451.m3u8",
         "country": "germany",
-        "liveliness": "49",
+        "liveliness": "50",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -2236,7 +2222,7 @@
         "channel": "SKY PRIMAFILA 6",
         "link": "https://list.iptvcat.com/my_list/s/5176bef20ecd13d1c995af6af2c5038d.m3u8",
         "country": "italy",
-        "liveliness": "29",
+        "liveliness": "28",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
@@ -2322,7 +2308,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2378,7 +2364,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2392,7 +2378,7 @@
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -2406,7 +2392,7 @@
         "country": "north macedonia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2449,8 +2435,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "s"
         ]
@@ -2476,7 +2462,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2490,7 +2476,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2532,7 +2518,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2545,6 +2531,20 @@
         "link": "https://list.iptvcat.com/my_list/s/981fe032e20dd904b76f10e973e18b9d.m3u8",
         "country": "undefined",
         "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2597353",
+        "channel": "Sky Sports Mix",
+        "link": "https://list.iptvcat.com/my_list/s/82a19be0270f1ea2a39a6e739cbb1b91.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -2630,7 +2630,7 @@
         "country": "argentina",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2670,8 +2670,8 @@
         "channel": "BTV MOVIES 7",
         "link": "https://list.iptvcat.com/my_list/s/7750191c4d47f1e60b8e00e663d555e1.m3u8",
         "country": "france",
-        "liveliness": "56",
-        "status": "offline",
+        "liveliness": "57",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "3059",
@@ -2726,8 +2726,8 @@
         "channel": "B4U Movies",
         "link": "https://list.iptvcat.com/my_list/s/e282a1b896f681dac79a00cef27377ce.m3u8",
         "country": "india",
-        "liveliness": "90",
-        "status": "online",
+        "liveliness": "87",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -2743,8 +2743,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -2756,9 +2756,9 @@
         "country": "india",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "1967",
+        "mbps": "960",
         "URI": [
             "s"
         ]
@@ -2768,11 +2768,11 @@
         "channel": "STAR Movies",
         "link": "https://list.iptvcat.com/my_list/s/4754652eb42a10a6ab4f34d889750ec1.m3u8",
         "country": "india",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1706",
+        "format": "fhd 2k",
+        "mbps": "8370",
         "URI": [
             "s"
         ]
@@ -2782,7 +2782,7 @@
         "channel": "SURYA Movies",
         "link": "https://list.iptvcat.com/my_list/s/db4f4dc2d25701808e728def1865fdc7.m3u8",
         "country": "india",
-        "liveliness": "60",
+        "liveliness": "61",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
@@ -2800,7 +2800,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -2810,7 +2810,7 @@
         "channel": "My Movie",
         "link": "https://list.iptvcat.com/my_list/s/bd78fb75c19839e9d5cd30884d360505.m3u8",
         "country": "iran",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -2842,7 +2842,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "1494",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -2852,11 +2852,11 @@
         "channel": "AXN Movies",
         "link": "https://list.iptvcat.com/my_list/s/c8e54260b02ad7d853d51646e23af577.m3u8",
         "country": "portugal",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "s"
         ]
@@ -2866,8 +2866,8 @@
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/fc77a1c6455614c532c35ee1001082b9.m3u8",
         "country": "portugal",
-        "liveliness": "81",
-        "status": "online",
+        "liveliness": "80",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -2880,11 +2880,11 @@
         "channel": "FOX Movies",
         "link": "https://list.iptvcat.com/my_list/s/3adbd60a469722986fcb3c71019bab8f.m3u8",
         "country": "portugal",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -2910,7 +2910,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2936,7 +2936,7 @@
         "channel": "BEIN MOVIES ACTION",
         "link": "https://list.iptvcat.com/my_list/s/4d6af08c9f1e919d839baf5b66cb113e.m3u8",
         "country": "turkey",
-        "liveliness": "52",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -2952,7 +2952,7 @@
         "link": "https://list.iptvcat.com/my_list/s/47f93b59c155e91fe0e577ab796eeeeb.m3u8",
         "country": "turkey",
         "liveliness": "48",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -2966,9 +2966,9 @@
         "channel": "BOSS MOVIES 10",
         "link": "https://list.iptvcat.com/my_list/s/7c94140fa7c8fa6a9d3eb70f66ecadb9.m3u8",
         "country": "turkey",
-        "liveliness": "46",
+        "liveliness": "47",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3041,9 +3041,9 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "2235",
+        "mbps": "7951",
         "URI": [
             "s"
         ]
@@ -3053,7 +3053,7 @@
         "channel": "BeIN Fox Action Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/0907fa6d6555b5c13e760f7ef6ac2f0a.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -3067,7 +3067,7 @@
         "channel": "BeIN Fox Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/a8dad13861ff938c11a3cc8d8838b014.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -3081,7 +3081,7 @@
         "channel": "BeIN Movies 2 Action HD",
         "link": "https://list.iptvcat.com/my_list/s/de6a07ce18b47a72b92bb0de4077835f.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -3095,7 +3095,7 @@
         "channel": "BeIN Movies 3 Drama HD",
         "link": "https://list.iptvcat.com/my_list/s/391fbbd846edfca96b9d64f41ac37eae.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -3109,7 +3109,7 @@
         "channel": "BeIN Movies 4 Family HD",
         "link": "https://list.iptvcat.com/my_list/s/836522a1d413a6d0fb7c90229ec5cd4e.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -3123,7 +3123,7 @@
         "channel": "BeIN Movies Premiere 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/2db845027a8584b80cc1c070ec3f5092.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -3137,7 +3137,7 @@
         "channel": "BeIN Star Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/77c520536d54a4a166caff57e64a345e.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -3153,7 +3153,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -3195,7 +3195,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -3223,7 +3223,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -3235,7 +3235,7 @@
         "channel": "FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/0045d6057db78fc7bada80ae487a2a97.m3u8",
         "country": "undefined",
-        "liveliness": "77",
+        "liveliness": "74",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
@@ -3252,8 +3252,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064, ...",
+        "format": "sd",
+        "mbps": "926, ...",
         "URI": [
             "s"
         ]
@@ -3265,7 +3265,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "663",
         "URI": [
@@ -3350,8 +3350,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1190, ...",
+        "format": "hd",
+        "mbps": "3799, ...",
         "URI": [
             "s"
         ]
@@ -3377,9 +3377,9 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "1308",
+        "mbps": "1600",
         "URI": [
             "s"
         ]
@@ -3405,7 +3405,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -3433,7 +3433,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -3447,7 +3447,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -3489,7 +3489,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -3503,7 +3503,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -3559,7 +3559,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -3573,9 +3573,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "s"
         ]
@@ -3585,7 +3585,7 @@
         "channel": "OSN Star Movies FHD",
         "link": "https://list.iptvcat.com/my_list/s/19aa6b2bba4cf6ac97d8cfeca49f9aeb.m3u8",
         "country": "undefined",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -3645,7 +3645,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3179",
         "URI": [
             "s"
         ]
@@ -3701,7 +3701,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3482",
+        "mbps": "3625",
         "URI": [
             "s"
         ]
@@ -3755,9 +3755,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -3769,7 +3769,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3785,7 +3785,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -3825,7 +3825,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3841,7 +3841,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -3897,7 +3897,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "13311, ...",
         "URI": [
             "s"
         ]
@@ -3911,7 +3911,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5991, ...",
         "URI": [
             "s"
         ]
@@ -3951,7 +3951,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4007,7 +4007,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2098, ...",
         "URI": [
@@ -4021,7 +4021,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4043,13 +4043,13 @@
         ]
     },
     {
-        "id": "553",
+        "id": "132596",
         "channel": "Óčko STAR",
-        "link": "https://list.iptvcat.com/my_list/s/44afe457e951e24102a20ce88d023cf7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/efad684ed38e43bf60c1b27ae6771093.m3u8",
         "country": "czech republic",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -4057,9 +4057,9 @@
         ]
     },
     {
-        "id": "132596",
+        "id": "553",
         "channel": "Óčko STAR",
-        "link": "https://list.iptvcat.com/my_list/s/efad684ed38e43bf60c1b27ae6771093.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/44afe457e951e24102a20ce88d023cf7.m3u8",
         "country": "czech republic",
         "liveliness": "100",
         "status": "online",
@@ -4093,7 +4093,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1564",
         "URI": [
             "s"
         ]
@@ -4160,7 +4160,7 @@
         "link": "https://list.iptvcat.com/my_list/s/71e52f12e77bc979a2b6ab6eb0fbc521.m3u8",
         "country": "greece",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -4173,8 +4173,8 @@
         "channel": "Star Kentrikis",
         "link": "https://list.iptvcat.com/my_list/s/668ab2aaa375973f911a40669601a52f.m3u8",
         "country": "greece",
-        "liveliness": "83",
-        "status": "online",
+        "liveliness": "81",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1677",
@@ -4215,11 +4215,11 @@
         "channel": "STAR BHARAT",
         "link": "https://list.iptvcat.com/my_list/s/2545da356509619c0e1300be3441738a.m3u8",
         "country": "india",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "1706",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -4229,11 +4229,11 @@
         "channel": "STAR Movies",
         "link": "https://list.iptvcat.com/my_list/s/4754652eb42a10a6ab4f34d889750ec1.m3u8",
         "country": "india",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1706",
+        "format": "fhd 2k",
+        "mbps": "8370",
         "URI": [
             "s"
         ]
@@ -4243,11 +4243,11 @@
         "channel": "STAR PLUS",
         "link": "https://list.iptvcat.com/my_list/s/bd164bcb210353f17fc5157168aa61f1.m3u8",
         "country": "india",
-        "liveliness": "72",
-        "status": "offline",
+        "liveliness": "73",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -4285,7 +4285,7 @@
         "channel": "Star Sports 2",
         "link": "https://list.iptvcat.com/my_list/s/7b172153a883a36b22e52afd4303f860.m3u8",
         "country": "india",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -4302,8 +4302,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -4313,8 +4313,8 @@
         "channel": "Star Sports Select 1",
         "link": "https://list.iptvcat.com/my_list/s/c2398b4577a91fa10ba95dbfe73fdc39.m3u8",
         "country": "india",
-        "liveliness": "83",
-        "status": "online",
+        "liveliness": "81",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -4341,7 +4341,7 @@
         "channel": "Star Vijay",
         "link": "https://list.iptvcat.com/my_list/s/a492aee26275676728cd4c6b813d802e.m3u8",
         "country": "india",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -4393,6 +4393,20 @@
         ]
     },
     {
+        "id": "2596412",
+        "channel": "Antena Stars",
+        "link": "https://list.iptvcat.com/my_list/s/735b149a24eee3ca7377084a29543040.m3u8",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2671679",
         "channel": "Antena Stars",
         "link": "https://list.iptvcat.com/my_list/s/7568dfe2cac685a30e027693e99bba0c.m3u8",
@@ -4421,20 +4435,6 @@
         ]
     },
     {
-        "id": "2596412",
-        "channel": "Antena Stars",
-        "link": "https://list.iptvcat.com/my_list/s/735b149a24eee3ca7377084a29543040.m3u8",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2671962",
         "channel": "FilmBox Stars",
         "link": "https://list.iptvcat.com/my_list/s/63d756abf816e90cb8c1bba8d04ea66d.m3u8",
@@ -4442,8 +4442,8 @@
         "liveliness": "89",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -4470,8 +4470,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "11105",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -4481,11 +4481,11 @@
         "channel": "MOVISTAR Cine Espanol",
         "link": "https://list.iptvcat.com/my_list/s/1e3d2160e0f4cb16bf07b234701dfa39.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -4495,11 +4495,11 @@
         "channel": "MOVISTAR Comedia",
         "link": "https://list.iptvcat.com/my_list/s/a252847d02ab5df7121455f3c032828f.m3u8",
         "country": "spain",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -4537,9 +4537,9 @@
         "channel": "MOVISTAR Deportes",
         "link": "https://list.iptvcat.com/my_list/s/909dad909aca574f317be67153116038.m3u8",
         "country": "spain",
-        "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4551,11 +4551,11 @@
         "channel": "MOVISTAR Deportes 5",
         "link": "https://list.iptvcat.com/my_list/s/78f5add31af60a516e34943cb5ea8c45.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -4565,11 +4565,11 @@
         "channel": "MOVISTAR Deportes 6",
         "link": "https://list.iptvcat.com/my_list/s/4c3d8d2ae404178a56ce6dc932420f77.m3u8",
         "country": "spain",
-        "liveliness": "80",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -4579,8 +4579,8 @@
         "channel": "MOVISTAR Estrenos",
         "link": "https://list.iptvcat.com/my_list/s/fea79a7588e7502c8bd0709bea791835.m3u8",
         "country": "spain",
-        "liveliness": "80",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -4623,7 +4623,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -4635,9 +4635,9 @@
         "channel": "MOVISTAR Golf",
         "link": "https://list.iptvcat.com/my_list/s/d1924fe7cb8c326b696312d9ce373901.m3u8",
         "country": "spain",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4679,7 +4679,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -4693,7 +4693,21 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2483793",
+        "channel": "MOVISTAR LIGA DE CAMPEONES",
+        "link": "https://list.iptvcat.com/my_list/s/bb864194012d28eaa694706bf9d1883a.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -4715,20 +4729,6 @@
         ]
     },
     {
-        "id": "2483793",
-        "channel": "MOVISTAR LIGA DE CAMPEONES",
-        "link": "https://list.iptvcat.com/my_list/s/bb864194012d28eaa694706bf9d1883a.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2674171",
         "channel": "MOVISTAR LIGA DE CAMPEONES 2",
         "link": "https://list.iptvcat.com/my_list/s/1d0c80125df5d9d86da1fe6ff1712241.m3u8",
@@ -4736,8 +4736,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -4761,11 +4761,11 @@
         "channel": "MOVISTAR La Resistencia",
         "link": "https://list.iptvcat.com/my_list/s/e4347a43c09d2258514ffc1a4c0dcae8.m3u8",
         "country": "spain",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -4775,8 +4775,8 @@
         "channel": "MOVISTAR LaLiga",
         "link": "https://list.iptvcat.com/my_list/s/4cb07040ad0444149e1b711baee73c54.m3u8",
         "country": "spain",
-        "liveliness": "90",
-        "status": "online",
+        "liveliness": "87",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -4792,8 +4792,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -4803,11 +4803,11 @@
         "channel": "MOVISTAR LaLiga 4",
         "link": "https://list.iptvcat.com/my_list/s/065ab8e991955a4047977859987b6d3f.m3u8",
         "country": "spain",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -4817,8 +4817,8 @@
         "channel": "MOVISTAR LaLiga 5",
         "link": "https://list.iptvcat.com/my_list/s/88831f0ff88cf5da2ed5dab5e773fba6.m3u8",
         "country": "spain",
-        "liveliness": "80",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -4831,11 +4831,11 @@
         "channel": "MOVISTAR Series",
         "link": "https://list.iptvcat.com/my_list/s/8961446ec6f3b5d24b6f6da5b7208331.m3u8",
         "country": "spain",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -4861,7 +4861,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4889,7 +4889,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4945,7 +4945,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4959,7 +4959,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -5001,7 +5001,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -5029,7 +5029,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -5097,8 +5097,8 @@
         "channel": "Star TVE",
         "link": "https://list.iptvcat.com/my_list/s/fdb8eb31bba3b50cecf35b97554a0629.m3u8",
         "country": "spain",
-        "liveliness": "83",
-        "status": "online",
+        "liveliness": "81",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
@@ -5113,7 +5113,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -5128,7 +5128,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5173,7 +5173,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -5216,7 +5216,7 @@
         "channel": "BeIN Star Movies HD",
         "link": "https://list.iptvcat.com/my_list/s/77c520536d54a4a166caff57e64a345e.m3u8",
         "country": "undefined",
-        "liveliness": "63",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -5230,7 +5230,7 @@
         "channel": "BeIN Star World HD",
         "link": "https://list.iptvcat.com/my_list/s/95c45625b1bd84d0adcffafbf60f3c1d.m3u8",
         "country": "undefined",
-        "liveliness": "17",
+        "liveliness": "14",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -5344,7 +5344,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -5352,9 +5352,9 @@
         ]
     },
     {
-        "id": "1162530",
+        "id": "1162529",
         "channel": "Lone Star",
-        "link": "https://list.iptvcat.com/my_list/s/17805b01d5f8c509c8b66a89304dfe84.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e490cfed8136573d7ae416a5f55cf99.m3u8",
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
@@ -5398,7 +5398,7 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/88a3f64fa2e240ca5ef962a1f88bf88a.m3u8",
         "country": "greece",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
@@ -5412,8 +5412,8 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/3db06a97c16c59e14aa4c50c24085a2f.m3u8",
         "country": "netherlands",
-        "liveliness": "88",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -5426,8 +5426,8 @@
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/58dc94c830b7c17f7b0c8b0e44f0d242.m3u8",
         "country": "netherlands",
-        "liveliness": "83",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -5455,7 +5455,7 @@
         "link": "https://list.iptvcat.com/my_list/s/abed5610c66280d83cdefe47fac772c0.m3u8",
         "country": "poland",
         "liveliness": "75",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -5484,7 +5484,7 @@
         "country": "portugal",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -5513,6 +5513,20 @@
         "liveliness": "87",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2671985",
+        "channel": "HBO 2",
+        "link": "https://list.iptvcat.com/my_list/s/98b91b85905c0676d6c3f6e1aa66f16f.m3u8",
+        "country": "romania",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -5534,20 +5548,6 @@
         ]
     },
     {
-        "id": "2671985",
-        "channel": "HBO 2",
-        "link": "https://list.iptvcat.com/my_list/s/98b91b85905c0676d6c3f6e1aa66f16f.m3u8",
-        "country": "romania",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2671989",
         "channel": "HBO 3",
         "link": "https://list.iptvcat.com/my_list/s/5e8f36d4a2a7de9f542b225dfd203d09.m3u8",
@@ -5555,8 +5555,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -5580,8 +5580,8 @@
         "channel": "HBO Signature",
         "link": "https://list.iptvcat.com/my_list/s/24cb893435401792ad17c2bb2c0b98d7.m3u8",
         "country": "spain",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -5610,7 +5610,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -5652,7 +5652,7 @@
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5680,7 +5680,7 @@
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5708,7 +5708,7 @@
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5764,7 +5764,7 @@
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5806,7 +5806,7 @@
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -5834,7 +5834,7 @@
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5848,7 +5848,7 @@
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5960,7 +5960,7 @@
         "country": "ex yugoslavia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -6030,7 +6030,7 @@
         "country": "ex yugoslavia",
         "liveliness": "68",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "13195",
         "URI": [
@@ -6142,7 +6142,7 @@
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6156,7 +6156,7 @@
         "country": "united states of america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6184,7 +6184,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -6226,7 +6226,7 @@
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6312,7 +6312,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "2529",
+        "mbps": "2285",
         "URI": [
             "s"
         ]
@@ -6396,7 +6396,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1564",
         "URI": [
             "s"
         ]
@@ -6420,8 +6420,8 @@
         "channel": "DISNEY CINEMAGIC",
         "link": "https://list.iptvcat.com/my_list/s/35c228af113f4e91dea11ece5b8dfe7b.m3u8",
         "country": "france",
-        "liveliness": "43",
-        "status": "online",
+        "liveliness": "42",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -6448,7 +6448,7 @@
         "channel": "TCM CINEMA HD",
         "link": "https://list.iptvcat.com/my_list/s/c7b63d61166aa9a4bee87e9682b7b73c.m3u8",
         "country": "france",
-        "liveliness": "57",
+        "liveliness": "56",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -6476,7 +6476,7 @@
         "channel": "SKY CINEMA 1+",
         "link": "https://list.iptvcat.com/my_list/s/30a7b7cad2d32f69f9debc38bcf45e48.m3u8",
         "country": "germany",
-        "liveliness": "33",
+        "liveliness": "34",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -6494,7 +6494,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -6576,23 +6576,9 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2672412",
-        "channel": "Sky Cinema Classics",
-        "link": "https://list.iptvcat.com/my_list/s/82ab503f9d032dbc8f57fb6a9dba952f.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -6612,11 +6598,25 @@
         ]
     },
     {
+        "id": "2672412",
+        "channel": "Sky Cinema Classics",
+        "link": "https://list.iptvcat.com/my_list/s/82ab503f9d032dbc8f57fb6a9dba952f.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2672415",
         "channel": "Sky Cinema Comedy",
         "link": "https://list.iptvcat.com/my_list/s/f06faa3254fec95b0289cca350cb93c5.m3u8",
         "country": "germany",
-        "liveliness": "85",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -6644,8 +6644,8 @@
         "channel": "Sky Cinema Family",
         "link": "https://list.iptvcat.com/my_list/s/a37f49b6991a9c224461b6fb768d854b.m3u8",
         "country": "germany",
-        "liveliness": "93",
-        "status": "online",
+        "liveliness": "91",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -6674,7 +6674,7 @@
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6690,7 +6690,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -6717,8 +6717,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -6752,11 +6752,11 @@
         ]
     },
     {
-        "id": "2672443",
+        "id": "2591976",
         "channel": "Sky Cinema Premieren +24",
-        "link": "https://list.iptvcat.com/my_list/s/87d9c9f34965cfc4c3495105e59866f6.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4e6621f1d0fa0fa37f1f6e6ec9d39604.m3u8",
         "country": "germany",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -6766,11 +6766,11 @@
         ]
     },
     {
-        "id": "2591976",
+        "id": "2672443",
         "channel": "Sky Cinema Premieren +24",
-        "link": "https://list.iptvcat.com/my_list/s/4e6621f1d0fa0fa37f1f6e6ec9d39604.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87d9c9f34965cfc4c3495105e59866f6.m3u8",
         "country": "germany",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -6787,8 +6787,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -6808,6 +6808,20 @@
         ]
     },
     {
+        "id": "2672450",
+        "channel": "Sky Cinema Thriller",
+        "link": "https://list.iptvcat.com/my_list/s/934cbb20ab90ddecfe0d8d42a3fb58dc.m3u8",
+        "country": "germany",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2591980",
         "channel": "Sky Cinema Thriller",
         "link": "https://list.iptvcat.com/my_list/s/30e3913631cdf41c556741177a1390e8.m3u8",
@@ -6822,26 +6836,12 @@
         ]
     },
     {
-        "id": "2672450",
-        "channel": "Sky Cinema Thriller",
-        "link": "https://list.iptvcat.com/my_list/s/934cbb20ab90ddecfe0d8d42a3fb58dc.m3u8",
-        "country": "germany",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2671853",
         "channel": "COSMOTE CINEMA 1",
         "link": "https://list.iptvcat.com/my_list/s/7dc12a42049b40e6927245341c931de5.m3u8",
         "country": "greece",
         "liveliness": "85",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
@@ -6868,7 +6868,7 @@
         "channel": "COSMOTE CINEMA 3",
         "link": "https://list.iptvcat.com/my_list/s/629426b2b152c579a565efa3c6d7b39f.m3u8",
         "country": "greece",
-        "liveliness": "89",
+        "liveliness": "85",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -6912,7 +6912,7 @@
         "country": "greece",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -6924,7 +6924,7 @@
         "channel": "Nova Cinema 2",
         "link": "https://list.iptvcat.com/my_list/s/3588792efb6a1305f74f8db94197b2b8.m3u8",
         "country": "greece",
-        "liveliness": "93",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -6938,8 +6938,8 @@
         "channel": "Nova Cinema 3",
         "link": "https://list.iptvcat.com/my_list/s/ad8e5e437d5c567048c38b7e5b5f6740.m3u8",
         "country": "greece",
-        "liveliness": "85",
-        "status": "offline",
+        "liveliness": "83",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
@@ -6966,8 +6966,8 @@
         "channel": "Zee Anmol Cinema",
         "link": "https://list.iptvcat.com/my_list/s/f6e0f7f7b8e503710399802d76c14d2d.m3u8",
         "country": "india",
-        "liveliness": "90",
-        "status": "online",
+        "liveliness": "87",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
@@ -6980,8 +6980,8 @@
         "channel": "Zee Bangla Cinema",
         "link": "https://list.iptvcat.com/my_list/s/a660d74d672fb3d925740334a107fb31.m3u8",
         "country": "india",
-        "liveliness": "90",
-        "status": "online",
+        "liveliness": "87",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
@@ -6994,8 +6994,8 @@
         "channel": "Zee Cinema",
         "link": "https://list.iptvcat.com/my_list/s/eee99aa16f76355b37073e680c7c8078.m3u8",
         "country": "india",
-        "liveliness": "90",
-        "status": "online",
+        "liveliness": "87",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
@@ -7010,9 +7010,9 @@
         "country": "malaysia",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "1601",
         "URI": [
             "s"
         ]
@@ -7149,7 +7149,7 @@
         "channel": "CINEMA ARTES MARCIAIS \"looney\"",
         "link": "https://list.iptvcat.com/my_list/s/78d25b6ac0d77d0c953ceed6f21d6a5d.m3u8",
         "country": "undefined",
-        "liveliness": "60",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -7163,7 +7163,7 @@
         "channel": "CINEMA PORTUGUES \"looney\"",
         "link": "https://list.iptvcat.com/my_list/s/e6f77654aa100fbe8e10c6efed795303.m3u8",
         "country": "undefined",
-        "liveliness": "53",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -7221,7 +7221,7 @@
         "country": "undefined",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -7237,7 +7237,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3179",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -7291,7 +7291,7 @@
         "country": "undefined",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -7347,7 +7347,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -7361,7 +7361,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -7373,8 +7373,8 @@
         "channel": "OSN Art Cinema FHD",
         "link": "https://list.iptvcat.com/my_list/s/3da362e87ae4603e73152e238a6a5576.m3u8",
         "country": "undefined",
-        "liveliness": "91",
-        "status": "online",
+        "liveliness": "83",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2521",
@@ -7387,7 +7387,7 @@
         "channel": "OSN Yahala Cinema FHD",
         "link": "https://list.iptvcat.com/my_list/s/896d701e6158df02c4323eb7dec4b7b5.m3u8",
         "country": "undefined",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -7419,7 +7419,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3179",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -7503,7 +7503,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3179",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -7513,7 +7513,7 @@
         "channel": "Sky Cinema Action",
         "link": "https://list.iptvcat.com/my_list/s/52ff3b7a2e1fd152bfdcc9c929ab8d3e.m3u8",
         "country": "united kingdom",
-        "liveliness": "85",
+        "liveliness": "81",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -7526,20 +7526,6 @@
         "id": "2596174",
         "channel": "Sky Cinema Action",
         "link": "https://list.iptvcat.com/my_list/s/9f006215012b88bcc41ff45d1be4e913.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596175",
-        "channel": "Sky Cinema Animation",
-        "link": "https://list.iptvcat.com/my_list/s/c4c0f9fd4722babaea5d748f6067740f.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
@@ -7565,9 +7551,9 @@
         ]
     },
     {
-        "id": "2596176",
-        "channel": "Sky Cinema Comedy",
-        "link": "https://list.iptvcat.com/my_list/s/7bd5fa15099267280f9d0e5378e1aca2.m3u8",
+        "id": "2596175",
+        "channel": "Sky Cinema Animation",
+        "link": "https://list.iptvcat.com/my_list/s/c4c0f9fd4722babaea5d748f6067740f.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
@@ -7579,13 +7565,13 @@
         ]
     },
     {
-        "id": "2596177",
-        "channel": "Sky Cinema Drama",
-        "link": "https://list.iptvcat.com/my_list/s/648087fadd70fe974c754eb824976a63.m3u8",
+        "id": "2596176",
+        "channel": "Sky Cinema Comedy",
+        "link": "https://list.iptvcat.com/my_list/s/7bd5fa15099267280f9d0e5378e1aca2.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -7607,11 +7593,11 @@
         ]
     },
     {
-        "id": "2672830",
-        "channel": "Sky Cinema Family",
-        "link": "https://list.iptvcat.com/my_list/s/e487c4ad691d02e19efc910b451af799.m3u8",
+        "id": "2596177",
+        "channel": "Sky Cinema Drama",
+        "link": "https://list.iptvcat.com/my_list/s/648087fadd70fe974c754eb824976a63.m3u8",
         "country": "united kingdom",
-        "liveliness": "89",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -7626,6 +7612,20 @@
         "link": "https://list.iptvcat.com/my_list/s/5bbb04cdb6b9519c18b789073b0e380c.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2672830",
+        "channel": "Sky Cinema Family",
+        "link": "https://list.iptvcat.com/my_list/s/e487c4ad691d02e19efc910b451af799.m3u8",
+        "country": "united kingdom",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -7663,11 +7663,11 @@
         ]
     },
     {
-        "id": "2596180",
+        "id": "2672832",
         "channel": "Sky Cinema Hits",
-        "link": "https://list.iptvcat.com/my_list/s/b492c40350fcbaa633bf43e83239bf78.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3bc749f34aa0279f17c3ac05e7d340a3.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -7677,11 +7677,11 @@
         ]
     },
     {
-        "id": "2672832",
+        "id": "2596180",
         "channel": "Sky Cinema Hits",
-        "link": "https://list.iptvcat.com/my_list/s/3bc749f34aa0279f17c3ac05e7d340a3.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b492c40350fcbaa633bf43e83239bf78.m3u8",
         "country": "united kingdom",
-        "liveliness": "95",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -7697,7 +7697,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -7739,7 +7739,7 @@
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -7809,7 +7809,7 @@
         "country": "bahrain",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1763",
         "URI": [
@@ -7837,7 +7837,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -7851,7 +7851,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -7933,11 +7933,11 @@
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/c3285278c0754e3e84fef3b83c5aaa02.m3u8",
         "country": "czech republic",
-        "liveliness": "22",
-        "status": "offline",
+        "liveliness": "23",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -7947,11 +7947,11 @@
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/6c903c9ade99a13ce0611c8d9d790ae0.m3u8",
         "country": "france",
-        "liveliness": "69",
-        "status": "offline",
+        "liveliness": "70",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "s"
         ]
@@ -7961,7 +7961,7 @@
         "channel": "DISNEY CHANNEL FHD",
         "link": "https://list.iptvcat.com/my_list/s/06400436a6b8a72c92a980f56e54adbb.m3u8",
         "country": "france",
-        "liveliness": "62",
+        "liveliness": "60",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -7975,8 +7975,8 @@
         "channel": "DISNEY CINEMAGIC",
         "link": "https://list.iptvcat.com/my_list/s/35c228af113f4e91dea11ece5b8dfe7b.m3u8",
         "country": "france",
-        "liveliness": "43",
-        "status": "online",
+        "liveliness": "42",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -7989,11 +7989,11 @@
         "channel": "DISNEY JUNIUOR",
         "link": "https://list.iptvcat.com/my_list/s/19b80c575f6c60d324d96b1ca114889d.m3u8",
         "country": "france",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "2883",
+        "mbps": "5287",
         "URI": [
             "s"
         ]
@@ -8003,7 +8003,7 @@
         "channel": "DISNEY+",
         "link": "https://list.iptvcat.com/my_list/s/34ddeee136d543c17c04174bad22fd6c.m3u8",
         "country": "france",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -8018,10 +8018,10 @@
         "link": "https://list.iptvcat.com/my_list/s/b5742f590555c2af503204c0306e3e33.m3u8",
         "country": "germany",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -8077,7 +8077,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -8159,7 +8159,7 @@
         "country": "netherlands",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -8171,11 +8171,11 @@
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/4501de32375c37fa07460a90db1f299a.m3u8",
         "country": "netherlands",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -8185,7 +8185,7 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/22f398f24d0996f2ad40a02d08549c6d.m3u8",
         "country": "netherlands",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -8201,7 +8201,7 @@
         "country": "netherlands",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -8255,11 +8255,11 @@
         "channel": "DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/85ad615b5474f08f77957367b9dea9d0.m3u8",
         "country": "poland",
-        "liveliness": "36",
+        "liveliness": "37",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -8283,8 +8283,8 @@
         "channel": "DISNEY XD",
         "link": "https://list.iptvcat.com/my_list/s/6b835a8dfd7f36e25a68c1237580335a.m3u8",
         "country": "poland",
-        "liveliness": "42",
-        "status": "offline",
+        "liveliness": "43",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -8297,7 +8297,7 @@
         "channel": "DISNEY JUNIOR LOW",
         "link": "https://list.iptvcat.com/my_list/s/bd5b1d8b4822dfa37ab95c34d2e6594e.m3u8",
         "country": "portugal",
-        "liveliness": "53",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
@@ -8311,11 +8311,11 @@
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/665c7aec581e03631da13a516e5f0715.m3u8",
         "country": "portugal",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -8325,11 +8325,11 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/e718b1164713a5db3fd3489751fa6925.m3u8",
         "country": "portugal",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -8339,25 +8339,11 @@
         "channel": "Disney+",
         "link": "https://list.iptvcat.com/my_list/s/6abcb9595c5781adf4d1125941a0a0ad.m3u8",
         "country": "portugal",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "3064",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596433",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/2a9837d3800f762c1bd794a0d2538e75.m3u8",
-        "country": "romania",
-        "liveliness": "100",
+        "liveliness": "87",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3064",
         "URI": [
             "s"
         ]
@@ -8377,13 +8363,27 @@
         ]
     },
     {
+        "id": "2596433",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/2a9837d3800f762c1bd794a0d2538e75.m3u8",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2596434",
         "channel": "Disney Jr",
         "link": "https://list.iptvcat.com/my_list/s/6c5d56baac37eee7a861271785d9cb6a.m3u8",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -8412,8 +8412,8 @@
         "liveliness": "66",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -8423,11 +8423,11 @@
         "channel": "DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/2606ff0b2d004cccc0d99d3b1b742866.m3u8",
         "country": "spain",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "78",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -8438,7 +8438,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c771afd3d95b4c30e8f9c27f89b1f14e.m3u8",
         "country": "spain",
         "liveliness": "38",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -8465,7 +8465,7 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/f7f652edcb335f4ed8dc38c2c314c797.m3u8",
         "country": "spain",
-        "liveliness": "100",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
@@ -8479,7 +8479,7 @@
         "channel": "DISNEY JUNIOR",
         "link": "https://list.iptvcat.com/my_list/s/6bdaed3a6eec25d798cf79f97bb3f986.m3u8",
         "country": "undefined",
-        "liveliness": "51",
+        "liveliness": "49",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
@@ -8495,7 +8495,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1328, ...",
         "URI": [
@@ -8523,7 +8523,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1328, ...",
         "URI": [
@@ -8537,7 +8537,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1328, ...",
         "URI": [
@@ -8552,8 +8552,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -8566,8 +8566,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -8577,7 +8577,7 @@
         "channel": "Disney+ HD FR",
         "link": "https://list.iptvcat.com/my_list/s/94b87b1bd21f97710ba854be54daeb44.m3u8",
         "country": "undefined",
-        "liveliness": "100",
+        "liveliness": "67",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -8593,7 +8593,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -8607,9 +8607,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "3179",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -8677,7 +8677,7 @@
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -8692,8 +8692,8 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "3424",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -8747,7 +8747,7 @@
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -8811,13 +8811,13 @@
         ]
     },
     {
-        "id": "2613481",
+        "id": "2657953",
         "channel": "DISNEY VIASAT EU LV",
-        "link": "https://list.iptvcat.com/my_list/s/d3a1ad8596fb7854ff7ff4cad69b7dea.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/12988ae7b14f7f7d21af4de88c6f7269.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -8825,11 +8825,11 @@
         ]
     },
     {
-        "id": "2657953",
+        "id": "2613481",
         "channel": "DISNEY VIASAT EU LV",
-        "link": "https://list.iptvcat.com/my_list/s/12988ae7b14f7f7d21af4de88c6f7269.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/d3a1ad8596fb7854ff7ff4cad69b7dea.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -8853,11 +8853,11 @@
         ]
     },
     {
-        "id": "2656140",
+        "id": "2612554",
         "channel": "Disney",
-        "link": "https://list.iptvcat.com/my_list/s/a618caa34f8411e0b3a8c460ca38da10.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0ce5eea93ca8059f278784b6375ffa32.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -8867,11 +8867,11 @@
         ]
     },
     {
-        "id": "2612554",
+        "id": "2656140",
         "channel": "Disney",
-        "link": "https://list.iptvcat.com/my_list/s/0ce5eea93ca8059f278784b6375ffa32.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a618caa34f8411e0b3a8c460ca38da10.m3u8",
         "country": "ex yugoslavia",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -9097,7 +9097,7 @@
         "country": "ex yugoslavia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -9125,23 +9125,9 @@
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2655064",
-        "channel": "минимакс-walt disney HD",
-        "link": "https://list.iptvcat.com/my_list/s/f431f05612f63a8a014041d3530fe4b5.m3u8",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -9152,6 +9138,20 @@
         "link": "https://list.iptvcat.com/my_list/s/5cdc998a22ac57ae14a5b5bdf11347bc.m3u8",
         "country": "ex yugoslavia",
         "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2655064",
+        "channel": "минимакс-walt disney HD",
+        "link": "https://list.iptvcat.com/my_list/s/f431f05612f63a8a014041d3530fe4b5.m3u8",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -9249,8 +9249,8 @@
         "channel": "Netflix Action",
         "link": "https://list.iptvcat.com/my_list/s/504a801caaaf4d1e2171cc736605c9b9.m3u8",
         "country": "spain",
-        "liveliness": "69",
-        "status": "offline",
+        "liveliness": "70",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
@@ -9277,8 +9277,8 @@
         "channel": "Netflix Box Office",
         "link": "https://list.iptvcat.com/my_list/s/c8e14ea19d518607048bc8ad04215c76.m3u8",
         "country": "spain",
-        "liveliness": "59",
-        "status": "online",
+        "liveliness": "58",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
@@ -9291,7 +9291,7 @@
         "channel": "Netflix Comedy",
         "link": "https://list.iptvcat.com/my_list/s/a70d5ea48e16408a1037e0a49b616725.m3u8",
         "country": "spain",
-        "liveliness": "51",
+        "liveliness": "52",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -9319,7 +9319,7 @@
         "channel": "Netflix Discovery",
         "link": "https://list.iptvcat.com/my_list/s/399b06f5d8d9490ec47d1471791d2a16.m3u8",
         "country": "spain",
-        "liveliness": "49",
+        "liveliness": "50",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -9361,8 +9361,8 @@
         "channel": "Netflix Thriller 2",
         "link": "https://list.iptvcat.com/my_list/s/7d268aca5d764a78d3212bbcf7034129.m3u8",
         "country": "spain",
-        "liveliness": "49",
-        "status": "online",
+        "liveliness": "48",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
@@ -9377,7 +9377,7 @@
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -9517,7 +9517,7 @@
         "country": "turkey",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -9623,11 +9623,11 @@
         ]
     },
     {
-        "id": "2021918",
+        "id": "679080",
         "channel": "AKSU TV",
-        "link": "https://list.iptvcat.com/my_list/s/e7d4b5bcb5ceef77546eba4210bdcd8c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8c6fdb0f465541a51ddb21721f6ddf72.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -9637,11 +9637,11 @@
         ]
     },
     {
-        "id": "679080",
+        "id": "2021918",
         "channel": "AKSU TV",
-        "link": "https://list.iptvcat.com/my_list/s/8c6fdb0f465541a51ddb21721f6ddf72.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e7d4b5bcb5ceef77546eba4210bdcd8c.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -9685,23 +9685,9 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "1688",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2021917",
-        "channel": "AS TV",
-        "link": "https://list.iptvcat.com/my_list/s/64602fe21ee9fea53230b200c0ad3222.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "sd",
+        "mbps": "3239",
         "URI": [
             "turkey__2"
         ]
@@ -9712,6 +9698,20 @@
         "link": "https://list.iptvcat.com/my_list/s/fe2547fa8a59506c39aecb71ff5adfdf.m3u8",
         "country": "turkey",
         "liveliness": "27",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
+        "id": "2021917",
+        "channel": "AS TV",
+        "link": "https://list.iptvcat.com/my_list/s/64602fe21ee9fea53230b200c0ad3222.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -9739,9 +9739,9 @@
         "channel": "AUTOMOTO (FR)",
         "link": "https://list.iptvcat.com/my_list/s/559fa46fd656109e698452189e3e5f38.m3u8",
         "country": "turkey",
-        "liveliness": "48",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "liveliness": "46",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -9769,7 +9769,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -9819,6 +9819,20 @@
         ]
     },
     {
+        "id": "2455176",
+        "channel": "Alanya Posta TV",
+        "link": "https://list.iptvcat.com/my_list/s/0e423e1a8c03d7c6c9cdc42f00f23250.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "142365",
         "channel": "Alanya Posta TV",
         "link": "https://list.iptvcat.com/my_list/s/2f4b5eb2cdb231e7b9a0ed39ec1ed7fe.m3u8",
@@ -9836,20 +9850,6 @@
         "id": "2175601",
         "channel": "Alanya Posta TV",
         "link": "https://list.iptvcat.com/my_list/s/47a85861f071bad2b00c638526765942.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2455176",
-        "channel": "Alanya Posta TV",
-        "link": "https://list.iptvcat.com/my_list/s/0e423e1a8c03d7c6c9cdc42f00f23250.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -9991,7 +9991,7 @@
         "channel": "BEIN MOVIES ACTION",
         "link": "https://list.iptvcat.com/my_list/s/4d6af08c9f1e919d839baf5b66cb113e.m3u8",
         "country": "turkey",
-        "liveliness": "52",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -10007,7 +10007,7 @@
         "link": "https://list.iptvcat.com/my_list/s/47f93b59c155e91fe0e577ab796eeeeb.m3u8",
         "country": "turkey",
         "liveliness": "48",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -10065,7 +10065,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -10091,9 +10091,9 @@
         "channel": "BOSS MOVIES 10",
         "link": "https://list.iptvcat.com/my_list/s/7c94140fa7c8fa6a9d3eb70f66ecadb9.m3u8",
         "country": "turkey",
-        "liveliness": "46",
+        "liveliness": "47",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -10108,7 +10108,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -10186,9 +10186,9 @@
         ]
     },
     {
-        "id": "520655",
+        "id": "694005",
         "channel": "Berat TV",
-        "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
@@ -10200,9 +10200,9 @@
         ]
     },
     {
-        "id": "694005",
+        "id": "520655",
         "channel": "Berat TV",
-        "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
@@ -10228,13 +10228,13 @@
         ]
     },
     {
-        "id": "2915",
+        "id": "133443",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
         "URI": [
@@ -10242,9 +10242,9 @@
         ]
     },
     {
-        "id": "133443",
+        "id": "2915",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -10262,7 +10262,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -10305,7 +10305,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -10327,13 +10327,13 @@
         ]
     },
     {
-        "id": "2175615",
+        "id": "2267008",
         "channel": "Bursa TV",
-        "link": "https://list.iptvcat.com/my_list/s/09768f93637e3ef492a4dca36fd7f42c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3bdef81c44429ad3dd6c83118e1b4689.m3u8",
         "country": "turkey",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -10341,11 +10341,11 @@
         ]
     },
     {
-        "id": "2267008",
+        "id": "2175615",
         "channel": "Bursa TV",
-        "link": "https://list.iptvcat.com/my_list/s/3bdef81c44429ad3dd6c83118e1b4689.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/09768f93637e3ef492a4dca36fd7f42c.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -10376,8 +10376,8 @@
         "liveliness": "78",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey__2"
         ]
@@ -10403,7 +10403,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -10417,7 +10417,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -10431,7 +10431,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -10487,7 +10487,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -10541,9 +10541,9 @@
         "channel": "DISCOVERY ID",
         "link": "https://list.iptvcat.com/my_list/s/7380028c6e641775b54485c952972a07.m3u8",
         "country": "turkey",
-        "liveliness": "50",
+        "liveliness": "51",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10585,7 +10585,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -10670,8 +10670,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "turkey__2"
         ]
@@ -10711,7 +10711,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -10779,8 +10779,8 @@
         "channel": "EGE TURK TV",
         "link": "https://list.iptvcat.com/my_list/s/5ae45619924264a29f783844123fcf50.m3u8",
         "country": "turkey",
-        "liveliness": "26",
-        "status": "offline",
+        "liveliness": "27",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -10809,7 +10809,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -10822,7 +10822,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a1f32e5c8dbe68b1ba8fecb85e83ce59.m3u8",
         "country": "turkey",
         "liveliness": "97",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -10839,7 +10839,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "5817",
+        "mbps": "5768",
         "URI": [
             "turkey__2"
         ]
@@ -10849,8 +10849,8 @@
         "channel": "ULKE TV",
         "link": "https://list.iptvcat.com/my_list/s/16f28a215fba7c0371260063c9a2e835.m3u8",
         "country": "turkey",
-        "liveliness": "42",
-        "status": "online",
+        "liveliness": "41",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -10977,7 +10977,7 @@
         "country": "turkey",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -11033,7 +11033,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -11047,7 +11047,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -11061,7 +11061,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -11103,7 +11103,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "4532",
         "URI": [
@@ -11159,23 +11159,9 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "4532",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2267030",
-        "channel": "Yeşilyurt TV",
-        "link": "https://list.iptvcat.com/my_list/s/2a1b41bc2cb6119e38519833c481099f.m3u8",
-        "country": "turkey",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "turkey__2"
         ]
@@ -11195,6 +11181,20 @@
         ]
     },
     {
+        "id": "2267030",
+        "channel": "Yeşilyurt TV",
+        "link": "https://list.iptvcat.com/my_list/s/2a1b41bc2cb6119e38519833c481099f.m3u8",
+        "country": "turkey",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "2175536",
         "channel": "Yusufeli Belediyesi Web TV",
         "link": "https://list.iptvcat.com/my_list/s/18710dbec494bcf19635a0639e00c0a0.m3u8",
@@ -11203,7 +11203,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "4322",
+        "mbps": "3625",
         "URI": [
             "turkey__2"
         ]
@@ -11229,7 +11229,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -11243,7 +11243,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -11257,7 +11257,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -11341,7 +11341,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "7082",
         "URI": [
@@ -11467,7 +11467,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -11581,7 +11581,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "3570, ...",
         "URI": [
@@ -11623,7 +11623,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -11750,7 +11750,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -11861,7 +11861,7 @@
         "link": "https://list.iptvcat.com/my_list/s/dc115d898671b4251211aa24b1869764.m3u8",
         "country": "turkey",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -11876,7 +11876,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -11888,11 +11888,11 @@
         "channel": "TRT 1",
         "link": "https://list.iptvcat.com/my_list/s/69d978e04ad09577b6197c90291d5655.m3u8",
         "country": "turkey",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "turkey__2"
         ]
@@ -11974,7 +11974,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -12038,20 +12038,6 @@
         ]
     },
     {
-        "id": "22343",
-        "channel": "TRT Cocuk",
-        "link": "https://list.iptvcat.com/my_list/s/74b81527b14fa640c2d74c1e46c2163c.m3u8",
-        "country": "turkey",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
         "id": "142354",
         "channel": "TRT Cocuk",
         "link": "https://list.iptvcat.com/my_list/s/0f9958ba02d32fa00cf235e7b4372c0f.m3u8",
@@ -12061,6 +12047,20 @@
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
+        "id": "22343",
+        "channel": "TRT Cocuk",
+        "link": "https://list.iptvcat.com/my_list/s/74b81527b14fa640c2d74c1e46c2163c.m3u8",
+        "country": "turkey",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
         "URI": [
             "turkey__2"
         ]
@@ -12114,7 +12114,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -12170,7 +12170,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -12226,7 +12226,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -12240,7 +12240,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12268,9 +12268,9 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5768",
         "URI": [
             "turkey__2"
         ]
@@ -12282,7 +12282,7 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -12312,7 +12312,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7672",
+        "mbps": "7672, ...",
         "URI": [
             "turkey__2"
         ]
@@ -12324,7 +12324,7 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
         "URI": [
@@ -12338,7 +12338,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
         "URI": [
@@ -12352,7 +12352,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
         "URI": [
@@ -12366,7 +12366,7 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
         "URI": [
@@ -12374,23 +12374,9 @@
         ]
     },
     {
-        "id": "142564",
+        "id": "51199",
         "channel": "TV 41",
-        "link": "https://list.iptvcat.com/my_list/s/61b1989093784777dacdbdbbcd21ec4b.m3u8",
-        "country": "turkey",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2455329",
-        "channel": "TV 41",
-        "link": "https://list.iptvcat.com/my_list/s/ca5b2b569f981e8d0a3d01a6552d4b62.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/0dd37dea7ac2b5ca53ea4f9409672b4d.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -12402,9 +12388,23 @@
         ]
     },
     {
-        "id": "51199",
+        "id": "142564",
         "channel": "TV 41",
-        "link": "https://list.iptvcat.com/my_list/s/0dd37dea7ac2b5ca53ea4f9409672b4d.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/61b1989093784777dacdbdbbcd21ec4b.m3u8",
+        "country": "turkey",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
+        "id": "2455329",
+        "channel": "TV 41",
+        "link": "https://list.iptvcat.com/my_list/s/ca5b2b569f981e8d0a3d01a6552d4b62.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -12492,7 +12492,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -12506,7 +12506,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -12546,9 +12546,9 @@
         "channel": "TV 8",
         "link": "https://list.iptvcat.com/my_list/s/243eb057b1b14d6c18b6cacf46f5e0ff.m3u8",
         "country": "turkey",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -12598,13 +12598,27 @@
         ]
     },
     {
+        "id": "2021739",
+        "channel": "TV EM",
+        "link": "https://list.iptvcat.com/my_list/s/c0a885a3715ee9ca6088e16c3d828d7f.m3u8",
+        "country": "turkey",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "1460",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "679125",
         "channel": "TV EM",
         "link": "https://list.iptvcat.com/my_list/s/a93a14765515bffe9cb9df4723609353.m3u8",
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1460",
         "URI": [
@@ -12615,20 +12629,6 @@
         "id": "142225",
         "channel": "TV EM",
         "link": "https://list.iptvcat.com/my_list/s/a7623c3b717f95c1416b91590c59cc02.m3u8",
-        "country": "turkey",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "1460",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2021739",
-        "channel": "TV EM",
-        "link": "https://list.iptvcat.com/my_list/s/c0a885a3715ee9ca6088e16c3d828d7f.m3u8",
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
@@ -12646,7 +12646,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1460",
         "URI": [
@@ -12660,7 +12660,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -12724,6 +12724,20 @@
         ]
     },
     {
+        "id": "679129",
+        "channel": "TV52",
+        "link": "https://list.iptvcat.com/my_list/s/380129fe81af1057aa0b5805d4150541.m3u8",
+        "country": "turkey",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "679128",
         "channel": "TV52",
         "link": "https://list.iptvcat.com/my_list/s/07f2a26852bf5b1d5cff797052459d95.m3u8",
@@ -12752,27 +12766,13 @@
         ]
     },
     {
-        "id": "679129",
-        "channel": "TV52",
-        "link": "https://list.iptvcat.com/my_list/s/380129fe81af1057aa0b5805d4150541.m3u8",
-        "country": "turkey",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
         "id": "2021774",
         "channel": "TVNET HD",
         "link": "https://list.iptvcat.com/my_list/s/d0e687607f2d2524f37b5faf61f43235.m3u8",
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -12786,7 +12786,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -12799,7 +12799,7 @@
         "link": "https://list.iptvcat.com/my_list/s/91695b00f7402abfab41534ef16b4940.m3u8",
         "country": "turkey",
         "liveliness": "87",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -13010,7 +13010,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -13024,7 +13024,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -13122,7 +13122,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -13136,9 +13136,9 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "2308",
+        "mbps": "1008",
         "URI": [
             "turkey__2"
         ]
@@ -13262,12 +13262,12 @@
         ]
     },
     {
-        "id": "2021964",
+        "id": "679117",
         "channel": "MERCAN TV",
-        "link": "https://list.iptvcat.com/my_list/s/452e181685742649d13af222fcd7ca48.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/dbaf9c46aaa810f76666051985e55b60.m3u8",
         "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -13276,11 +13276,11 @@
         ]
     },
     {
-        "id": "679117",
+        "id": "2021964",
         "channel": "MERCAN TV",
-        "link": "https://list.iptvcat.com/my_list/s/dbaf9c46aaa810f76666051985e55b60.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/452e181685742649d13af222fcd7ca48.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -13437,7 +13437,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -13479,7 +13479,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -13549,9 +13549,9 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "4249",
         "URI": [
             "turkey__2"
         ]
@@ -13561,8 +13561,8 @@
         "channel": "NILOYA TV",
         "link": "https://list.iptvcat.com/my_list/s/1103639d16bad6fc1e393c4dd06d6eaf.m3u8",
         "country": "turkey",
-        "liveliness": "44",
-        "status": "online",
+        "liveliness": "43",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -13577,7 +13577,7 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -13605,7 +13605,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -13675,7 +13675,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -13865,11 +13865,11 @@
         ]
     },
     {
-        "id": "2175534",
+        "id": "2455295",
         "channel": "Ordu BB TV",
-        "link": "https://list.iptvcat.com/my_list/s/9a320430cc16f9810b07d0ef5cadda11.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/c9df6f20d9888520e13d161a815d887e.m3u8",
         "country": "turkey",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -13879,11 +13879,11 @@
         ]
     },
     {
-        "id": "2455295",
+        "id": "2175534",
         "channel": "Ordu BB TV",
-        "link": "https://list.iptvcat.com/my_list/s/c9df6f20d9888520e13d161a815d887e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/9a320430cc16f9810b07d0ef5cadda11.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -13899,7 +13899,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -13913,7 +13913,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -13955,7 +13955,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -13983,7 +13983,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -14082,7 +14082,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14108,11 +14108,11 @@
         "channel": "S SPORT 2",
         "link": "https://list.iptvcat.com/my_list/s/78098cb523b709156a36282725e5f5f2.m3u8",
         "country": "turkey",
-        "liveliness": "36",
+        "liveliness": "37",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
+        "format": "fhd 2k",
+        "mbps": "22116",
         "URI": [
             "turkey__2"
         ]
@@ -14166,7 +14166,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -14182,7 +14182,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "turkey__2"
         ]
@@ -14208,7 +14208,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14364,7 +14364,7 @@
         "country": "turkey",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -14470,11 +14470,11 @@
         ]
     },
     {
-        "id": "2021918",
+        "id": "679080",
         "channel": "AKSU TV",
-        "link": "https://list.iptvcat.com/my_list/s/e7d4b5bcb5ceef77546eba4210bdcd8c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8c6fdb0f465541a51ddb21721f6ddf72.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -14484,11 +14484,11 @@
         ]
     },
     {
-        "id": "679080",
+        "id": "2021918",
         "channel": "AKSU TV",
-        "link": "https://list.iptvcat.com/my_list/s/8c6fdb0f465541a51ddb21721f6ddf72.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e7d4b5bcb5ceef77546eba4210bdcd8c.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -14532,23 +14532,9 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "1688",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2021917",
-        "channel": "AS TV",
-        "link": "https://list.iptvcat.com/my_list/s/64602fe21ee9fea53230b200c0ad3222.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "sd",
+        "mbps": "3239",
         "URI": [
             "turkey__2"
         ]
@@ -14559,6 +14545,20 @@
         "link": "https://list.iptvcat.com/my_list/s/fe2547fa8a59506c39aecb71ff5adfdf.m3u8",
         "country": "turkey",
         "liveliness": "27",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
+        "id": "2021917",
+        "channel": "AS TV",
+        "link": "https://list.iptvcat.com/my_list/s/64602fe21ee9fea53230b200c0ad3222.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -14586,9 +14586,9 @@
         "channel": "AUTOMOTO (FR)",
         "link": "https://list.iptvcat.com/my_list/s/559fa46fd656109e698452189e3e5f38.m3u8",
         "country": "turkey",
-        "liveliness": "48",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "liveliness": "46",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14616,7 +14616,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -14666,6 +14666,20 @@
         ]
     },
     {
+        "id": "2455176",
+        "channel": "Alanya Posta TV",
+        "link": "https://list.iptvcat.com/my_list/s/0e423e1a8c03d7c6c9cdc42f00f23250.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "142365",
         "channel": "Alanya Posta TV",
         "link": "https://list.iptvcat.com/my_list/s/2f4b5eb2cdb231e7b9a0ed39ec1ed7fe.m3u8",
@@ -14683,20 +14697,6 @@
         "id": "2175601",
         "channel": "Alanya Posta TV",
         "link": "https://list.iptvcat.com/my_list/s/47a85861f071bad2b00c638526765942.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2455176",
-        "channel": "Alanya Posta TV",
-        "link": "https://list.iptvcat.com/my_list/s/0e423e1a8c03d7c6c9cdc42f00f23250.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -14838,7 +14838,7 @@
         "channel": "BEIN MOVIES ACTION",
         "link": "https://list.iptvcat.com/my_list/s/4d6af08c9f1e919d839baf5b66cb113e.m3u8",
         "country": "turkey",
-        "liveliness": "52",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -14854,7 +14854,7 @@
         "link": "https://list.iptvcat.com/my_list/s/47f93b59c155e91fe0e577ab796eeeeb.m3u8",
         "country": "turkey",
         "liveliness": "48",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -14912,7 +14912,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -14938,9 +14938,9 @@
         "channel": "BOSS MOVIES 10",
         "link": "https://list.iptvcat.com/my_list/s/7c94140fa7c8fa6a9d3eb70f66ecadb9.m3u8",
         "country": "turkey",
-        "liveliness": "46",
+        "liveliness": "47",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14955,7 +14955,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -15033,9 +15033,9 @@
         ]
     },
     {
-        "id": "520655",
+        "id": "694005",
         "channel": "Berat TV",
-        "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
@@ -15047,9 +15047,9 @@
         ]
     },
     {
-        "id": "694005",
+        "id": "520655",
         "channel": "Berat TV",
-        "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
@@ -15075,13 +15075,13 @@
         ]
     },
     {
-        "id": "2915",
+        "id": "133443",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
         "URI": [
@@ -15089,9 +15089,9 @@
         ]
     },
     {
-        "id": "133443",
+        "id": "2915",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -15109,7 +15109,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -15152,7 +15152,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -15174,13 +15174,13 @@
         ]
     },
     {
-        "id": "2175615",
+        "id": "2267008",
         "channel": "Bursa TV",
-        "link": "https://list.iptvcat.com/my_list/s/09768f93637e3ef492a4dca36fd7f42c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3bdef81c44429ad3dd6c83118e1b4689.m3u8",
         "country": "turkey",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -15188,11 +15188,11 @@
         ]
     },
     {
-        "id": "2267008",
+        "id": "2175615",
         "channel": "Bursa TV",
-        "link": "https://list.iptvcat.com/my_list/s/3bdef81c44429ad3dd6c83118e1b4689.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/09768f93637e3ef492a4dca36fd7f42c.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -15223,8 +15223,8 @@
         "liveliness": "78",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey__2"
         ]
@@ -15250,7 +15250,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -15264,7 +15264,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -15278,7 +15278,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -15334,7 +15334,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -15388,9 +15388,9 @@
         "channel": "DISCOVERY ID",
         "link": "https://list.iptvcat.com/my_list/s/7380028c6e641775b54485c952972a07.m3u8",
         "country": "turkey",
-        "liveliness": "50",
+        "liveliness": "51",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -15432,7 +15432,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -15517,8 +15517,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "turkey__2"
         ]
@@ -15558,7 +15558,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -15626,8 +15626,8 @@
         "channel": "EGE TURK TV",
         "link": "https://list.iptvcat.com/my_list/s/5ae45619924264a29f783844123fcf50.m3u8",
         "country": "turkey",
-        "liveliness": "26",
-        "status": "offline",
+        "liveliness": "27",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -15656,7 +15656,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -15669,7 +15669,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a1f32e5c8dbe68b1ba8fecb85e83ce59.m3u8",
         "country": "turkey",
         "liveliness": "97",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -15683,7 +15683,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3206a8aaebf68fbebfe46ae082341d2f.m3u8",
         "country": "turkey",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -15712,7 +15712,7 @@
         "country": "turkey",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -15768,7 +15768,7 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -15794,11 +15794,11 @@
         "channel": "EURO D",
         "link": "https://list.iptvcat.com/my_list/s/d80eeddc82d684033527132915a903e7.m3u8",
         "country": "turkey",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "turkey__2"
         ]
@@ -15810,7 +15810,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -15853,7 +15853,7 @@
         "country": "turkey",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -15881,7 +15881,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -15908,11 +15908,11 @@
         "channel": "FOX",
         "link": "https://list.iptvcat.com/my_list/s/dd1a788e4d64a9b281db2ea51dd2f2d4.m3u8",
         "country": "turkey",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey__2"
         ]
@@ -15924,7 +15924,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -15966,7 +15966,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -16050,7 +16050,7 @@
         "country": "turkey",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -16062,21 +16062,7 @@
         "channel": "GRT GAZiANTEP TV",
         "link": "https://list.iptvcat.com/my_list/s/e758c4421798017b87b16356222c5c8d.m3u8",
         "country": "turkey",
-        "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2175626",
-        "channel": "GRT Gaziantep",
-        "link": "https://list.iptvcat.com/my_list/s/9e39bcd7610b22c3f590bd573a18439b.m3u8",
-        "country": "turkey",
-        "liveliness": "95",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -16091,6 +16077,20 @@
         "link": "https://list.iptvcat.com/my_list/s/a43757b7898f8dc20450e2b6187ac893.m3u8",
         "country": "turkey",
         "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
+        "id": "2175626",
+        "channel": "GRT Gaziantep",
+        "link": "https://list.iptvcat.com/my_list/s/9e39bcd7610b22c3f590bd573a18439b.m3u8",
+        "country": "turkey",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -16190,7 +16190,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -16204,7 +16204,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -16234,7 +16234,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "4322, ...",
+        "mbps": "3625, ...",
         "URI": [
             "turkey__2"
         ]
@@ -16246,7 +16246,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16274,7 +16274,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16316,7 +16316,7 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -16346,7 +16346,7 @@
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
-        "mbps": "4322, ...",
+        "mbps": "3625, ...",
         "URI": [
             "turkey__2"
         ]
@@ -16372,7 +16372,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -16400,7 +16400,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -16498,7 +16498,7 @@
         "country": "turkey",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "9546",
         "URI": [
@@ -16512,7 +16512,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16540,7 +16540,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16554,7 +16554,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16567,7 +16567,7 @@
         "link": "https://list.iptvcat.com/my_list/s/9b4f3214c83f03af9992d2fa0ee9667c.m3u8",
         "country": "turkey",
         "liveliness": "94",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -16596,7 +16596,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16624,23 +16624,9 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "2098",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2668140",
-        "channel": "KANAL 42 KONYA",
-        "link": "https://list.iptvcat.com/my_list/s/3e24566b30c877d68d1f7ebe351a34e9.m3u8",
-        "country": "turkey",
-        "liveliness": "33",
-        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
-        "mbps": "1796",
+        "mbps": "2098",
         "URI": [
             "turkey__2"
         ]
@@ -16660,6 +16646,20 @@
         ]
     },
     {
+        "id": "2668140",
+        "channel": "KANAL 42 KONYA",
+        "link": "https://list.iptvcat.com/my_list/s/3e24566b30c877d68d1f7ebe351a34e9.m3u8",
+        "country": "turkey",
+        "liveliness": "33",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "2021956",
         "channel": "KANAL 65",
         "link": "https://list.iptvcat.com/my_list/s/d30a95601b39347bc746829eb404ea63.m3u8",
@@ -16674,11 +16674,11 @@
         ]
     },
     {
-        "id": "679111",
+        "id": "2021957",
         "channel": "KANAL 68",
-        "link": "https://list.iptvcat.com/my_list/s/608183786a66da2c9cf6e4906cd1ab00.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b3ed0b885dcc58ef2ac2c8b19fb773c6.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -16688,11 +16688,11 @@
         ]
     },
     {
-        "id": "2021957",
+        "id": "679111",
         "channel": "KANAL 68",
-        "link": "https://list.iptvcat.com/my_list/s/b3ed0b885dcc58ef2ac2c8b19fb773c6.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/608183786a66da2c9cf6e4906cd1ab00.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -16750,7 +16750,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -16792,7 +16792,7 @@
         "country": "turkey",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16890,7 +16890,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -16912,20 +16912,6 @@
         ]
     },
     {
-        "id": "2175591",
-        "channel": "Kanal 23",
-        "link": "https://list.iptvcat.com/my_list/s/75c67beb32cd7da8d9c41ca7db65bf51.m3u8",
-        "country": "turkey",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "8378, ...",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
         "id": "2455233",
         "channel": "Kanal 23",
         "link": "https://list.iptvcat.com/my_list/s/7399db65461474521dcb721cfd0f154a.m3u8",
@@ -16940,13 +16926,27 @@
         ]
     },
     {
+        "id": "2175591",
+        "channel": "Kanal 23",
+        "link": "https://list.iptvcat.com/my_list/s/75c67beb32cd7da8d9c41ca7db65bf51.m3u8",
+        "country": "turkey",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "8378, ...",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "2455235",
         "channel": "Kanal 26",
         "link": "https://list.iptvcat.com/my_list/s/8c2269f7cf3cd01ab6ade8e8332d283e.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -16974,7 +16974,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -17010,13 +17010,13 @@
         ]
     },
     {
-        "id": "2472484",
+        "id": "2665959",
         "channel": "Kanal 33 (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/34ee8bc72277fd2b57122743f3a6632c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/46d6523d3359ca523a7014d22f535105.m3u8",
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -17024,9 +17024,9 @@
         ]
     },
     {
-        "id": "2665959",
+        "id": "2472484",
         "channel": "Kanal 33 (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/46d6523d3359ca523a7014d22f535105.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/34ee8bc72277fd2b57122743f3a6632c.m3u8",
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
@@ -17072,7 +17072,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1783",
         "URI": [
@@ -17170,7 +17170,7 @@
         "country": "turkey",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -17276,11 +17276,11 @@
         ]
     },
     {
-        "id": "2021918",
+        "id": "679080",
         "channel": "AKSU TV",
-        "link": "https://list.iptvcat.com/my_list/s/e7d4b5bcb5ceef77546eba4210bdcd8c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8c6fdb0f465541a51ddb21721f6ddf72.m3u8",
         "country": "turkey",
-        "liveliness": "100",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -17290,11 +17290,11 @@
         ]
     },
     {
-        "id": "679080",
+        "id": "2021918",
         "channel": "AKSU TV",
-        "link": "https://list.iptvcat.com/my_list/s/8c6fdb0f465541a51ddb21721f6ddf72.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e7d4b5bcb5ceef77546eba4210bdcd8c.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -17338,23 +17338,9 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
-        "format": "sd",
-        "mbps": "1688",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2021917",
-        "channel": "AS TV",
-        "link": "https://list.iptvcat.com/my_list/s/64602fe21ee9fea53230b200c0ad3222.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "sd",
+        "mbps": "3239",
         "URI": [
             "turkey__2"
         ]
@@ -17365,6 +17351,20 @@
         "link": "https://list.iptvcat.com/my_list/s/fe2547fa8a59506c39aecb71ff5adfdf.m3u8",
         "country": "turkey",
         "liveliness": "27",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
+        "id": "2021917",
+        "channel": "AS TV",
+        "link": "https://list.iptvcat.com/my_list/s/64602fe21ee9fea53230b200c0ad3222.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -17392,9 +17392,9 @@
         "channel": "AUTOMOTO (FR)",
         "link": "https://list.iptvcat.com/my_list/s/559fa46fd656109e698452189e3e5f38.m3u8",
         "country": "turkey",
-        "liveliness": "48",
-        "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "liveliness": "46",
+        "status": "offline",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -17422,7 +17422,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -17472,6 +17472,20 @@
         ]
     },
     {
+        "id": "2455176",
+        "channel": "Alanya Posta TV",
+        "link": "https://list.iptvcat.com/my_list/s/0e423e1a8c03d7c6c9cdc42f00f23250.m3u8",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "turkey__2"
+        ]
+    },
+    {
         "id": "142365",
         "channel": "Alanya Posta TV",
         "link": "https://list.iptvcat.com/my_list/s/2f4b5eb2cdb231e7b9a0ed39ec1ed7fe.m3u8",
@@ -17489,20 +17503,6 @@
         "id": "2175601",
         "channel": "Alanya Posta TV",
         "link": "https://list.iptvcat.com/my_list/s/47a85861f071bad2b00c638526765942.m3u8",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "turkey__2"
-        ]
-    },
-    {
-        "id": "2455176",
-        "channel": "Alanya Posta TV",
-        "link": "https://list.iptvcat.com/my_list/s/0e423e1a8c03d7c6c9cdc42f00f23250.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -17644,7 +17644,7 @@
         "channel": "BEIN MOVIES ACTION",
         "link": "https://list.iptvcat.com/my_list/s/4d6af08c9f1e919d839baf5b66cb113e.m3u8",
         "country": "turkey",
-        "liveliness": "52",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
@@ -17660,7 +17660,7 @@
         "link": "https://list.iptvcat.com/my_list/s/47f93b59c155e91fe0e577ab796eeeeb.m3u8",
         "country": "turkey",
         "liveliness": "48",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -17718,7 +17718,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -17744,9 +17744,9 @@
         "channel": "BOSS MOVIES 10",
         "link": "https://list.iptvcat.com/my_list/s/7c94140fa7c8fa6a9d3eb70f66ecadb9.m3u8",
         "country": "turkey",
-        "liveliness": "46",
+        "liveliness": "47",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -17761,7 +17761,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -17839,9 +17839,9 @@
         ]
     },
     {
-        "id": "520655",
+        "id": "694005",
         "channel": "Berat TV",
-        "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
@@ -17853,9 +17853,9 @@
         ]
     },
     {
-        "id": "694005",
+        "id": "520655",
         "channel": "Berat TV",
-        "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
@@ -17881,13 +17881,13 @@
         ]
     },
     {
-        "id": "2915",
+        "id": "133443",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
         "URI": [
@@ -17895,9 +17895,9 @@
         ]
     },
     {
-        "id": "133443",
+        "id": "2915",
         "channel": "Beşiktaş Web TV",
-        "link": "https://list.iptvcat.com/my_list/s/418624c923554c6a86f8b7aa9b3c3873.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/87a8961315ba428316587e8196d1acd7.m3u8",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
@@ -17915,7 +17915,7 @@
         "country": "turkey",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -17958,7 +17958,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -17980,13 +17980,13 @@
         ]
     },
     {
-        "id": "2175615",
+        "id": "2267008",
         "channel": "Bursa TV",
-        "link": "https://list.iptvcat.com/my_list/s/09768f93637e3ef492a4dca36fd7f42c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3bdef81c44429ad3dd6c83118e1b4689.m3u8",
         "country": "turkey",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -17994,11 +17994,11 @@
         ]
     },
     {
-        "id": "2267008",
+        "id": "2175615",
         "channel": "Bursa TV",
-        "link": "https://list.iptvcat.com/my_list/s/3bdef81c44429ad3dd6c83118e1b4689.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/09768f93637e3ef492a4dca36fd7f42c.m3u8",
         "country": "turkey",
-        "liveliness": "94",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
@@ -18029,8 +18029,8 @@
         "liveliness": "78",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "turkey__2"
         ]
@@ -18056,7 +18056,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -18070,7 +18070,7 @@
         "country": "turkey",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -18084,7 +18084,7 @@
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -18140,7 +18140,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -18194,9 +18194,9 @@
         "channel": "DISCOVERY ID",
         "link": "https://list.iptvcat.com/my_list/s/7380028c6e641775b54485c952972a07.m3u8",
         "country": "turkey",
-        "liveliness": "50",
+        "liveliness": "51",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -18238,7 +18238,7 @@
         "country": "turkey",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -18323,8 +18323,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "turkey__2"
         ]
@@ -18364,7 +18364,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -18432,8 +18432,8 @@
         "channel": "EGE TURK TV",
         "link": "https://list.iptvcat.com/my_list/s/5ae45619924264a29f783844123fcf50.m3u8",
         "country": "turkey",
-        "liveliness": "26",
-        "status": "offline",
+        "liveliness": "27",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -18462,7 +18462,7 @@
         "country": "turkey",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-01-29T00:00:00Z",
+        "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -18475,7 +18475,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a1f32e5c8dbe68b1ba8fecb85e83ce59.m3u8",
         "country": "turkey",
         "liveliness": "97",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
