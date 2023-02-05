@@ -6,7 +6,7 @@
         "country": "romania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "romania",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "romania",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -60,11 +60,11 @@
         "channel": "Telestar 1",
         "link": "https://list.iptvcat.com/my_list/s/1008a6f4c274ee41d996422a3410622c.m3u8",
         "country": "romania",
-        "liveliness": "82",
-        "status": "offline",
+        "liveliness": "83",
+        "status": "online",
         "lastChecked": "2023-02-04T00:00:00Z",
         "format": "sd",
-        "mbps": "1280",
+        "mbps": "899",
         "URI": [
             "s"
         ]
@@ -74,9 +74,9 @@
         "channel": "HBO",
         "link": "https://list.iptvcat.com/my_list/s/fa57beb4c87882e7c4c83afdc0013141.m3u8",
         "country": "romania",
-        "liveliness": "82",
+        "liveliness": "80",
         "status": "offline",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -118,9 +118,9 @@
         "country": "romania",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-02-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -146,7 +146,7 @@
         "country": "romania",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -159,8 +159,8 @@
         "link": "https://list.iptvcat.com/my_list/s/a0977126eaec9cc9eee8922bbc16a2e0.m3u8",
         "country": "romania",
         "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -174,23 +174,9 @@
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2671771",
-        "channel": "Cinemax",
-        "link": "https://list.iptvcat.com/my_list/s/08e16da963f917cb870366af70da5c30.m3u8",
-        "country": "romania",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2023-02-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
         "URI": [
             "s"
         ]
@@ -210,13 +196,27 @@
         ]
     },
     {
+        "id": "2671771",
+        "channel": "Cinemax",
+        "link": "https://list.iptvcat.com/my_list/s/08e16da963f917cb870366af70da5c30.m3u8",
+        "country": "romania",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2023-02-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2596422",
         "channel": "Cinemax 2",
         "link": "https://list.iptvcat.com/my_list/s/748093592fb766777ab33bfdf46334a5.m3u8",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -230,9 +230,9 @@
         "country": "romania",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -258,21 +258,7 @@
         "country": "romania",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2671891",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/cdc51cec8bbf9906b262e37789107eaa.m3u8",
-        "country": "romania",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -294,13 +280,27 @@
         ]
     },
     {
+        "id": "2671891",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/cdc51cec8bbf9906b262e37789107eaa.m3u8",
+        "country": "romania",
+        "liveliness": "84",
+        "status": "online",
+        "lastChecked": "2023-02-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2596434",
         "channel": "Disney Jr",
         "link": "https://list.iptvcat.com/my_list/s/6c5d56baac37eee7a861271785d9cb6a.m3u8",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -312,9 +312,9 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/e1a33e530fe8af2759f47f2460210c46.m3u8",
         "country": "romania",
-        "liveliness": "93",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2023-02-04T00:00:00Z",
+        "lastChecked": "2023-02-05T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
