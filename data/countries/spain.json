@@ -32,8 +32,8 @@
         "channel": "MOVISTAR Accion",
         "link": "https://list.iptvcat.com/my_list/s/b6f881ebb7614521824491df9df08d56.m3u8",
         "country": "spain",
-        "liveliness": "83",
-        "status": "online",
+        "liveliness": "81",
+        "status": "offline",
         "lastChecked": "2023-02-08T00:00:00Z",
         "format": "sd",
         "mbps": "11105",
@@ -76,7 +76,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -102,11 +102,11 @@
         "channel": "MOVISTAR Deportes",
         "link": "https://list.iptvcat.com/my_list/s/909dad909aca574f317be67153116038.m3u8",
         "country": "spain",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-02-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -116,11 +116,11 @@
         "channel": "MOVISTAR Deportes 5",
         "link": "https://list.iptvcat.com/my_list/s/78f5add31af60a516e34943cb5ea8c45.m3u8",
         "country": "spain",
-        "liveliness": "79",
-        "status": "offline",
+        "liveliness": "80",
+        "status": "online",
         "lastChecked": "2023-02-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "s"
         ]
@@ -130,9 +130,9 @@
         "channel": "MOVISTAR Deportes 6",
         "link": "https://list.iptvcat.com/my_list/s/4c3d8d2ae404178a56ce6dc932420f77.m3u8",
         "country": "spain",
-        "liveliness": "79",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "spain",
         "liveliness": "76",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -160,9 +160,9 @@
         "country": "spain",
         "liveliness": "80",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2023-02-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -200,9 +200,9 @@
         "channel": "MOVISTAR Golf",
         "link": "https://list.iptvcat.com/my_list/s/d1924fe7cb8c326b696312d9ce373901.m3u8",
         "country": "spain",
-        "liveliness": "79",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -230,7 +230,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -266,20 +266,6 @@
         ]
     },
     {
-        "id": "2483793",
-        "channel": "MOVISTAR LIGA DE CAMPEONES",
-        "link": "https://list.iptvcat.com/my_list/s/bb864194012d28eaa694706bf9d1883a.m3u8",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2674169",
         "channel": "MOVISTAR LIGA DE CAMPEONES",
         "link": "https://list.iptvcat.com/my_list/s/a383c57ff5eb89ff4939b868718f1cfc.m3u8",
@@ -294,15 +280,29 @@
         ]
     },
     {
+        "id": "2483793",
+        "channel": "MOVISTAR LIGA DE CAMPEONES",
+        "link": "https://list.iptvcat.com/my_list/s/bb864194012d28eaa694706bf9d1883a.m3u8",
+        "country": "spain",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-02-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2674171",
         "channel": "MOVISTAR LIGA DE CAMPEONES 2",
         "link": "https://list.iptvcat.com/my_list/s/1d0c80125df5d9d86da1fe6ff1712241.m3u8",
         "country": "spain",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -326,11 +326,11 @@
         "channel": "MOVISTAR La Resistencia",
         "link": "https://list.iptvcat.com/my_list/s/e4347a43c09d2258514ffc1a4c0dcae8.m3u8",
         "country": "spain",
-        "liveliness": "74",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2023-02-08T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -368,11 +368,11 @@
         "channel": "MOVISTAR LaLiga 4",
         "link": "https://list.iptvcat.com/my_list/s/065ab8e991955a4047977859987b6d3f.m3u8",
         "country": "spain",
-        "liveliness": "79",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-02-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -382,11 +382,11 @@
         "channel": "MOVISTAR LaLiga 5",
         "link": "https://list.iptvcat.com/my_list/s/88831f0ff88cf5da2ed5dab5e773fba6.m3u8",
         "country": "spain",
-        "liveliness": "76",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-02-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -414,7 +414,7 @@
         "status": "online",
         "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -468,7 +468,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -482,7 +482,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -538,7 +538,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -622,7 +622,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -636,7 +636,7 @@
         "country": "spain",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -664,7 +664,7 @@
         "country": "spain",
         "liveliness": "76",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -676,11 +676,11 @@
         "channel": "HBO Signature",
         "link": "https://list.iptvcat.com/my_list/s/24cb893435401792ad17c2bb2c0b98d7.m3u8",
         "country": "spain",
-        "liveliness": "81",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -761,7 +761,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c771afd3d95b4c30e8f9c27f89b1f14e.m3u8",
         "country": "spain",
         "liveliness": "37",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-02-08T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -818,7 +818,7 @@
         "country": "spain",
         "liveliness": "70",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -874,7 +874,7 @@
         "country": "spain",
         "liveliness": "49",
         "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -886,9 +886,9 @@
         "channel": "Netflix Horror",
         "link": "https://list.iptvcat.com/my_list/s/c80dbecff2789a6709ba47b2ecca7136.m3u8",
         "country": "spain",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-02-07T00:00:00Z",
+        "liveliness": "49",
+        "status": "offline",
+        "lastChecked": "2023-02-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
