@@ -18,7 +18,7 @@
         "channel": "Great Movies +1",
         "link": "https://list.iptvcat.com/my_list/s/4deca2b838f980d5afc405e802a72995.m3u8",
         "country": "united kingdom",
-        "liveliness": "79",
+        "liveliness": "80",
         "status": "online",
         "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
@@ -32,9 +32,9 @@
         "channel": "Great Movies Action +1",
         "link": "https://list.iptvcat.com/my_list/s/d3583991e9e4115339d2f8f0487aaf25.m3u8",
         "country": "united kingdom",
-        "liveliness": "81",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -60,9 +60,9 @@
         "channel": "Great Movies Classic +1",
         "link": "https://list.iptvcat.com/my_list/s/18440645f9f785ecd9348f7507be947c.m3u8",
         "country": "united kingdom",
-        "liveliness": "77",
-        "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "liveliness": "76",
+        "status": "offline",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "united kingdom",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -126,12 +126,12 @@
         ]
     },
     {
-        "id": "2683569",
-        "channel": "VIP B4U MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/18db6aef653b6fad74dd3f147d194baf.m3u8",
+        "id": "2667802",
+        "channel": "VIP TCM MOVIES",
+        "link": "https://list.iptvcat.com/my_list/s/294889a20d1148288af323df7be3c1ed.m3u8",
         "country": "united kingdom",
-        "liveliness": "6",
-        "status": "offline",
+        "liveliness": "37",
+        "status": "online",
         "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -160,7 +160,7 @@
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -186,11 +186,11 @@
         "channel": "Sky Cinema Action",
         "link": "https://list.iptvcat.com/my_list/s/52ff3b7a2e1fd152bfdcc9c929ab8d3e.m3u8",
         "country": "united kingdom",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2023-02-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -216,7 +216,7 @@
         "country": "united kingdom",
         "liveliness": "78",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -230,7 +230,7 @@
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -241,6 +241,20 @@
         "id": "2596176",
         "channel": "Sky Cinema Comedy",
         "link": "https://list.iptvcat.com/my_list/s/7bd5fa15099267280f9d0e5378e1aca2.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-02-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596177",
+        "channel": "Sky Cinema Drama",
+        "link": "https://list.iptvcat.com/my_list/s/648087fadd70fe974c754eb824976a63.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
@@ -266,20 +280,6 @@
         ]
     },
     {
-        "id": "2596177",
-        "channel": "Sky Cinema Drama",
-        "link": "https://list.iptvcat.com/my_list/s/648087fadd70fe974c754eb824976a63.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-02-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2596178",
         "channel": "Sky Cinema Family",
         "link": "https://list.iptvcat.com/my_list/s/5bbb04cdb6b9519c18b789073b0e380c.m3u8",
@@ -298,7 +298,7 @@
         "channel": "Sky Cinema Family",
         "link": "https://list.iptvcat.com/my_list/s/e487c4ad691d02e19efc910b451af799.m3u8",
         "country": "united kingdom",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2023-02-21T00:00:00Z",
         "format": "fhd 2k",
@@ -340,8 +340,8 @@
         "channel": "Sky Cinema Hits",
         "link": "https://list.iptvcat.com/my_list/s/3bc749f34aa0279f17c3ac05e7d340a3.m3u8",
         "country": "united kingdom",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -370,7 +370,7 @@
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -398,7 +398,7 @@
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -420,20 +420,6 @@
         ]
     },
     {
-        "id": "2672560",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/fd837846b2a6557ac3a06bedb8e43ca9.m3u8",
-        "country": "united kingdom",
-        "liveliness": "79",
-        "status": "online",
-        "lastChecked": "2023-02-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2497189",
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/dc691867af329b4e9fb2ff945694ee28.m3u8",
@@ -448,13 +434,27 @@
         ]
     },
     {
+        "id": "2672560",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/fd837846b2a6557ac3a06bedb8e43ca9.m3u8",
+        "country": "united kingdom",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2023-02-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "3429",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2672565",
         "channel": "Disney XD",
         "link": "https://list.iptvcat.com/my_list/s/ac01a33afcbc97b2cfeb0e428e75d8bb.m3u8",
         "country": "united kingdom",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
