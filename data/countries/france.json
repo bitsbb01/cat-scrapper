@@ -4,9 +4,9 @@
         "channel": "BTV MOVIES 1",
         "link": "https://list.iptvcat.com/my_list/s/d8705b2915e876412e59ebc04d653d94.m3u8",
         "country": "france",
-        "liveliness": "27",
+        "liveliness": "21",
         "status": "offline",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "3064",
         "URI": [
@@ -18,9 +18,9 @@
         "channel": "BTV MOVIES 3",
         "link": "https://list.iptvcat.com/my_list/s/715e28c1e6651b3b6397869d92f0687f.m3u8",
         "country": "france",
-        "liveliness": "63",
-        "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "3064",
         "URI": [
@@ -32,9 +32,9 @@
         "channel": "BTV MOVIES 7",
         "link": "https://list.iptvcat.com/my_list/s/7750191c4d47f1e60b8e00e663d555e1.m3u8",
         "country": "france",
-        "liveliness": "42",
+        "liveliness": "43",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "sd",
         "mbps": "3059",
         "URI": [
@@ -46,9 +46,9 @@
         "channel": "C STAR",
         "link": "https://list.iptvcat.com/my_list/s/0e070b9cd5b9422276fe1c41f333a772.m3u8",
         "country": "france",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -60,9 +60,9 @@
         "channel": "DanceStar LOCAL MUSIC TV",
         "link": "https://list.iptvcat.com/my_list/s/6d9ad84090254cde460016aabadaa8f2.m3u8",
         "country": "france",
-        "liveliness": "52",
+        "liveliness": "53",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -105,8 +105,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-02-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "s"
         ]
@@ -116,11 +116,25 @@
         "channel": "TCM CINEMA",
         "link": "https://list.iptvcat.com/my_list/s/c0a3bc39bba364aa08c9608f9a7ddd16.m3u8",
         "country": "france",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "4969",
+        "lastChecked": "2023-02-21T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2683486",
+        "channel": "DISNEY CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/ceac65d6bc56b5cca3cd73db61c24f4c.m3u8",
+        "country": "france",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2023-02-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -132,21 +146,7 @@
         "country": "france",
         "liveliness": "65",
         "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2683486",
-        "channel": "DISNEY CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/ceac65d6bc56b5cca3cd73db61c24f4c.m3u8",
-        "country": "france",
-        "liveliness": "75",
-        "status": "online",
-        "lastChecked": "2023-02-20T00:00:00Z",
+        "lastChecked": "2023-02-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -161,8 +161,8 @@
         "liveliness": "81",
         "status": "online",
         "lastChecked": "2023-02-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "s"
         ]
@@ -186,7 +186,7 @@
         "channel": "DISNEY+",
         "link": "https://list.iptvcat.com/my_list/s/34ddeee136d543c17c04174bad22fd6c.m3u8",
         "country": "france",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2023-02-20T00:00:00Z",
         "format": "hd",
