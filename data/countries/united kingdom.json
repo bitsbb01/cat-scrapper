@@ -7,8 +7,8 @@
         "liveliness": "88",
         "status": "online",
         "lastChecked": "2023-02-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1190, ...",
+        "format": "hd",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -61,7 +61,7 @@
         "link": "https://list.iptvcat.com/my_list/s/18440645f9f785ecd9348f7507be947c.m3u8",
         "country": "united kingdom",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2023-02-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -104,7 +104,7 @@
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
+        "lastChecked": "2023-02-23T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -117,7 +117,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b4dd3b6b8921da35d67bdc03d927cf87.m3u8",
         "country": "united kingdom",
         "liveliness": "85",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-02-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -146,7 +146,7 @@
         "country": "united kingdom",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
+        "lastChecked": "2023-02-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
+        "lastChecked": "2023-02-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -203,20 +203,6 @@
         "liveliness": "73",
         "status": "online",
         "lastChecked": "2023-02-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596175",
-        "channel": "Sky Cinema Animation",
-        "link": "https://list.iptvcat.com/my_list/s/c4c0f9fd4722babaea5d748f6067740f.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -233,6 +219,20 @@
         "lastChecked": "2023-02-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596175",
+        "channel": "Sky Cinema Animation",
+        "link": "https://list.iptvcat.com/my_list/s/c4c0f9fd4722babaea5d748f6067740f.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-02-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -286,7 +286,7 @@
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
+        "lastChecked": "2023-02-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -312,8 +312,8 @@
         "channel": "Sky Cinema Greats",
         "link": "https://list.iptvcat.com/my_list/s/29ea1076826c59163ac5de10d20e64a0.m3u8",
         "country": "united kingdom",
-        "liveliness": "77",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2023-02-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -328,21 +328,7 @@
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596180",
-        "channel": "Sky Cinema Hits",
-        "link": "https://list.iptvcat.com/my_list/s/b492c40350fcbaa633bf43e83239bf78.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
+        "lastChecked": "2023-02-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -354,11 +340,25 @@
         "channel": "Sky Cinema Hits",
         "link": "https://list.iptvcat.com/my_list/s/3bc749f34aa0279f17c3ac05e7d340a3.m3u8",
         "country": "united kingdom",
-        "liveliness": "77",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2023-02-23T00:00:00Z",
         "format": "sd",
         "mbps": "136",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596180",
+        "channel": "Sky Cinema Hits",
+        "link": "https://list.iptvcat.com/my_list/s/b492c40350fcbaa633bf43e83239bf78.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-02-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -398,7 +398,7 @@
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-02-22T00:00:00Z",
+        "lastChecked": "2023-02-23T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -420,20 +420,6 @@
         ]
     },
     {
-        "id": "2497189",
-        "channel": "Disney Channel",
-        "link": "https://list.iptvcat.com/my_list/s/dc691867af329b4e9fb2ff945694ee28.m3u8",
-        "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-02-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2672560",
         "channel": "Disney Channel",
         "link": "https://list.iptvcat.com/my_list/s/fd837846b2a6557ac3a06bedb8e43ca9.m3u8",
@@ -443,6 +429,20 @@
         "lastChecked": "2023-02-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2497189",
+        "channel": "Disney Channel",
+        "link": "https://list.iptvcat.com/my_list/s/dc691867af329b4e9fb2ff945694ee28.m3u8",
+        "country": "united kingdom",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-02-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
         "URI": [
             "s"
         ]
