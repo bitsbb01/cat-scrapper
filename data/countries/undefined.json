@@ -6,7 +6,7 @@
         "country": "undefined",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "undefined",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -48,9 +48,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-03-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
         "URI": [
             "s"
         ]
@@ -62,7 +62,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -88,9 +88,9 @@
         "channel": "MBC 5 4K (HEVC)",
         "link": "https://list.iptvcat.com/my_list/s/eb90922f079a8cd900f5fca28efa7e5c.m3u8",
         "country": "undefined",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "undefined",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -146,9 +146,9 @@
         "country": "undefined",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2023-03-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
         "URI": [
             "s"
         ]
@@ -160,7 +160,7 @@
         "country": "undefined",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -172,9 +172,9 @@
         "channel": "MBC MAX  4K (HEVC)",
         "link": "https://list.iptvcat.com/my_list/s/164d86b7d40ccb9fefdf010da5aec737.m3u8",
         "country": "undefined",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "liveliness": "94",
+        "status": "offline",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -186,9 +186,9 @@
         "channel": "MBC PANORAMA FM  4K (H264)",
         "link": "https://list.iptvcat.com/my_list/s/8fb6fa902399205216817e26aa8456ea.m3u8",
         "country": "undefined",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -200,9 +200,9 @@
         "channel": "MBC VARIETY  4K (H265)",
         "link": "https://list.iptvcat.com/my_list/s/710f441d787d667922b7b5b906c9570d.m3u8",
         "country": "undefined",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -238,6 +238,132 @@
         ]
     },
     {
+        "id": "2690127",
+        "channel": "OSN : HD MBC 5",
+        "link": "https://list.iptvcat.com/my_list/s/48987e4554a10abf1624be59079105c2.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690141",
+        "channel": "OSN : HD MBC BOLLYWOOD",
+        "link": "https://list.iptvcat.com/my_list/s/65c8888550aafca764315407c7014576.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690137",
+        "channel": "OSN : HD MBC DRAMA",
+        "link": "https://list.iptvcat.com/my_list/s/425b03db0c293dbd037e8efc0a2f246d.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690139",
+        "channel": "OSN : HD MBC DRAMA+",
+        "link": "https://list.iptvcat.com/my_list/s/01793eb483b247fd7df5be9e9047601a.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690130",
+        "channel": "OSN : HD MBC MAX",
+        "link": "https://list.iptvcat.com/my_list/s/0c86ca16543650f989e05a9aa6bacd1b.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690142",
+        "channel": "OSN : HD MBC MISRI 1",
+        "link": "https://list.iptvcat.com/my_list/s/bac8a49ac31ba8b3f2047f4277b84fe0.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690143",
+        "channel": "OSN : HD MBC MISRI 2",
+        "link": "https://list.iptvcat.com/my_list/s/11f9c000727d6217ea95365d2f0f7d77.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690135",
+        "channel": "OSN : HDMBC ACTION",
+        "link": "https://list.iptvcat.com/my_list/s/b3c32440e37a4de51938612b9f3f9e6a.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690136",
+        "channel": "OSN : HDMBC IRAQ",
+        "link": "https://list.iptvcat.com/my_list/s/7c6372a780577b88ceef522bf43fdd25.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "1200963",
         "channel": "Very Kansas City KMBC",
         "link": "https://list.iptvcat.com/my_list/s/8c0e6b58b9d9a0095e9b8d4506a19865.m3u8",
@@ -258,7 +384,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
@@ -272,7 +398,7 @@
         "country": "undefined",
         "liveliness": "72",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
         "URI": [
@@ -286,7 +412,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -300,7 +426,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -314,9 +440,9 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
-        "mbps": "1391",
+        "mbps": "1224",
         "URI": [
             "s"
         ]
@@ -328,7 +454,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -342,7 +468,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -356,7 +482,7 @@
         "country": "undefined",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -398,9 +524,37 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693141",
+        "channel": "FR_NETFLIX MOVIES 1",
+        "link": "https://list.iptvcat.com/my_list/s/b1be10dea68a78ebacb3a30a7486a58e.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693145",
+        "channel": "FR_NETFLIX MOVIES 2",
+        "link": "https://list.iptvcat.com/my_list/s/d4b0e72fcd8f824faa447e501fa792a5.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "4825",
         "URI": [
             "s"
         ]
@@ -412,7 +566,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -426,7 +580,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
         "URI": [
@@ -440,7 +594,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
         "URI": [
@@ -454,7 +608,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "663",
         "URI": [
@@ -468,7 +622,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "868",
         "URI": [
@@ -482,9 +636,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "3188, ...",
+        "mbps": "3064, ...",
         "URI": [
             "s"
         ]
@@ -496,7 +650,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -510,7 +664,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "3066, ...",
         "URI": [
@@ -524,7 +678,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -540,7 +694,7 @@
         "status": "online",
         "lastChecked": "2023-03-14T00:00:00Z",
         "format": "sd",
-        "mbps": "868",
+        "mbps": "1308",
         "URI": [
             "s"
         ]
@@ -552,7 +706,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -565,8 +719,8 @@
         "link": "https://list.iptvcat.com/my_list/s/3c3229251c298eaf635c38ba4d970fa4.m3u8",
         "country": "undefined",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -580,7 +734,7 @@
         "country": "undefined",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -594,7 +748,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -622,7 +776,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -636,7 +790,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -678,7 +832,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -692,7 +846,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -706,7 +860,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -748,7 +902,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "2637",
         "URI": [
@@ -776,7 +930,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -790,9 +944,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -804,9 +958,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -834,7 +988,7 @@
         "status": "online",
         "lastChecked": "2023-03-14T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -862,7 +1016,7 @@
         "status": "online",
         "lastChecked": "2023-03-14T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -874,9 +1028,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -888,9 +1042,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5991, ...",
         "URI": [
             "s"
         ]
@@ -916,7 +1070,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "10677, ...",
         "URI": [
@@ -930,7 +1084,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -944,9 +1098,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -960,7 +1114,7 @@
         "status": "online",
         "lastChecked": "2023-03-14T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -986,7 +1140,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -1000,7 +1154,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -1016,7 +1170,7 @@
         "status": "online",
         "lastChecked": "2023-03-14T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5991, ...",
         "URI": [
             "s"
         ]
@@ -1028,7 +1182,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "740",
         "URI": [
@@ -1042,7 +1196,7 @@
         "country": "undefined",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "1783",
         "URI": [
@@ -1056,9 +1210,23 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693074",
+        "channel": "majestic movies",
+        "link": "https://list.iptvcat.com/my_list/s/117a20bbbcb74dc0fdaebf6011804606.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6730",
         "URI": [
             "s"
         ]
@@ -1073,118 +1241,6 @@
         "lastChecked": "2023-03-14T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2560652",
-        "channel": "tvN Movies (Indonesian Subtitle) (576p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/02ee823c8d66249b4ee2ab4f0ea6ed39.m3u8",
-        "country": "undefined",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2677097",
-        "channel": "HBO 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/3ba24a49f3b616a5cc254aa05ffcb226.m3u8",
-        "country": "undefined",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "997004",
-        "channel": "HBO PREMIUM",
-        "link": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2593154",
-        "channel": "Cinema",
-        "link": "https://list.iptvcat.com/my_list/s/1f0783fd6fca8eb807bdb2759014bb77.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2606752",
-        "channel": "Cinema Segreto",
-        "link": "https://list.iptvcat.com/my_list/s/88b0d34fe627b2d13b332d6adebf87ab.m3u8",
-        "country": "undefined",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2578740",
-        "channel": "CinemaWorld (576p)",
-        "link": "https://list.iptvcat.com/my_list/s/c9d033890f691767dc500440a58538f4.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2576820",
-        "channel": "CinemaWorld (576p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/3739c7a39df027c0797687eb500c3eaf.m3u8",
-        "country": "undefined",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2577298",
-        "channel": "My Cinema (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/c19db93c40b3229e870fde085c3a9f24.m3u8",
-        "country": "undefined",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -1210,7 +1266,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "1328, ...",
         "URI": [
@@ -1260,6 +1316,20 @@
         ]
     },
     {
+        "id": "2694422",
+        "channel": "KIDS : HD DISNEY XD",
+        "link": "https://list.iptvcat.com/my_list/s/3a5c6754cd72223173ccd180e714463f.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2690081",
         "channel": "OSN : HD DISNEY",
         "link": "https://list.iptvcat.com/my_list/s/a8d910a926b4a0ea0c5161e7e85f6f3f.m3u8",
@@ -1294,7 +1364,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1308,9 +1378,121 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-14T00:00:00Z",
+        "lastChecked": "2023-03-15T00:00:00Z",
         "format": "sd",
         "mbps": "2308, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693085",
+        "channel": "FILMAX l NETFLIX HD",
+        "link": "https://list.iptvcat.com/my_list/s/fa4d99fc82c41826876bad1c7b310fbf.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "2620",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693141",
+        "channel": "FR_NETFLIX MOVIES 1",
+        "link": "https://list.iptvcat.com/my_list/s/b1be10dea68a78ebacb3a30a7486a58e.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693145",
+        "channel": "FR_NETFLIX MOVIES 2",
+        "link": "https://list.iptvcat.com/my_list/s/d4b0e72fcd8f824faa447e501fa792a5.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "4825",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693136",
+        "channel": "HFM : Netflix Action اكشن",
+        "link": "https://list.iptvcat.com/my_list/s/18a5ef5d50f50d25d44e550629bc9200.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693137",
+        "channel": "HFM : Netflix SciFi خيال علمي",
+        "link": "https://list.iptvcat.com/my_list/s/49c8451e55e530352dadca355d5905a2.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693138",
+        "channel": "NETFLIX : ACTION اكشن HD",
+        "link": "https://list.iptvcat.com/my_list/s/0485d9e882109fccca7ae05d5d368aab.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693140",
+        "channel": "NETFLIX : COMEDY كوميديا HD",
+        "link": "https://list.iptvcat.com/my_list/s/de674a014e65fce4e26d5feb33092101.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693139",
+        "channel": "NETFLIX : SCI-FI خيال علمي HD",
+        "link": "https://list.iptvcat.com/my_list/s/af9ac3ceb3015977c984388b97cbf374.m3u8",
+        "country": "undefined",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "s"
         ]
