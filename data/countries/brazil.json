@@ -6,7 +6,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7665",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "6449",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7665",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "8073",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "6315",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "5016",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "5041",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "5016",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "1356",
         "URI": [
@@ -1110,11 +1110,11 @@
         "channel": "HBO POP FHD (Legendado)",
         "link": "https://list.iptvcat.com/my_list/s/23ab18b64b2489ddb622a98718513dee.m3u8",
         "country": "brazil",
-        "liveliness": "50",
-        "status": "offline",
+        "liveliness": "67",
+        "status": "online",
         "lastChecked": "2023-03-15T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -1124,11 +1124,11 @@
         "channel": "HBO POP HD (Legendado)",
         "link": "https://list.iptvcat.com/my_list/s/2ed13aeb40f376f3d3196c8cde0652f3.m3u8",
         "country": "brazil",
-        "liveliness": "50",
-        "status": "offline",
+        "liveliness": "67",
+        "status": "online",
         "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -1924,23 +1924,9 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2685843",
-        "channel": "Cinemax FHD",
-        "link": "https://list.iptvcat.com/my_list/s/ed573e0cf13bb09c5ca5cb58a3f8bf6b.m3u8",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -1960,13 +1946,27 @@
         ]
     },
     {
+        "id": "2685843",
+        "channel": "Cinemax FHD",
+        "link": "https://list.iptvcat.com/my_list/s/ed573e0cf13bb09c5ca5cb58a3f8bf6b.m3u8",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2685847",
         "channel": "Cinemax FHD (H265)",
         "link": "https://list.iptvcat.com/my_list/s/7c5d169b80d8564fa6ac5182de0c455c.m3u8",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1980,7 +1980,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1992,11 +1992,11 @@
         "channel": "Cinemax HD",
         "link": "https://list.iptvcat.com/my_list/s/98441be4b1bcad7ae79ed542ca6ff09e.m3u8",
         "country": "brazil",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "liveliness": "40",
+        "status": "online",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "3799",
         "URI": [
             "s"
         ]
@@ -2008,7 +2008,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "2303",
         "URI": [
@@ -2162,9 +2162,9 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
-        "mbps": "6383",
+        "mbps": "6614",
         "URI": [
             "s"
         ]
@@ -2176,7 +2176,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "848",
         "URI": [
@@ -2204,7 +2204,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -2232,7 +2232,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -2260,7 +2260,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2288,7 +2288,7 @@
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "2734",
         "URI": [

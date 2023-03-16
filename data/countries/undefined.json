@@ -6,23 +6,9 @@
         "country": "undefined",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2591536",
-        "channel": "MBC 1 USA (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8",
-        "country": "undefined",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
         "URI": [
             "s"
         ]
@@ -37,6 +23,20 @@
         "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2591536",
+        "channel": "MBC 1 USA (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8",
+        "country": "undefined",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2023-03-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "s"
         ]
@@ -76,7 +76,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -88,9 +88,9 @@
         "channel": "MBC 5 4K (HEVC)",
         "link": "https://list.iptvcat.com/my_list/s/eb90922f079a8cd900f5fca28efa7e5c.m3u8",
         "country": "undefined",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "1704",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "undefined",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -174,9 +174,9 @@
         "country": "undefined",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-03-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -188,7 +188,7 @@
         "country": "undefined",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "undefined",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -384,7 +384,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
@@ -398,7 +398,7 @@
         "country": "undefined",
         "liveliness": "72",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "1567",
         "URI": [
@@ -412,7 +412,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -426,7 +426,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -440,9 +440,9 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1224",
+        "mbps": "1528",
         "URI": [
             "s"
         ]
@@ -454,7 +454,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -482,7 +482,7 @@
         "country": "undefined",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "1764, ...",
         "URI": [
@@ -524,7 +524,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -566,7 +566,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -580,7 +580,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "4825",
         "URI": [
@@ -622,7 +622,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "868",
         "URI": [
@@ -636,7 +636,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "3064, ...",
         "URI": [
@@ -650,7 +650,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -665,8 +665,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066, ...",
+        "format": "sd",
+        "mbps": "1190, ...",
         "URI": [
             "s"
         ]
@@ -678,7 +678,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -776,7 +776,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -832,7 +832,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -846,7 +846,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -860,7 +860,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -930,7 +930,7 @@
         "country": "undefined",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -944,7 +944,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -958,9 +958,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -972,9 +972,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1008,29 +1008,29 @@
         ]
     },
     {
+        "id": "2607327",
+        "channel": "Rakuten Comedy Movies",
+        "link": "https://list.iptvcat.com/my_list/s/696e3d4790d68f4fdb5aae5ccc9a80e7.m3u8",
+        "country": "undefined",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "4825, ...",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2606854",
         "channel": "Rakuten Comedy Movies",
         "link": "https://list.iptvcat.com/my_list/s/0dfd3e96422b63fe306cca701cc5bb9e.m3u8",
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2607327",
-        "channel": "Rakuten Comedy Movies",
-        "link": "https://list.iptvcat.com/my_list/s/696e3d4790d68f4fdb5aae5ccc9a80e7.m3u8",
-        "country": "undefined",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2023-03-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4825, ...",
         "URI": [
             "s"
         ]
@@ -1042,9 +1042,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -1055,10 +1055,10 @@
         "link": "https://list.iptvcat.com/my_list/s/e2b960d10d69f961b12f5189f0dee3d2.m3u8",
         "country": "undefined",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-03-15T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "s"
         ]
@@ -1098,9 +1098,9 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "s"
         ]
@@ -1140,7 +1140,7 @@
         "country": "undefined",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -1182,7 +1182,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "740",
         "URI": [
@@ -1196,7 +1196,7 @@
         "country": "undefined",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "1783",
         "URI": [
@@ -1210,7 +1210,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -1266,7 +1266,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "1328, ...",
         "URI": [
@@ -1364,7 +1364,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1378,7 +1378,7 @@
         "country": "undefined",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-15T00:00:00Z",
+        "lastChecked": "2023-03-16T00:00:00Z",
         "format": "sd",
         "mbps": "2308, ...",
         "URI": [
