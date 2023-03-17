@@ -5,8 +5,8 @@
         "link": "https://list.iptvcat.com/my_list/s/724e19f4b78db2357296b0cdc7447384.m3u8",
         "country": "portugal",
         "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-03-16T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -20,9 +20,23 @@
         "country": "portugal",
         "liveliness": "69",
         "status": "online",
+        "lastChecked": "2023-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1280",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2694544",
+        "channel": "AXN Movies HD",
+        "link": "https://list.iptvcat.com/my_list/s/106ac6012b1f7ca187a1293e893d836c.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2023-03-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -33,20 +47,6 @@
         "link": "https://list.iptvcat.com/my_list/s/b659ed40614f06261a97af3ddf16aee6.m3u8",
         "country": "portugal",
         "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2023-03-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596021",
-        "channel": "FOX Movies",
-        "link": "https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8",
-        "country": "portugal",
-        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-16T00:00:00Z",
         "format": "fhd 2k",
@@ -70,13 +70,27 @@
         ]
     },
     {
+        "id": "2596021",
+        "channel": "FOX Movies",
+        "link": "https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2691871",
         "channel": "HD FOX MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/ea6ee532c60aa1eebc697f52e975a71f.m3u8",
         "country": "portugal",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-03-16T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2023-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -90,9 +104,9 @@
         "country": "portugal",
         "liveliness": "70",
         "status": "online",
-        "lastChecked": "2023-03-16T00:00:00Z",
+        "lastChecked": "2023-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1153",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
@@ -104,7 +118,7 @@
         "country": "portugal",
         "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-16T00:00:00Z",
+        "lastChecked": "2023-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -116,11 +130,39 @@
         "channel": "Disney+",
         "link": "https://list.iptvcat.com/my_list/s/6abcb9595c5781adf4d1125941a0a0ad.m3u8",
         "country": "portugal",
-        "liveliness": "67",
+        "liveliness": "66",
         "status": "online",
-        "lastChecked": "2023-03-16T00:00:00Z",
+        "lastChecked": "2023-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3064",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2694623",
+        "channel": "PT DISNEY CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/22f1da0173e3453952fd0ad84707dc41.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2694625",
+        "channel": "PT DISNEY JUNIOR",
+        "link": "https://list.iptvcat.com/my_list/s/acbf4358f1171fd420c8db75ca9deee5.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
