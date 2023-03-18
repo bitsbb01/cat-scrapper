@@ -368,9 +368,9 @@
         "channel": "HD MBC DRAMA PLUS",
         "link": "https://list.iptvcat.com/my_list/s/95dcd39e41c744fac52a971e591d8921.m3u8",
         "country": "argentina",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -760,9 +760,9 @@
         "channel": "Sky Flix Movies",
         "link": "https://list.iptvcat.com/my_list/s/b45dd762494322ea2fb25c573677148a.m3u8",
         "country": "argentina",
-        "liveliness": "72",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -914,9 +914,9 @@
         "channel": "Sky Flix Movies",
         "link": "https://list.iptvcat.com/my_list/s/b45dd762494322ea2fb25c573677148a.m3u8",
         "country": "argentina",
-        "liveliness": "72",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1138,9 +1138,9 @@
         "channel": "SHOOF MAX CINEMA 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/722d3ec8b2cddfc1c5bbfb4b1df437b6.m3u8",
         "country": "argentina",
-        "liveliness": "67",
+        "liveliness": "71",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1194,7 +1194,7 @@
         "channel": "NETFLIX DISNEY  2",
         "link": "https://list.iptvcat.com/my_list/s/905ce08b19324e0b1f9954f00d68b90d.m3u8",
         "country": "argentina",
-        "liveliness": "20",
+        "liveliness": "17",
         "status": "offline",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
@@ -1260,20 +1260,6 @@
         ]
     },
     {
-        "id": "2693109",
-        "channel": "NETFLIX ACTION",
-        "link": "https://list.iptvcat.com/my_list/s/bc4f6c7d96de8e7128b12d2de7efbd04.m3u8",
-        "country": "argentina",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2693131",
         "channel": "NETFLIX ACTION",
         "link": "https://list.iptvcat.com/my_list/s/a079979ff9160350e61f85058dce6d68.m3u8",
@@ -1283,6 +1269,20 @@
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "8022",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2693109",
+        "channel": "NETFLIX ACTION",
+        "link": "https://list.iptvcat.com/my_list/s/bc4f6c7d96de8e7128b12d2de7efbd04.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -1404,7 +1404,7 @@
         "channel": "NETFLIX DISNEY  2",
         "link": "https://list.iptvcat.com/my_list/s/905ce08b19324e0b1f9954f00d68b90d.m3u8",
         "country": "argentina",
-        "liveliness": "20",
+        "liveliness": "17",
         "status": "offline",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",

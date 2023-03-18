@@ -4,7 +4,7 @@
         "channel": "AXN MOVIES",
         "link": "https://list.iptvcat.com/my_list/s/724e19f4b78db2357296b0cdc7447384.m3u8",
         "country": "portugal",
-        "liveliness": "38",
+        "liveliness": "30",
         "status": "offline",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
@@ -34,7 +34,7 @@
         "country": "portugal",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -48,21 +48,7 @@
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2596021",
-        "channel": "FOX Movies",
-        "link": "https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -76,9 +62,23 @@
         "country": "portugal",
         "liveliness": "71",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2596021",
+        "channel": "FOX Movies",
+        "link": "https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -144,8 +144,8 @@
         "channel": "PT DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/22f1da0173e3453952fd0ad84707dc41.m3u8",
         "country": "portugal",
-        "liveliness": "25",
-        "status": "offline",
+        "liveliness": "40",
+        "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
