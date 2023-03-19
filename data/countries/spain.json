@@ -172,11 +172,11 @@
         "channel": "MOVISTAR Cine Espanol",
         "link": "https://list.iptvcat.com/my_list/s/1e3d2160e0f4cb16bf07b234701dfa39.m3u8",
         "country": "spain",
-        "liveliness": "64",
-        "status": "offline",
+        "liveliness": "65",
+        "status": "online",
         "lastChecked": "2023-03-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -188,9 +188,9 @@
         "country": "spain",
         "liveliness": "66",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -202,7 +202,7 @@
         "country": "spain",
         "liveliness": "73",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -214,9 +214,9 @@
         "channel": "MOVISTAR Deportes 5",
         "link": "https://list.iptvcat.com/my_list/s/78f5add31af60a516e34943cb5ea8c45.m3u8",
         "country": "spain",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "66",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -256,9 +256,9 @@
         "channel": "MOVISTAR Estrenos 2",
         "link": "https://list.iptvcat.com/my_list/s/89d1204c7cea50bd7903906f18b11f46.m3u8",
         "country": "spain",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "66",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -285,8 +285,8 @@
         "link": "https://list.iptvcat.com/my_list/s/a383c57ff5eb89ff4939b868718f1cfc.m3u8",
         "country": "spain",
         "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -368,8 +368,8 @@
         "channel": "MOVISTAR LaLiga 5",
         "link": "https://list.iptvcat.com/my_list/s/88831f0ff88cf5da2ed5dab5e773fba6.m3u8",
         "country": "spain",
-        "liveliness": "65",
-        "status": "online",
+        "liveliness": "64",
+        "status": "offline",
         "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -382,9 +382,9 @@
         "channel": "MOVISTAR Series",
         "link": "https://list.iptvcat.com/my_list/s/8961446ec6f3b5d24b6f6da5b7208331.m3u8",
         "country": "spain",
-        "liveliness": "73",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "72",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -396,8 +396,8 @@
         "channel": "MOVISTAR Series 2",
         "link": "https://list.iptvcat.com/my_list/s/94fa807061142efb01a6d3c4e3ecb6a3.m3u8",
         "country": "spain",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -454,9 +454,37 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2688513",
+        "channel": "Movistar Accion HD",
+        "link": "https://list.iptvcat.com/my_list/s/db255640f1df70e59e33769036d0ef3c.m3u8",
+        "country": "spain",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2685920",
+        "channel": "Movistar Accion SD",
+        "link": "https://list.iptvcat.com/my_list/s/20bef0d1ca7487cecf32f1d39a9c4d7d.m3u8",
+        "country": "spain",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "s"
         ]
@@ -496,7 +524,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -510,7 +538,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -536,11 +564,11 @@
         "channel": "Disney Channel FHD",
         "link": "https://list.iptvcat.com/my_list/s/61c7fd91ff3dd3e77cfc6a27ba6298d8.m3u8",
         "country": "spain",
-        "liveliness": "56",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -550,7 +578,7 @@
         "channel": "Disney JR SD",
         "link": "https://list.iptvcat.com/my_list/s/934064ce354ebca34e713fe85c31ce7b.m3u8",
         "country": "spain",
-        "liveliness": "63",
+        "liveliness": "56",
         "status": "offline",
         "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
@@ -564,8 +592,8 @@
         "channel": "Disney Junior",
         "link": "https://list.iptvcat.com/my_list/s/f7f652edcb335f4ed8dc38c2c314c797.m3u8",
         "country": "spain",
-        "liveliness": "73",
-        "status": "online",
+        "liveliness": "72",
+        "status": "offline",
         "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -578,9 +606,9 @@
         "channel": "Disney+ HD",
         "link": "https://list.iptvcat.com/my_list/s/982a9a01dcee3b7339155c5eea011df3.m3u8",
         "country": "spain",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "56",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -636,7 +664,7 @@
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
