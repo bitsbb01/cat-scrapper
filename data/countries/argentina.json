@@ -21,8 +21,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "format": "fhd 2k",
+        "mbps": "22116",
         "URI": [
             "s"
         ]
@@ -35,8 +35,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -49,8 +49,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -91,8 +91,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -105,8 +105,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -204,7 +204,7 @@
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -217,22 +217,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2690197",
-        "channel": "HD MBC 3",
-        "link": "https://list.iptvcat.com/my_list/s/ac4b76f9749270bb677abdf5a2179cd8.m3u8",
-        "country": "argentina",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "22116",
         "URI": [
             "s"
         ]
@@ -252,9 +238,9 @@
         ]
     },
     {
-        "id": "2690198",
-        "channel": "HD MBC 4",
-        "link": "https://list.iptvcat.com/my_list/s/7c5c4a9a5a1ca094ae66d2dd81d1259f.m3u8",
+        "id": "2690197",
+        "channel": "HD MBC 3",
+        "link": "https://list.iptvcat.com/my_list/s/ac4b76f9749270bb677abdf5a2179cd8.m3u8",
         "country": "argentina",
         "liveliness": "100",
         "status": "online",
@@ -280,6 +266,20 @@
         ]
     },
     {
+        "id": "2690198",
+        "channel": "HD MBC 4",
+        "link": "https://list.iptvcat.com/my_list/s/7c5c4a9a5a1ca094ae66d2dd81d1259f.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2689876",
         "channel": "HD MBC 5",
         "link": "https://list.iptvcat.com/my_list/s/ec9b2d88fa65263fa6a6c482c44da155.m3u8",
@@ -289,20 +289,6 @@
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2690200",
-        "channel": "HD MBC ACTION",
-        "link": "https://list.iptvcat.com/my_list/s/c6e7ed71fad9528c5dee1da0185015d9.m3u8",
-        "country": "argentina",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -322,6 +308,20 @@
         ]
     },
     {
+        "id": "2690200",
+        "channel": "HD MBC ACTION",
+        "link": "https://list.iptvcat.com/my_list/s/c6e7ed71fad9528c5dee1da0185015d9.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2690204",
         "channel": "HD MBC BOLLYOOD",
         "link": "https://list.iptvcat.com/my_list/s/9086c5d23572b21d9274552949d6b519.m3u8",
@@ -329,8 +329,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -368,9 +368,9 @@
         "channel": "HD MBC DRAMA PLUS",
         "link": "https://list.iptvcat.com/my_list/s/95dcd39e41c744fac52a971e591d8921.m3u8",
         "country": "argentina",
-        "liveliness": "58",
-        "status": "online",
-        "lastChecked": "2023-03-24T00:00:00Z",
+        "liveliness": "52",
+        "status": "offline",
+        "lastChecked": "2023-03-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -462,23 +462,23 @@
         ]
     },
     {
-        "id": "2690201",
+        "id": "2692622",
         "channel": "HD MBC MAX",
-        "link": "https://list.iptvcat.com/my_list/s/92f724c89449a7dbe8db809842b6f6ca.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/994ec0e72a2f85f08f9b874ecaa6ede0.m3u8",
         "country": "argentina",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "2692622",
+        "id": "2690201",
         "channel": "HD MBC MAX",
-        "link": "https://list.iptvcat.com/my_list/s/994ec0e72a2f85f08f9b874ecaa6ede0.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/92f724c89449a7dbe8db809842b6f6ca.m3u8",
         "country": "argentina",
         "liveliness": "100",
         "status": "online",
@@ -608,7 +608,7 @@
         "country": "argentina",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-03-24T00:00:00Z",
+        "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -621,7 +621,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e9406c539703b039b19bf2c5beec261c.m3u8",
         "country": "argentina",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -686,25 +686,11 @@
         ]
     },
     {
-        "id": "2671663",
-        "channel": "Sky Flix Aflam 1",
-        "link": "https://list.iptvcat.com/my_list/s/1a744327cf2936f46844d1eac7562ce0.m3u8",
-        "country": "argentina",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2671671",
         "channel": "Sky Flix Aflam 2",
         "link": "https://list.iptvcat.com/my_list/s/16689b66244a5bfcecfb2892d9725814.m3u8",
         "country": "argentina",
-        "liveliness": "63",
+        "liveliness": "62",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
@@ -718,7 +704,7 @@
         "channel": "Sky Flix Box Office 1",
         "link": "https://list.iptvcat.com/my_list/s/eb8d2d3150a2983eb96364546659fb80.m3u8",
         "country": "argentina",
-        "liveliness": "63",
+        "liveliness": "62",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
@@ -732,7 +718,7 @@
         "channel": "Sky Flix Box Office 2",
         "link": "https://list.iptvcat.com/my_list/s/24b8dc84774ea64f6877c01063b6b424.m3u8",
         "country": "argentina",
-        "liveliness": "65",
+        "liveliness": "64",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
@@ -746,7 +732,7 @@
         "channel": "Sky Flix Movies",
         "link": "https://list.iptvcat.com/my_list/s/b45dd762494322ea2fb25c573677148a.m3u8",
         "country": "argentina",
-        "liveliness": "65",
+        "liveliness": "64",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
@@ -760,7 +746,7 @@
         "channel": "Sky News Arabia",
         "link": "https://list.iptvcat.com/my_list/s/d9a86c69a53c619521ba3fe8e1dc75a5.m3u8",
         "country": "argentina",
-        "liveliness": "66",
+        "liveliness": "65",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "sd",
@@ -777,8 +763,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "hd+",
-        "mbps": "9676",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -788,11 +774,11 @@
         "channel": "4K BEIN MOVIES 4",
         "link": "https://list.iptvcat.com/my_list/s/6bce6b0b6de33a97a4d445f3fecd0de8.m3u8",
         "country": "argentina",
-        "liveliness": "71",
+        "liveliness": "72",
         "status": "online",
-        "lastChecked": "2023-03-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "8276",
+        "lastChecked": "2023-03-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "s"
         ]
@@ -830,11 +816,11 @@
         "channel": "HD BEIN MOVIES 3",
         "link": "https://list.iptvcat.com/my_list/s/f44f733e3dc45a8068fd2840e2c6ea08.m3u8",
         "country": "argentina",
-        "liveliness": "71",
-        "status": "offline",
+        "liveliness": "72",
+        "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -900,7 +886,7 @@
         "channel": "Sky Flix Movies",
         "link": "https://list.iptvcat.com/my_list/s/b45dd762494322ea2fb25c573677148a.m3u8",
         "country": "argentina",
-        "liveliness": "65",
+        "liveliness": "64",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
@@ -980,23 +966,23 @@
         ]
     },
     {
-        "id": "2690209",
+        "id": "2692669",
         "channel": "HD ART CINEMA",
-        "link": "https://list.iptvcat.com/my_list/s/d51be35dd4e825f311bbb2e723067c63.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/419cb585ca5432c57650dae8092af3de.m3u8",
         "country": "argentina",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "sd",
-        "mbps": "2521",
+        "mbps": "2529",
         "URI": [
             "s"
         ]
     },
     {
-        "id": "2692669",
+        "id": "2690209",
         "channel": "HD ART CINEMA",
-        "link": "https://list.iptvcat.com/my_list/s/419cb585ca5432c57650dae8092af3de.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/d51be35dd4e825f311bbb2e723067c63.m3u8",
         "country": "argentina",
         "liveliness": "100",
         "status": "online",
@@ -1050,20 +1036,6 @@
         ]
     },
     {
-        "id": "2690213",
-        "channel": "HD ROTANA CINEMA",
-        "link": "https://list.iptvcat.com/my_list/s/7987df53e10e50dcb2c21c8c814dcf3b.m3u8",
-        "country": "argentina",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "229",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2692640",
         "channel": "HD ROTANA CINEMA",
         "link": "https://list.iptvcat.com/my_list/s/c88ef2c7882b5bd05385372738b7119f.m3u8",
@@ -1073,6 +1045,20 @@
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2690213",
+        "channel": "HD ROTANA CINEMA",
+        "link": "https://list.iptvcat.com/my_list/s/7987df53e10e50dcb2c21c8c814dcf3b.m3u8",
+        "country": "argentina",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "229",
         "URI": [
             "s"
         ]
@@ -1124,9 +1110,9 @@
         "channel": "SHOOF MAX CINEMA 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/722d3ec8b2cddfc1c5bbfb4b1df437b6.m3u8",
         "country": "argentina",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2023-03-24T00:00:00Z",
+        "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1180,7 +1166,7 @@
         "channel": "NETFLIX DISNEY 1",
         "link": "https://list.iptvcat.com/my_list/s/07d814d9822b3915a51f2848cb99ab2e.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "67",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
@@ -1308,7 +1294,7 @@
         "country": "argentina",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-03-24T00:00:00Z",
+        "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1376,7 +1362,7 @@
         "channel": "NETFLIX DISNEY 1",
         "link": "https://list.iptvcat.com/my_list/s/07d814d9822b3915a51f2848cb99ab2e.m3u8",
         "country": "argentina",
-        "liveliness": "75",
+        "liveliness": "67",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
@@ -1406,7 +1392,7 @@
         "country": "argentina",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-03-24T00:00:00Z",
+        "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1448,7 +1434,7 @@
         "country": "argentina",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-03-24T00:00:00Z",
+        "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1516,7 +1502,7 @@
         "channel": "Netflix Drama",
         "link": "https://list.iptvcat.com/my_list/s/b0277b9fde74c9471fc95a48672a022c.m3u8",
         "country": "argentina",
-        "liveliness": "63",
+        "liveliness": "62",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "sd",
@@ -1530,7 +1516,7 @@
         "channel": "Netflix Horror",
         "link": "https://list.iptvcat.com/my_list/s/d25e78dfb0bb6e6eee32277f67442064.m3u8",
         "country": "argentina",
-        "liveliness": "64",
+        "liveliness": "63",
         "status": "offline",
         "lastChecked": "2023-03-25T00:00:00Z",
         "format": "hd",
