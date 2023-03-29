@@ -1,19 +1,5 @@
 [
     {
-        "id": "2593369",
-        "channel": "Rai Movie",
-        "link": "https://list.iptvcat.com/my_list/s/ba20d7cfdc17159840d04e4e2748d927.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2688213",
         "channel": "Rai Movie",
         "link": "https://list.iptvcat.com/my_list/s/d36c043f655fc04801585d0b5a143ee5.m3u8",
@@ -28,11 +14,25 @@
         ]
     },
     {
+        "id": "2593369",
+        "channel": "Rai Movie",
+        "link": "https://list.iptvcat.com/my_list/s/ba20d7cfdc17159840d04e4e2748d927.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-29T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2689252",
         "channel": "Rai Movie HD",
         "link": "https://list.iptvcat.com/my_list/s/bc05d9dc9f4aa3619cf071b03eeb978d.m3u8",
         "country": "italy",
-        "liveliness": "48",
+        "liveliness": "45",
         "status": "offline",
         "lastChecked": "2023-03-29T00:00:00Z",
         "format": "fhd 2k",
@@ -46,11 +46,11 @@
         "channel": "PREMIUM CINEMA ENERGY",
         "link": "https://list.iptvcat.com/my_list/s/a8dfd2733320411b1e17ef040a3d82d1.m3u8",
         "country": "italy",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2023-03-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2023-03-29T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "s"
         ]
@@ -74,9 +74,9 @@
         "channel": "Premium Cinema  24 HD",
         "link": "https://list.iptvcat.com/my_list/s/62d318eb173ad4a70da85c933fc7c6ca.m3u8",
         "country": "italy",
-        "liveliness": "52",
+        "liveliness": "53",
         "status": "online",
-        "lastChecked": "2023-03-28T00:00:00Z",
+        "lastChecked": "2023-03-29T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -102,8 +102,8 @@
         "channel": "Sky Cinema Family HD",
         "link": "https://list.iptvcat.com/my_list/s/2483420540fba4827fd6511268690a75.m3u8",
         "country": "italy",
-        "liveliness": "50",
-        "status": "online",
+        "liveliness": "48",
+        "status": "offline",
         "lastChecked": "2023-03-29T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
