@@ -298,11 +298,11 @@
         "channel": "Movistar Alquiler 5 FHD",
         "link": "https://list.iptvcat.com/my_list/s/64f35f8592b805d78221a618dba797ab.m3u8",
         "country": "spain",
-        "liveliness": "63",
-        "status": "offline",
+        "liveliness": "64",
+        "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "s"
         ]
@@ -452,9 +452,9 @@
         "channel": "Movistar Deportes 1 (Solo Eventos)",
         "link": "https://list.iptvcat.com/my_list/s/6b6a872c0b04401b526c963bd0319443.m3u8",
         "country": "spain",
-        "liveliness": "58",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
+        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -826,6 +826,20 @@
         ]
     },
     {
+        "id": "2688310",
+        "channel": "Movistar Series Mania SD",
+        "link": "https://list.iptvcat.com/my_list/s/ab343dc3724d5928b5ae4abb677b7594.m3u8",
+        "country": "spain",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
         "id": "2691291",
         "channel": "4K DISNEY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/7308f944acbdb84a52e75d2dd712ab18.m3u8",
@@ -849,34 +863,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2685245",
-        "channel": "DISNEY JR",
-        "link": "https://list.iptvcat.com/my_list/s/ddfb3646dcc9553c0ca8bba78f9eeab0.m3u8",
-        "country": "spain",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2685249",
-        "channel": "DISNEY XD",
-        "link": "https://list.iptvcat.com/my_list/s/72752c1a2995dab86f6b94db1d1ef1de.m3u8",
-        "country": "spain",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
         "URI": [
             "s"
         ]
@@ -961,20 +947,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
-        "id": "2685357",
-        "channel": "M. DISNEY",
-        "link": "https://list.iptvcat.com/my_list/s/85007d12dd91f75175181435862ae3f9.m3u8",
-        "country": "spain",
-        "liveliness": "54",
-        "status": "offline",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
         "URI": [
             "s"
         ]
