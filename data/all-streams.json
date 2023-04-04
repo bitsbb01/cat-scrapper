@@ -1689,7 +1689,7 @@
         "channel": "HD SKY SPORT 3",
         "link": "https://list.iptvcat.com/my_list/s/44a09d47d83d201227bd467404d244d6.m3u8",
         "country": "germany",
-        "liveliness": "41",
+        "liveliness": "40",
         "status": "offline",
         "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
@@ -3971,7 +3971,7 @@
         "channel": "HD STAR CINEMA 1",
         "link": "https://list.iptvcat.com/my_list/s/83e188371cb0734c187d522e932c7f24.m3u8",
         "country": "argentina",
-        "liveliness": "61",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2023-04-04T00:00:00Z",
         "format": "sd",
@@ -4947,20 +4947,6 @@
         ]
     },
     {
-        "id": "2687053",
-        "channel": "Movistar Deportes 1 (Solo Eventos)",
-        "link": "https://list.iptvcat.com/my_list/s/6b6a872c0b04401b526c963bd0319443.m3u8",
-        "country": "spain",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2023-04-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2689277",
         "channel": "Movistar Deportes 2 (Solo Eventos)",
         "link": "https://list.iptvcat.com/my_list/s/9854d9f887857635b094aeb2ea12e486.m3u8",
@@ -5360,6 +5346,20 @@
         "liveliness": "56",
         "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "s"
+        ]
+    },
+    {
+        "id": "2686275",
+        "channel": "Movistar Toros SD",
+        "link": "https://list.iptvcat.com/my_list/s/bce0d0591c2c93e6f4c7b6cb8c85360a.m3u8",
+        "country": "spain",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -7205,7 +7205,7 @@
         "channel": "HD STAR CINEMA 1",
         "link": "https://list.iptvcat.com/my_list/s/83e188371cb0734c187d522e932c7f24.m3u8",
         "country": "argentina",
-        "liveliness": "61",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2023-04-04T00:00:00Z",
         "format": "sd",
@@ -9652,20 +9652,6 @@
         ]
     },
     {
-        "id": "2693099",
-        "channel": "NETFLIX HORROR 3",
-        "link": "https://list.iptvcat.com/my_list/s/39c8d202bb1ae6fc8dd2204df36de939.m3u8",
-        "country": "argentina",
-        "liveliness": "56",
-        "status": "offline",
-        "lastChecked": "2023-04-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "s"
-        ]
-    },
-    {
         "id": "2693113",
         "channel": "NETFLIX INDIAN",
         "link": "https://list.iptvcat.com/my_list/s/22079d0813d3094e03de76b4d30db35a.m3u8",
@@ -9726,7 +9712,7 @@
         "channel": "NETFLIX TURCKISH 2",
         "link": "https://list.iptvcat.com/my_list/s/93eb626f339513568a7109fcc183242a.m3u8",
         "country": "argentina",
-        "liveliness": "76",
+        "liveliness": "72",
         "status": "offline",
         "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
@@ -11440,20 +11426,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5704",
-        "URI": [
-            "turkey__4"
-        ]
-    },
-    {
-        "id": "2590191",
-        "channel": "TURKUVAZ INFO",
-        "link": "https://list.iptvcat.com/my_list/s/f79e1d4df4f5e4da673996893617aa9d.m3u8",
-        "country": "turkey",
-        "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2023-04-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "4825",
         "URI": [
             "turkey__4"
         ]
